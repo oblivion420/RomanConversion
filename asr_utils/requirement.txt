@@ -1,0 +1,6 @@
+tqdm
+joblib
+xlrd==1.2.0
+pymysql
+xlsxwriter
+pandas

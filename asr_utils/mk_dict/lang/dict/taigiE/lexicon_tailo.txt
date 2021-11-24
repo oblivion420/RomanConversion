@@ -1,0 +1,4434 @@
+a1 a_1
+a2 a_4
+a3 a_3
+a7 a_7
+a9 a_9
+ah1 aʔ_1
+ah10 aʔ_10
+ah2 aʔ_4
+ah3 aʔ_3
+ah4 aʔ_6
+ah5 aʔ_2
+ah7 aʔ_7
+ah8 aʔ_8
+ai1 ai_1
+ai2 ai_4
+ai3 ai_3
+ai5 ai_2
+ai7 ai_7
+ai9 ai_9
+aih1 aiʔ_1
+aih10 aiʔ_10
+aih2 aiʔ_4
+aih3 aiʔ_3
+aih4 aiʔ_6
+aih7 aiʔ_7
+aih8 aiʔ_8
+aih9 aiʔ_9
+ainn1 ãi_1
+ainn2 ãi_4
+ainn3 ãi_3
+ainn7 ãi_7
+ak10 ak_10
+ak4 ak_6
+ak8 ak_8
+am1 am_1
+am2 am_4
+am3 am_3
+am5 am_2
+am7 am_7
+an1 an_1
+an2 an_4
+an3 an_3
+an5 an_2
+an7 an_7
+ang1 aŋ_1
+ang2 aŋ_4
+ang3 aŋ_3
+ang5 aŋ_2
+ang7 aŋ_7
+ang9 aŋ_9
+ann1 ã_1
+ann2 ã_4
+ann3 ã_3
+ann5 ã_2
+ann7 ã_7
+ann9 ã_9
+annh1 ãʔ_1
+annh2 ãʔ_4
+annh3 ãʔ_3
+annh4 ãʔ_6
+annh5 ãʔ_2
+annh7 ãʔ_7
+annh8 ãʔ_8
+annh9 ãʔ_9
+ap10 ap_10
+ap4 ap_6
+ap8 ap_8
+at10 at_10
+at4 at_6
+at8 at_8
+au1 au_1
+au2 au_4
+au3 au_3
+au5 au_2
+au7 au_7
+aunn1 ãu_1
+aunn2 ãu_4
+ba1 b a_1
+ba2 b a_4
+ba3 b a_3
+ba5 b a_2
+ba7 b a_7
+bah1 b aʔ_1
+bah2 b aʔ_4
+bah3 b aʔ_3
+bah4 b aʔ_6
+bah7 b aʔ_7
+bah8 b aʔ_8
+bai1 b ai_1
+bai2 b ai_4
+bai3 b ai_3
+bai5 b ai_2
+bai7 b ai_7
+bai9 b ai_9
+bak10 b ak_10
+bak4 b ak_6
+bak8 b ak_8
+bam3 b am_3
+bam5 b am_2
+bam7 b am_7
+ban1 b an_1
+ban2 b an_4
+ban3 b an_3
+ban5 b an_2
+ban7 b an_7
+bang1 b aŋ_1
+bang2 b aŋ_4
+bang3 b aŋ_3
+bang5 b aŋ_2
+bang7 b aŋ_7
+bang9 b aŋ_9
+bat10 b at_10
+bat4 b at_6
+bat8 b at_8
+bau1 b au_1
+bau2 b au_4
+bau3 b au_3
+bau7 b au_7
+bauh3 b auʔ_3
+bauh7 b auʔ_7
+bauh8 b auʔ_8
+be1 b e_1
+be2 b e_4
+be3 b e_3
+be5 b e_2
+be7 b e_7
+beh1 b eʔ_1
+beh2 b eʔ_4
+beh3 b eʔ_3
+beh4 b eʔ_6
+beh7 b eʔ_7
+beh8 b eʔ_8
+ber1 b ə_1
+ber2 b ə_4
+ber3 b ə_3
+ber5 b ə_2
+ber7 b ə_7
+berh1 b əʔ_1
+berh2 b əʔ_4
+berh4 b əʔ_6
+bi1 b i_1
+bi2 b i_4
+bi3 b i_3
+bi5 b i_2
+bi7 b i_7
+bian1 b i_1 en_1
+bian2 b i_4 en_4
+bian3 b i_3 en_3
+bian5 b i_2 en_2
+bian7 b i_7 en_7
+bian9 b i_9 en_9
+biang1 b i_1 aŋ_1
+biang7 b i_7 aŋ_7
+biat10 b i_10 et_10
+biat8 b i_8 et_8
+biau1 b i_1 au_1
+biau2 b i_4 au_4
+biau3 b i_3 au_3
+biau5 b i_2 au_2
+biau7 b i_7 au_7
+bih1 b iʔ_1
+bih2 b iʔ_4
+bih3 b iʔ_3
+bih4 b iʔ_6
+bih7 b iʔ_7
+bih8 b iʔ_8
+bik10 b ik_10
+bik8 b ik_8
+bin1 b in_1
+bin2 b in_4
+bin3 b in_3
+bin5 b in_2
+bin7 b in_7
+bing1 b iŋ_1
+bing2 b iŋ_4
+bing3 b iŋ_3
+bing5 b iŋ_2
+bing7 b iŋ_7
+bio1 b i_1 ə_1
+bio2 b i_4 ə_4
+bio3 b i_3 ə_3
+bio5 b i_2 ə_2
+bio7 b i_7 ə_7
+bit10 b it_10
+bit8 b it_8
+biu3 b i_3 u_3
+biu7 b i_7 u_7
+bo1 b ə_1
+bo2 b ə_4
+bo3 b ə_3
+bo5 b ə_2
+bo7 b ə_7
+boh1 b əʔ_1
+boh2 b əʔ_4
+boh3 b əʔ_3
+boh4 b əʔ_6
+boh7 b əʔ_7
+boh8 b əʔ_8
+bok10 b ɔk_10
+bok2 b ɔk_4
+bok4 b ɔk_6
+bok8 b ɔk_8
+bong1 b ɔŋ_1
+bong2 b ɔŋ_4
+bong3 b ɔŋ_3
+bong5 b ɔŋ_2
+bong7 b ɔŋ_7
+bong9 b ɔŋ_9
+boo1 b ɔ_1
+boo2 b ɔ_4
+boo3 b ɔ_3
+boo5 b ɔ_2
+boo7 b ɔ_7
+bu1 b u_1
+bu2 b u_4
+bu3 b u_3
+bu5 b u_2
+bu7 b u_7
+bua1 b u_1 a_1
+bua3 b u_3 a_3
+bua5 b u_2 a_2
+bua7 b u_7 a_7
+bua9 b u_9 a_9
+buah1 b u_1 aʔ_1
+buah2 b u_4 aʔ_4
+buah3 b u_3 aʔ_3
+buah4 b u_6 aʔ_6
+buah7 b u_7 aʔ_7
+buah8 b u_8 aʔ_8
+buai2 b u_4 ai_4
+buai3 b u_3 ai_3
+buai9 b u_9 ai_9
+buan1 b u_1 an_1
+buan2 b u_4 an_4
+buat10 b u_10 at_10
+buat8 b u_8 at_8
+buat9 b u_9 at_9
+bue1 b u_1 e_1
+bue2 b u_4 e_4
+bue3 b u_3 e_3
+bue5 b u_2 e_2
+bue7 b u_7 e_7
+bueh1 b u_1 eʔ_1
+bueh2 b u_4 eʔ_4
+bueh3 b u_3 eʔ_3
+bueh4 b u_6 eʔ_6
+bueh7 b u_7 eʔ_7
+bueh8 b u_8 eʔ_8
+buh1 b uʔ_1
+buh2 b uʔ_4
+buh4 b uʔ_6
+bui1 b u_1 i_1
+bui3 b u_3 i_3
+bui7 b u_7 i_7
+bun1 b un_1
+bun2 b un_4
+bun3 b un_3
+bun5 b un_2
+bun7 b un_7
+but10 b ut_10
+but4 b ut_6
+but8 b ut_8
+e1 e_1
+e2 e_4
+e3 e_3
+e5 e_2
+e7 e_7
+eh1 eʔ_1
+eh10 eʔ_10
+eh2 eʔ_4
+eh3 eʔ_3
+eh4 eʔ_6
+eh7 eʔ_7
+eh8 eʔ_8
+eh9 eʔ_9
+enn1 ẽ_1
+enn2 ẽ_4
+enn3 ẽ_3
+enn5 ẽ_2
+enn7 ẽ_7
+enn9 ẽ_9
+ennh1 ẽʔ_1
+ennh2 ẽʔ_4
+ennh3 ẽʔ_3
+ennh4 ẽʔ_6
+ennh5 ẽʔ_2
+ennh7 ẽʔ_7
+ennh8 ẽʔ_8
+ennh9 ẽʔ_9
+er1 ə_1
+er2 ə_4
+er3 ə_3
+er7 ə_7
+ga1 g a_1
+ga2 g a_4
+ga3 g a_3
+ga5 g a_2
+ga7 g a_7
+gai3 g ai_3
+gai5 g ai_2
+gai7 g ai_7
+gak10 g ak_10
+gak8 g ak_8
+gam1 g am_1
+gam2 g am_4
+gam3 g am_3
+gam5 g am_2
+gam7 g am_7
+gan1 g an_1
+gan2 g an_4
+gan3 g an_3
+gan5 g an_2
+gan7 g an_7
+gan9 g an_9
+gang1 g aŋ_1
+gang2 g aŋ_4
+gang3 g aŋ_3
+gang7 g aŋ_7
+gap8 g ap_8
+gat8 g at_8
+gau3 g au_3
+gau5 g au_2
+gau7 g au_7
+gauh3 g auʔ_3
+gauh7 g auʔ_7
+gauh8 g auʔ_8
+ge1 g e_1
+ge2 g e_4
+ge3 g e_3
+ge5 g e_2
+ge7 g e_7
+geh1 g eʔ_1
+geh2 g eʔ_4
+geh3 g eʔ_3
+geh4 g eʔ_6
+geh7 g eʔ_7
+geh8 g eʔ_8
+ger3 g ə_3
+ger7 g ə_7
+gerh3 g əʔ_3
+gerh7 g əʔ_7
+gerh8 g əʔ_8
+gi1 g i_1
+gi2 g i_4
+gi3 g i_3
+gi5 g i_2
+gi7 g i_7
+gia3 g i_3 a_3
+gia5 g i_2 a_2
+gia7 g i_7 a_7
+giah1 g i_1 aʔ_1
+giah2 g i_4 aʔ_4
+giah3 g i_3 aʔ_3
+giah4 g i_6 aʔ_6
+giah7 g i_7 aʔ_7
+giah8 g i_8 aʔ_8
+giak10 g i_10 ak_10
+giak4 g i_6 ak_6
+giak8 g i_8 ak_8
+giam1 g i_1 am_1
+giam2 g i_4 am_4
+giam3 g i_3 am_3
+giam5 g i_2 am_2
+giam7 g i_7 am_7
+gian1 g i_1 en_1
+gian2 g i_4 en_4
+gian3 g i_3 en_3
+gian5 g i_2 en_2
+gian7 g i_7 en_7
+giang1 g i_1 aŋ_1
+giang2 g i_4 aŋ_4
+giang3 g i_3 aŋ_3
+giang7 g i_7 aŋ_7
+giap10 g i_10 ap_10
+giap4 g i_6 ap_6
+giap8 g i_8 ap_8
+giat10 g i_10 et_10
+giat4 g i_6 et_6
+giat8 g i_8 et_8
+giau1 g i_1 au_1
+giau2 g i_4 au_4
+giau3 g i_3 au_3
+giau5 g i_2 au_2
+giau7 g i_7 au_7
+gih1 g iʔ_1
+gih2 g iʔ_4
+gih3 g iʔ_3
+gih4 g iʔ_6
+gih7 g iʔ_7
+gih8 g iʔ_8
+gik10 g ik_10
+gik4 g ik_6
+gik8 g ik_8
+gim1 g im_1
+gim2 g im_4
+gim3 g im_3
+gim5 g im_2
+gim7 g im_7
+gin1 g in_1
+gin2 g in_4
+gin3 g in_3
+gin5 g in_2
+gin7 g in_7
+ging1 g iŋ_1
+ging2 g iŋ_4
+ging3 g iŋ_3
+ging5 g iŋ_2
+ging7 g iŋ_7
+gio1 g i_1 ə_1
+gio2 g i_4 ə_4
+gio3 g i_3 ə_3
+gio5 g i_2 ə_2
+gio7 g i_7 ə_7
+gioh1 g i_1 əʔ_1
+gioh2 g i_4 əʔ_4
+gioh3 g i_3 əʔ_3
+gioh7 g i_7 əʔ_7
+gioh8 g i_8 əʔ_8
+giok10 g i_10 ɔk_10
+giok4 g i_6 ɔk_6
+giok8 g i_8 ɔk_8
+giong1 g i_1 ɔŋ_1
+giong2 g i_4 ɔŋ_4
+giong3 g i_3 ɔŋ_3
+giong7 g i_7 ɔŋ_7
+gioo1 g i_1 ɔ_1
+gioo2 g i_4 ɔ_4
+giooh1 g i_1 ɔʔ_1
+giooh2 g i_4 ɔʔ_4
+giooh4 g i_6 ɔʔ_6
+gip10 g ip_10
+gip4 g ip_6
+gip8 g ip_8
+gir1 g ɨ_1
+gir2 g ɨ_4
+gir3 g ɨ_3
+gir7 g ɨ_7
+girn3 g ɨn_3
+girn7 g ɨn_7
+git10 g it_10
+git8 g it_8
+giu1 g i_1 u_1
+giu2 g i_4 u_4
+giu3 g i_3 u_3
+giu5 g i_2 u_2
+giu7 g i_7 u_7
+giuh2 g i_4 uʔ_4
+giuh4 g i_6 uʔ_6
+go3 g ə_3
+go5 g ə_2
+go7 g ə_7
+gok10 g ɔk_10
+gok4 g ɔk_6
+gok8 g ɔk_8
+gong1 g ɔŋ_1
+gong2 g ɔŋ_4
+gong3 g ɔŋ_3
+gong5 g ɔŋ_2
+gong7 g ɔŋ_7
+goo1 g ɔ_1
+goo2 g ɔ_4
+goo3 g ɔ_3
+goo5 g ɔ_2
+goo7 g ɔ_7
+gooh1 g ɔʔ_1
+gooh2 g ɔʔ_4
+gooh4 g ɔʔ_6
+gu1 g u_1
+gu2 g u_4
+gu3 g u_3
+gu5 g u_2
+gu7 g u_7
+gua1 g u_1 a_1
+gua2 g u_4 a_4
+gua3 g u_3 a_3
+gua7 g u_7 a_7
+gua9 g u_9 a_9
+guan1 g u_1 an_1
+guan2 g u_4 an_4
+guan3 g u_3 an_3
+guan5 g u_2 an_2
+guan7 g u_7 an_7
+guat10 g u_10 at_10
+guat8 g u_8 at_8
+gue3 g u_3 e_3
+gue7 g u_7 e_7
+gueh3 g u_3 eʔ_3
+gueh7 g u_7 eʔ_7
+gueh8 g u_8 eʔ_8
+guh1 g uʔ_1
+guh2 g uʔ_4
+guh4 g uʔ_6
+gui3 g u_3 i_3
+gui5 g u_2 i_2
+gui7 g u_7 i_7
+gun1 g un_1
+gun2 g un_4
+gun3 g un_3
+gun5 g un_2
+gun7 g un_7
+gut10 g ut_10
+gut4 g ut_6
+gut8 g ut_8
+ha1 x a_1
+ha2 x a_4
+ha3 x a_3
+ha5 x a_2
+ha7 x a_7
+hah1 x aʔ_1
+hah2 x aʔ_4
+hah3 x aʔ_3
+hah4 x aʔ_6
+hah7 x aʔ_7
+hah8 x aʔ_8
+hai1 x ai_1
+hai2 x ai_4
+hai3 x ai_3
+hai5 x ai_2
+hai7 x ai_7
+hai9 x ai_9
+haih1 x aiʔ_1
+haih2 x aiʔ_4
+haih3 x aiʔ_3
+haih4 x aiʔ_6
+haih8 x aiʔ_8
+hainn1 x ãi_1
+hainn2 x ãi_4
+hainn3 x ãi_3
+hainn5 x ãi_2
+hainn7 x ãi_7
+hainnh1 x ãiʔ_1
+hainnh2 x ãiʔ_4
+hainnh4 x ãiʔ_6
+hak10 x ak_10
+hak4 x ak_6
+hak8 x ak_8
+ham1 x am_1
+ham2 x am_4
+ham3 x am_3
+ham5 x am_2
+ham7 x am_7
+ham9 x am_9
+han1 x an_1
+han2 x an_4
+han3 x an_3
+han5 x an_2
+han7 x an_7
+han9 x an_9
+hang1 x aŋ_1
+hang2 x aŋ_4
+hang3 x aŋ_3
+hang5 x aŋ_2
+hang7 x aŋ_7
+hang9 x aŋ_9
+hann1 x ã_1
+hann2 x ã_4
+hann3 x ã_3
+hann5 x ã_2
+hann7 x ã_7
+hann9 x ã_9
+hannh1 x ãʔ_1
+hannh2 x ãʔ_4
+hannh3 x ãʔ_3
+hannh4 x ãʔ_6
+hannh5 x ãʔ_2
+hannh7 x ãʔ_7
+hannh8 x ãʔ_8
+hannh9 x ãʔ_9
+hap1 x ap_1
+hap10 x ap_10
+hap4 x ap_6
+hap7 x ap_7
+hap8 x ap_8
+hat10 x at_10
+hat4 x at_6
+hat8 x at_8
+hau1 x au_1
+hau2 x au_4
+hau3 x au_3
+hau5 x au_2
+hau7 x au_7
+haunn1 x ãu_1
+haunn2 x ãu_4
+haunn3 x ãu_3
+haunn5 x ãu_2
+haunn7 x ãu_7
+haunnh3 x ãuʔ_3
+haunnh7 x ãuʔ_7
+haunnh8 x ãuʔ_8
+he1 x e_1
+he2 x e_4
+he3 x e_3
+he5 x e_2
+he7 x e_7
+hee7 x ε_7
+heh1 x eʔ_1
+heh2 x eʔ_4
+heh3 x eʔ_3
+heh4 x eʔ_6
+heh5 x eʔ_2
+heh7 x eʔ_7
+heh8 x eʔ_8
+heh9 x eʔ_9
+henn1 x ẽ_1
+henn3 x ẽ_3
+henn7 x ẽ_7
+hennh1 x ẽʔ_1
+hennh2 x ẽʔ_4
+hennh3 x ẽʔ_3
+hennh4 x ẽʔ_6
+hennh7 x ẽʔ_7
+hennh8 x ẽʔ_8
+hennh9 x ẽʔ_9
+her1 x ə_1
+her2 x ə_4
+her3 x ə_3
+hi1 x i_1
+hi2 x i_4
+hi3 x i_3
+hi5 x i_2
+hi7 x i_7
+hia1 x i_1 a_1
+hia3 x i_3 a_3
+hia5 x i_2 a_2
+hia7 x i_7 a_7
+hiah1 x i_1 aʔ_1
+hiah2 x i_4 aʔ_4
+hiah3 x i_3 aʔ_3
+hiah4 x i_6 aʔ_6
+hiah7 x i_7 aʔ_7
+hiah8 x i_8 aʔ_8
+hiam1 x i_1 am_1
+hiam2 x i_4 am_4
+hiam3 x i_3 am_3
+hiam5 x i_2 am_2
+hiam7 x i_7 am_7
+hian1 x i_1 en_1
+hian2 x i_4 en_4
+hian3 x i_3 en_3
+hian5 x i_2 en_2
+hian7 x i_7 en_7
+hian9 x i_9 en_9
+hiang1 x i_1 aŋ_1
+hiang2 x i_4 aŋ_4
+hiang3 x i_3 aŋ_3
+hiang7 x i_7 aŋ_7
+hiann1 x i_1 ã_1
+hiann2 x i_4 ã_4
+hiann3 x i_3 ã_3
+hiann5 x i_2 ã_2
+hiann7 x i_7 ã_7
+hiannh1 x i_1 ãʔ_1
+hiannh2 x i_4 ãʔ_4
+hiannh4 x i_6 ãʔ_6
+hiap10 x i_10 ap_10
+hiap8 x i_8 ap_8
+hiat10 x i_10 et_10
+hiat4 x i_6 et_6
+hiat8 x i_8 et_8
+hiau1 x i_1 au_1
+hiau2 x i_4 au_4
+hiau3 x i_3 au_3
+hiau5 x i_2 au_2
+hiau7 x i_7 au_7
+hiauh1 x i_1 auʔ_1
+hiauh2 x i_4 auʔ_4
+hiauh4 x i_6 auʔ_6
+hiaunnh1 x i_1 ãuʔ_1
+hiaunnh2 x i_4 ãuʔ_4
+hiaunnh4 x i_6 ãuʔ_6
+hih1 x iʔ_1
+hih2 x iʔ_4
+hih4 x iʔ_6
+hik10 x ik_10
+hik4 x ik_6
+hik8 x ik_8
+him1 x im_1
+him3 x im_3
+him5 x im_2
+him7 x im_7
+hin1 x in_1
+hin3 x in_3
+hin5 x in_2
+hin7 x in_7
+hing1 x iŋ_1
+hing2 x iŋ_4
+hing3 x iŋ_3
+hing5 x iŋ_2
+hing7 x iŋ_7
+hinn1 x ĩ_1
+hinn2 x ĩ_4
+hinn3 x ĩ_3
+hinn7 x ĩ_7
+hinnh1 x ĩʔ_1
+hinnh2 x ĩʔ_4
+hinnh3 x ĩʔ_3
+hinnh4 x ĩʔ_6
+hinnh7 x ĩʔ_7
+hinnh8 x ĩʔ_8
+hio1 x i_1 ə_1
+hio2 x i_4 ə_4
+hio3 x i_3 ə_3
+hio5 x i_2 ə_2
+hio7 x i_7 ə_7
+hioh1 x i_1 əʔ_1
+hioh10 x i_10 əʔ_10
+hioh2 x i_4 əʔ_4
+hioh3 x i_3 əʔ_3
+hioh4 x i_6 əʔ_6
+hioh7 x i_7 əʔ_7
+hioh8 x i_8 əʔ_8
+hiok4 x i_6 ɔk_6
+hiok8 x i_8 ɔk_8
+hiong1 x i_1 ɔŋ_1
+hiong2 x i_4 ɔŋ_4
+hiong3 x i_3 ɔŋ_3
+hiong5 x i_2 ɔŋ_2
+hiong7 x i_7 ɔŋ_7
+hionn1 x i_1 ɔ̃_1
+hionn2 x i_4 ɔ̃_4
+hionn7 x i_7 ɔ̃_7
+hiooh1 x i_1 ɔʔ_1
+hiooh2 x i_4 ɔʔ_4
+hiooh3 x i_3 ɔʔ_3
+hiooh4 x i_6 ɔʔ_6
+hiooh5 x i_2 ɔʔ_2
+hiooh7 x i_7 ɔʔ_7
+hiooh8 x i_8 ɔʔ_8
+hip4 x ip_6
+hip8 x ip_8
+hit10 x it_10
+hit4 x it_6
+hit8 x it_8
+hiu1 x i_1 u_1
+hiu2 x i_4 u_4
+hiu3 x i_3 u_3
+hiu5 x i_2 u_2
+hiu7 x i_7 u_7
+hiuh1 x i_1 uʔ_1
+hiuh2 x i_4 uʔ_4
+hiuh3 x i_3 uʔ_3
+hiuh4 x i_6 uʔ_6
+hiuh7 x i_7 uʔ_7
+hiuh8 x i_8 uʔ_8
+hiunn1 x i_1 ũ_1
+hiunn2 x i_4 ũ_4
+hiunn3 x i_3 ũ_3
+hiunn7 x i_7 ũ_7
+hiunnh3 x i_3 ũʔ_3
+hiunnh7 x i_7 ũʔ_7
+hiunnh8 x i_8 ũʔ_8
+hm1 x m̩_1
+hm2 x m̩_4
+hm3 x m̩_3
+hm5 x m̩_2
+hm7 x m̩_7
+hm9 x m̩_9
+hmh1 x m̩ʔ_1
+hmh2 x m̩ʔ_4
+hmh3 x m̩ʔ_3
+hmh4 x m̩ʔ_6
+hmh7 x m̩ʔ_7
+hmh8 x m̩ʔ_8
+hng1 x ŋ̩_1
+hng2 x ŋ̩_4
+hng3 x ŋ̩_3
+hng5 x ŋ̩_2
+hng7 x ŋ̩_7
+hng9 x ŋ̩_9
+hngh1 x ŋ̩ʔ_1
+hngh2 x ŋ̩ʔ_4
+hngh3 x ŋ̩ʔ_3
+hngh4 x ŋ̩ʔ_6
+hngh7 x ŋ̩ʔ_7
+hngh8 x ŋ̩ʔ_8
+ho1 x ə_1
+ho2 x ə_4
+ho3 x ə_3
+ho5 x ə_2
+ho7 x ə_7
+hoh1 x əʔ_1
+hoh2 x əʔ_4
+hoh3 x əʔ_3
+hoh4 x əʔ_6
+hoh7 x əʔ_7
+hoh8 x əʔ_8
+hok10 x ɔk_10
+hok4 x ɔk_6
+hok8 x ɔk_8
+hong1 x ɔŋ_1
+hong2 x ɔŋ_4
+hong3 x ɔŋ_3
+hong5 x ɔŋ_2
+hong7 x ɔŋ_7
+hong9 x ɔŋ_9
+honn1 x ɔ̃_1
+honn2 x ɔ̃_4
+honn3 x ɔ̃_3
+honn5 x ɔ̃_2
+honn7 x ɔ̃_7
+honn9 x ɔ̃_9
+honnh1 x ɔ̃ʔ_1
+honnh10 x ɔ̃ʔ_10
+honnh2 x ɔ̃ʔ_4
+honnh3 x ɔ̃ʔ_3
+honnh4 x ɔ̃ʔ_6
+honnh5 x ɔ̃ʔ_2
+honnh7 x ɔ̃ʔ_7
+honnh8 x ɔ̃ʔ_8
+hoo1 x ɔ_1
+hoo2 x ɔ_4
+hoo3 x ɔ_3
+hoo5 x ɔ_2
+hoo7 x ɔ_7
+hoo9 x ɔ_9
+hooh1 x ɔʔ_1
+hooh2 x ɔʔ_4
+hooh3 x ɔʔ_3
+hooh4 x ɔʔ_6
+hooh5 x ɔʔ_2
+hooh8 x ɔʔ_8
+hop10 x ɔp_10
+hop4 x ɔp_6
+hop8 x ɔp_8
+hu1 x u_1
+hu2 x u_4
+hu3 x u_3
+hu5 x u_2
+hu7 x u_7
+hua1 x u_1 a_1
+hua2 x u_4 a_4
+hua3 x u_3 a_3
+hua5 x u_2 a_2
+hua7 x u_7 a_7
+hua9 x u_9 a_9
+huah1 x u_1 aʔ_1
+huah2 x u_4 aʔ_4
+huah3 x u_3 aʔ_3
+huah4 x u_6 aʔ_6
+huah7 x u_7 aʔ_7
+huah8 x u_8 aʔ_8
+huai1 x u_1 ai_1
+huai3 x u_3 ai_3
+huai5 x u_2 ai_2
+huai7 x u_7 ai_7
+huainn1 x u_1 ãi_1
+huainn3 x u_3 ãi_3
+huainn5 x u_2 ãi_2
+huainn7 x u_7 ãi_7
+huainnh1 x u_1 ãiʔ_1
+huainnh2 x u_4 ãiʔ_4
+huainnh3 x u_3 ãiʔ_3
+huainnh4 x u_6 ãiʔ_6
+huainnh7 x u_7 ãiʔ_7
+huainnh8 x u_8 ãiʔ_8
+huan1 x u_1 an_1
+huan2 x u_4 an_4
+huan3 x u_3 an_3
+huan5 x u_2 an_2
+huan7 x u_7 an_7
+huang3 x u_3 aŋ_3
+huang7 x u_7 aŋ_7
+huann1 x u_1 ã_1
+huann2 x u_4 ã_4
+huann3 x u_3 ã_3
+huann5 x u_2 ã_2
+huann7 x u_7 ã_7
+huannh1 x u_1 ãʔ_1
+huannh2 x u_4 ãʔ_4
+huannh4 x u_6 ãʔ_6
+huat10 x u_10 at_10
+huat4 x u_6 at_6
+huat8 x u_8 at_8
+hue1 x u_1 e_1
+hue2 x u_4 e_4
+hue3 x u_3 e_3
+hue5 x u_2 e_2
+hue7 x u_7 e_7
+hueh1 x u_1 eʔ_1
+hueh2 x u_4 eʔ_4
+hueh4 x u_6 eʔ_6
+huenn3 x u_3 ẽ_3
+huenn5 x u_2 ẽ_2
+huenn7 x u_7 ẽ_7
+huh1 x uʔ_1
+huh2 x uʔ_4
+huh4 x uʔ_6
+hui1 x u_1 i_1
+hui2 x u_4 i_4
+hui3 x u_3 i_3
+hui5 x u_2 i_2
+hui7 x u_7 i_7
+hui9 x u_9 i_9
+huih1 x u_1 iʔ_1
+huih2 x u_4 iʔ_4
+huih4 x u_6 iʔ_6
+huinn1 x u_1 ĩ_1
+huinn3 x u_3 ĩ_3
+huinn5 x u_2 ĩ_2
+huinn7 x u_7 ĩ_7
+hun1 x un_1
+hun2 x un_4
+hun3 x un_3
+hun5 x un_2
+hun7 x un_7
+hut10 x ut_10
+hut4 x ut_6
+hut8 x ut_8
+i1 i_1
+i2 i_4
+i3 i_3
+i5 i_2
+i7 i_7
+i9 i_9
+ia1 i_1 a_1
+ia2 i_4 a_4
+ia3 i_3 a_3
+ia5 i_2 a_2
+ia7 i_7 a_7
+ia9 i_9 a_9
+iah1 i_1 aʔ_1
+iah2 i_4 aʔ_4
+iah3 i_3 aʔ_3
+iah4 i_6 aʔ_6
+iah7 i_7 aʔ_7
+iah8 i_8 aʔ_8
+iak10 i_10 ak_10
+iak4 i_6 ak_6
+iak8 i_8 ak_8
+iam1 i_1 am_1
+iam2 i_4 am_4
+iam3 i_3 am_3
+iam5 i_2 am_2
+iam7 i_7 am_7
+ian1 i_1 en_1
+ian2 i_4 en_4
+ian3 i_3 en_3
+ian5 i_2 en_2
+ian7 i_7 en_7
+ian9 i_9 en_9
+iang1 i_1 aŋ_1
+iang2 i_4 aŋ_4
+iang3 i_3 aŋ_3
+iang5 i_2 aŋ_2
+iang7 i_7 aŋ_7
+iann1 i_1 ã_1
+iann2 i_4 ã_4
+iann3 i_3 ã_3
+iann5 i_2 ã_2
+iann7 i_7 ã_7
+iap10 i_10 ap_10
+iap4 i_6 ap_6
+iap8 i_8 ap_8
+iat10 i_10 et_10
+iat4 i_6 et_6
+iat8 i_8 et_8
+iau1 i_1 au_1
+iau2 i_4 au_4
+iau3 i_3 au_3
+iau5 i_2 au_2
+iau7 i_7 au_7
+iaunn1 i_1 ãu_1
+iaunn7 i_7 ãu_7
+ih3 iʔ_3
+ih7 iʔ_7
+ih8 iʔ_8
+ik10 ik_10
+ik4 ik_6
+ik8 ik_8
+im1 im_1
+im2 im_4
+im3 im_3
+im5 im_2
+im7 im_7
+in1 in_1
+in2 in_4
+in3 in_3
+in5 in_2
+in7 in_7
+ing1 iŋ_1
+ing2 iŋ_4
+ing3 iŋ_3
+ing5 iŋ_2
+ing7 iŋ_7
+ing9 iŋ_9
+inn1 ĩ_1
+inn2 ĩ_4
+inn3 ĩ_3
+inn5 ĩ_2
+inn7 ĩ_7
+innh1 ĩʔ_1
+innh2 ĩʔ_4
+innh3 ĩʔ_3
+innh4 ĩʔ_6
+innh7 ĩʔ_7
+io1 i_1 ə_1
+io2 i_4 ə_4
+io3 i_3 ə_3
+io5 i_2 ə_2
+io7 i_7 ə_7
+io9 i_9 ə_9
+ioh1 i_1 əʔ_1
+ioh10 i_10 əʔ_10
+ioh2 i_4 əʔ_4
+ioh3 i_3 əʔ_3
+ioh4 i_6 əʔ_6
+ioh7 i_7 əʔ_7
+ioh8 i_8 əʔ_8
+ioh9 i_9 əʔ_9
+iok10 i_10 ɔk_10
+iok4 i_6 ɔk_6
+iok8 i_8 ɔk_8
+iong1 i_1 ɔŋ_1
+iong2 i_4 ɔŋ_4
+iong3 i_3 ɔŋ_3
+iong5 i_2 ɔŋ_2
+iong7 i_7 ɔŋ_7
+iong9 i_9 ɔŋ_9
+ionn3 i_3 ɔ̃_3
+ionn5 i_2 ɔ̃_2
+ionn7 i_7 ɔ̃_7
+ioo1 i_1 ɔ_1
+iooh1 i_1 ɔʔ_1
+iooh2 i_4 ɔʔ_4
+iooh3 i_3 ɔʔ_3
+iooh4 i_6 ɔʔ_6
+iooh5 i_2 ɔʔ_2
+iooh7 i_7 ɔʔ_7
+ip10 ip_10
+ip4 ip_6
+ip8 ip_8
+it10 it_10
+it2 it_4
+it4 it_6
+it8 it_8
+iu1 i_1 u_1
+iu2 i_4 u_4
+iu3 i_3 u_3
+iu5 i_2 u_2
+iu7 i_7 u_7
+iunn1 i_1 ũ_1
+iunn2 i_4 ũ_4
+iunn3 i_3 ũ_3
+iunn5 i_2 ũ_2
+iunn7 i_7 ũ_7
+ja2 dz a_4
+ja7 dz a_7
+je3 dz e_3
+je5 dz e_2
+je7 dz e_7
+ji1 dz i_1
+ji2 dz i_4
+ji3 dz i_3
+ji5 dz i_2
+ji7 dz i_7
+jia1 dz i_1 a_1
+jia2 dz i_4 a_4
+jia3 dz i_3 a_3
+jia7 dz i_7 a_7
+jiah1 dz i_1 aʔ_1
+jiah2 dz i_4 aʔ_4
+jiah4 dz i_6 aʔ_6
+jiak10 dz i_10 ak_10
+jiak8 dz i_8 ak_8
+jiam1 dz i_1 am_1
+jiam2 dz i_4 am_4
+jiam3 dz i_3 am_3
+jiam5 dz i_2 am_2
+jiam7 dz i_7 am_7
+jian1 dz i_1 en_1
+jian2 dz i_4 en_4
+jian3 dz i_3 en_3
+jian5 dz i_2 en_2
+jian7 dz i_7 en_7
+jiang1 dz i_1 aŋ_1
+jiang2 dz i_4 aŋ_4
+jiang3 dz i_3 aŋ_3
+jiang7 dz i_7 aŋ_7
+jiang9 dz i_9 aŋ_9
+jiap10 dz i_10 ap_10
+jiap4 dz i_6 ap_6
+jiap8 dz i_8 ap_8
+jiat10 dz i_10 et_10
+jiat8 dz i_8 et_8
+jiau1 dz i_1 au_1
+jiau2 dz i_4 au_4
+jiau3 dz i_3 au_3
+jiau5 dz i_2 au_2
+jiau7 dz i_7 au_7
+jih1 dz iʔ_1
+jih2 dz iʔ_4
+jih3 dz iʔ_3
+jih4 dz iʔ_6
+jih7 dz iʔ_7
+jih8 dz iʔ_8
+jik4 dz ik_6
+jik8 dz ik_8
+jim1 dz im_1
+jim2 dz im_4
+jim3 dz im_3
+jim5 dz im_2
+jim7 dz im_7
+jin1 dz in_1
+jin2 dz in_4
+jin3 dz in_3
+jin5 dz in_2
+jin7 dz in_7
+jin9 dz in_9
+jing3 dz iŋ_3
+jing5 dz iŋ_2
+jing7 dz iŋ_7
+jinn1 dz ĩ_1
+jinn2 dz ĩ_4
+jio1 dz i_1 ə_1
+jio3 dz i_3 ə_3
+jio7 dz i_7 ə_7
+jiok10 dz i_10 ɔk_10
+jiok4 dz i_6 ɔk_6
+jiok8 dz i_8 ɔk_8
+jiong1 dz i_1 ɔŋ_1
+jiong2 dz i_4 ɔŋ_4
+jiong3 dz i_3 ɔŋ_3
+jiong5 dz i_2 ɔŋ_2
+jiong7 dz i_7 ɔŋ_7
+jioo1 dz i_1 ɔ_1
+jioo2 dz i_4 ɔ_4
+jip10 dz ip_10
+jip4 dz ip_6
+jip8 dz ip_8
+jit10 dz it_10
+jit8 dz it_8
+jiu1 dz i_1 u_1
+jiu2 dz i_4 u_4
+jiu3 dz i_3 u_3
+jiu5 dz i_2 u_2
+jiu7 dz i_7 u_7
+ju1 dz u_1
+ju2 dz u_4
+ju3 dz u_3
+ju5 dz u_2
+ju7 dz u_7
+jua3 dz u_3 a_3
+jua7 dz u_7 a_7
+jua9 dz u_9 a_9
+juah3 dz u_3 aʔ_3
+juah7 dz u_7 aʔ_7
+juah8 dz u_8 aʔ_8
+juan1 dz u_1 an_1
+jue3 dz u_3 e_3
+jue5 dz u_2 e_2
+jue7 dz u_7 e_7
+juh1 dz uʔ_1
+juh2 dz uʔ_4
+juh4 dz uʔ_6
+jun3 dz un_3
+jun7 dz un_7
+ka1 k a_1
+ka2 k a_4
+ka3 k a_3
+ka7 k a_7
+ka9 k a_9
+kah1 k aʔ_1
+kah2 k aʔ_4
+kah3 k aʔ_3
+kah4 k aʔ_6
+kah7 k aʔ_7
+kah8 k aʔ_8
+kai1 k ai_1
+kai2 k ai_4
+kai3 k ai_3
+kai5 k ai_2
+kai7 k ai_7
+kai9 k ai_9
+kainn1 k ãi_1
+kainn2 k ãi_4
+kainn3 k ãi_3
+kainn5 k ãi_2
+kainn7 k ãi_7
+kak10 k ak_10
+kak4 k ak_6
+kak8 k ak_8
+kam1 k am_1
+kam2 k am_4
+kam3 k am_3
+kam5 k am_2
+kam7 k am_7
+kan1 k an_1
+kan2 k an_4
+kan3 k an_3
+kan7 k an_7
+kan9 k an_9
+kang1 k aŋ_1
+kang2 k aŋ_4
+kang3 k aŋ_3
+kang5 k aŋ_2
+kang7 k aŋ_7
+kang9 k aŋ_9
+kann1 k ã_1
+kann2 k ã_4
+kann3 k ã_3
+kann5 k ã_2
+kann7 k ã_7
+kann9 k ã_9
+kap10 k ap_10
+kap4 k ap_6
+kap8 k ap_8
+kat4 k at_6
+kat8 k at_8
+kau1 k au_1
+kau2 k au_4
+kau3 k au_3
+kau5 k au_2
+kau7 k au_7
+kauh1 k auʔ_1
+kauh2 k auʔ_4
+kauh3 k auʔ_3
+kauh4 k auʔ_6
+kauh7 k auʔ_7
+kauh8 k auʔ_8
+ke1 k e_1
+ke2 k e_4
+ke3 k e_3
+ke5 k e_2
+ke7 k e_7
+keh1 k eʔ_1
+keh2 k eʔ_4
+keh3 k eʔ_3
+keh4 k eʔ_6
+keh7 k eʔ_7
+keh8 k eʔ_8
+kenn1 k ẽ_1
+kenn2 k ẽ_4
+kenn3 k ẽ_3
+kenn7 k ẽ_7
+ker1 k ə_1
+ker2 k ə_4
+ker3 k ə_3
+kha1 kʰ a_1
+kha2 kʰ a_4
+kha3 kʰ a_3
+kha7 kʰ a_7
+kha9 kʰ a_9
+khah1 kʰ aʔ_1
+khah2 kʰ aʔ_4
+khah3 kʰ aʔ_3
+khah4 kʰ aʔ_6
+khah7 kʰ aʔ_7
+khah8 kʰ aʔ_8
+khai1 kʰ ai_1
+khai2 kʰ ai_4
+khai3 kʰ ai_3
+khai7 kʰ ai_7
+khaih1 kʰ aiʔ_1
+khaih2 kʰ aiʔ_4
+khaih4 kʰ aiʔ_6
+khainn1 kʰ ãi_1
+khainn2 kʰ ãi_4
+khainn7 kʰ ãi_7
+khak1 kʰ ak_1
+khak10 kʰ ak_10
+khak4 kʰ ak_6
+khak7 kʰ ak_7
+khak8 kʰ ak_8
+kham1 kʰ am_1
+kham2 kʰ am_4
+kham3 kʰ am_3
+kham5 kʰ am_2
+kham7 kʰ am_7
+khan1 kʰ an_1
+khan2 kʰ an_4
+khan3 kʰ an_3
+khan7 kʰ an_7
+khan9 kʰ an_9
+khang1 kʰ aŋ_1
+khang2 kʰ aŋ_4
+khang3 kʰ aŋ_3
+khang7 kʰ aŋ_7
+khang9 kʰ aŋ_9
+khann1 kʰ ã_1
+khann3 kʰ ã_3
+khann5 kʰ ã_2
+khann7 kʰ ã_7
+khap10 kʰ ap_10
+khap4 kʰ ap_6
+khap8 kʰ ap_8
+khat10 kʰ at_10
+khat4 kʰ at_6
+khat8 kʰ at_8
+khau1 kʰ au_1
+khau2 kʰ au_4
+khau3 kʰ au_3
+khau7 kʰ au_7
+khau9 kʰ au_9
+khauh1 kʰ auʔ_1
+khauh2 kʰ auʔ_4
+khauh3 kʰ auʔ_3
+khauh4 kʰ auʔ_6
+khauh7 kʰ auʔ_7
+khauh8 kʰ auʔ_8
+khaunnh3 kʰ ãuʔ_3
+khaunnh7 kʰ ãuʔ_7
+khaunnh8 kʰ ãuʔ_8
+khe1 kʰ e_1
+khe2 kʰ e_4
+khe3 kʰ e_3
+khe5 kʰ e_2
+khe7 kʰ e_7
+kheh1 kʰ eʔ_1
+kheh2 kʰ eʔ_4
+kheh3 kʰ eʔ_3
+kheh4 kʰ eʔ_6
+kheh7 kʰ eʔ_7
+kheh8 kʰ eʔ_8
+khenn1 kʰ ẽ_1
+khenn2 kʰ ẽ_4
+khenn3 kʰ ẽ_3
+khenn7 kʰ ẽ_7
+khennh1 kʰ ẽʔ_1
+khennh2 kʰ ẽʔ_4
+khennh3 kʰ ẽʔ_3
+khennh7 kʰ ẽʔ_7
+khennh8 kʰ ẽʔ_8
+kher2 kʰ ə_4
+kher3 kʰ ə_3
+khi1 kʰ i_1
+khi2 kʰ i_4
+khi3 kʰ i_3
+khi5 kʰ i_2
+khi7 kʰ i_7
+khia1 kʰ i_1 a_1
+khia3 kʰ i_3 a_3
+khia5 kʰ i_2 a_2
+khia7 kʰ i_7 a_7
+khiah1 kʰ i_1 aʔ_1
+khiah2 kʰ i_4 aʔ_4
+khiah4 kʰ i_6 aʔ_6
+khiaih1 kʰ i_1 aiʔ_1
+khiaih2 kʰ i_4 aiʔ_4
+khiaih4 kʰ i_6 aiʔ_6
+khiak10 kʰ i_10 ak_10
+khiak4 kʰ i_6 ak_6
+khiak8 kʰ i_8 ak_8
+khiam1 kʰ i_1 am_1
+khiam2 kʰ i_4 am_4
+khiam3 kʰ i_3 am_3
+khiam5 kʰ i_2 am_2
+khiam7 kʰ i_7 am_7
+khian1 kʰ i_1 en_1
+khian2 kʰ i_4 en_4
+khian3 kʰ i_3 en_3
+khian5 kʰ i_2 en_2
+khian7 kʰ i_7 en_7
+khiang1 kʰ i_1 aŋ_1
+khiang2 kʰ i_4 aŋ_4
+khiang3 kʰ i_3 aŋ_3
+khiang7 kʰ i_7 aŋ_7
+khiann1 kʰ i_1 ã_1
+khiann2 kʰ i_4 ã_4
+khiann7 kʰ i_7 ã_7
+khiap4 kʰ i_6 ap_6
+khiap8 kʰ i_8 ap_8
+khiat10 kʰ i_10 et_10
+khiat4 kʰ i_6 et_6
+khiat8 kʰ i_8 et_8
+khiau1 kʰ i_1 au_1
+khiau2 kʰ i_4 au_4
+khiau3 kʰ i_3 au_3
+khiau5 kʰ i_2 au_2
+khiau7 kʰ i_7 au_7
+khiauh1 kʰ i_1 auʔ_1
+khiauh2 kʰ i_4 auʔ_4
+khiauh3 kʰ i_3 auʔ_3
+khiauh4 kʰ i_6 auʔ_6
+khiauh7 kʰ i_7 auʔ_7
+khiauh8 kʰ i_8 auʔ_8
+khiaunnh1 kʰ i_1 ãuʔ_1
+khiaunnh2 kʰ i_4 ãuʔ_4
+khiaunnh4 kʰ i_6 ãuʔ_6
+khih1 kʰ iʔ_1
+khih2 kʰ iʔ_4
+khih3 kʰ iʔ_3
+khih4 kʰ iʔ_6
+khih7 kʰ iʔ_7
+khih8 kʰ iʔ_8
+khik10 kʰ ik_10
+khik4 kʰ ik_6
+khik8 kʰ ik_8
+khim1 kʰ im_1
+khim2 kʰ im_4
+khim3 kʰ im_3
+khim5 kʰ im_2
+khim7 kʰ im_7
+khin1 kʰ in_1
+khin2 kʰ in_4
+khin3 kʰ in_3
+khin5 kʰ in_2
+khin7 kʰ in_7
+khing1 kʰ iŋ_1
+khing2 kʰ iŋ_4
+khing3 kʰ iŋ_3
+khing5 kʰ iŋ_2
+khing7 kʰ iŋ_7
+khinn1 kʰ ĩ_1
+khinn3 kʰ ĩ_3
+khinn5 kʰ ĩ_2
+khinn7 kʰ ĩ_7
+khio1 kʰ i_1 ə_1
+khio2 kʰ i_4 ə_4
+khio3 kʰ i_3 ə_3
+khioh1 kʰ i_1 əʔ_1
+khioh2 kʰ i_4 əʔ_4
+khioh4 kʰ i_6 əʔ_6
+khiok4 kʰ i_6 ɔk_6
+khiok8 kʰ i_8 ɔk_8
+khiong1 kʰ i_1 ɔŋ_1
+khiong2 kʰ i_4 ɔŋ_4
+khiong3 kʰ i_3 ɔŋ_3
+khiong5 kʰ i_2 ɔŋ_2
+khiong7 kʰ i_7 ɔŋ_7
+khip10 kʰ ip_10
+khip4 kʰ ip_6
+khip8 kʰ ip_8
+khir2 kʰ ɨ_4
+khir3 kʰ ɨ_3
+khit10 kʰ it_10
+khit4 kʰ it_6
+khit7 kʰ it_7
+khit8 kʰ it_8
+khiu1 kʰ i_1 u_1
+khiu2 kʰ i_4 u_4
+khiu3 kʰ i_3 u_3
+khiu5 kʰ i_2 u_2
+khiu7 kʰ i_7 u_7
+khiu9 kʰ i_9 u_9
+khiuh1 kʰ i_1 uʔ_1
+khiuh2 kʰ i_4 uʔ_4
+khiuh3 kʰ i_3 uʔ_3
+khiuh4 kʰ i_6 uʔ_6
+khiuh7 kʰ i_7 uʔ_7
+khiuh8 kʰ i_8 uʔ_8
+khiunn1 kʰ i_1 ũ_1
+khiunn3 kʰ i_3 ũ_3
+khiunn7 kʰ i_7 ũ_7
+khng1 kʰ ŋ̩_1
+khng2 kʰ ŋ̩_4
+khng3 kʰ ŋ̩_3
+khng7 kʰ ŋ̩_7
+khngh1 kʰ ŋ̩ʔ_1
+khngh2 kʰ ŋ̩ʔ_4
+khngh3 kʰ ŋ̩ʔ_3
+khngh4 kʰ ŋ̩ʔ_6
+khngh7 kʰ ŋ̩ʔ_7
+khngh8 kʰ ŋ̩ʔ_8
+kho1 kʰ ə_1
+kho2 kʰ ə_4
+kho3 kʰ ə_3
+kho5 kʰ ə_2
+kho7 kʰ ə_7
+khoh1 kʰ əʔ_1
+khoh2 kʰ əʔ_4
+khok10 kʰ ɔk_10
+khok4 kʰ ɔk_6
+khok8 kʰ ɔk_8
+khong1 kʰ ɔŋ_1
+khong2 kʰ ɔŋ_4
+khong3 kʰ ɔŋ_3
+khong7 kʰ ɔŋ_7
+khonn1 kʰ ɔ̃_1
+khonn2 kʰ ɔ̃_4
+khoo1 kʰ ɔ_1
+khoo2 kʰ ɔ_4
+khoo3 kʰ ɔ_3
+khoo7 kʰ ɔ_7
+khoo9 kʰ ɔ_9
+khooh1 kʰ ɔʔ_1
+khooh2 kʰ ɔʔ_4
+khooh4 kʰ ɔʔ_6
+khu1 kʰ u_1
+khu2 kʰ u_4
+khu3 kʰ u_3
+khu5 kʰ u_2
+khu7 kʰ u_7
+khua1 kʰ u_1 a_1
+khua2 kʰ u_4 a_4
+khua3 kʰ u_3 a_3
+khua7 kʰ u_7 a_7
+khuah1 kʰ u_1 aʔ_1
+khuah2 kʰ u_4 aʔ_4
+khuah4 kʰ u_6 aʔ_6
+khuai1 kʰ u_1 ai_1
+khuai2 kʰ u_4 ai_4
+khuai3 kʰ u_3 ai_3
+khuainn2 kʰ u_4 ãi_4
+khuainn3 kʰ u_3 ãi_3
+khuainn5 kʰ u_2 ãi_2
+khuainn7 kʰ u_7 ãi_7
+khuainn9 kʰ u_9 ãi_9
+khuainnh1 kʰ u_1 ãiʔ_1
+khuainnh2 kʰ u_4 ãiʔ_4
+khuainnh4 kʰ u_6 ãiʔ_6
+khuan1 kʰ u_1 an_1
+khuan2 kʰ u_4 an_4
+khuan3 kʰ u_3 an_3
+khuan5 kʰ u_2 an_2
+khuan7 kʰ u_7 an_7
+khuann1 kʰ u_1 ã_1
+khuann2 kʰ u_4 ã_4
+khuann3 kʰ u_3 ã_3
+khuann7 kʰ u_7 ã_7
+khuann9 kʰ u_9 ã_9
+khuat4 kʰ u_6 at_6
+khuat8 kʰ u_8 at_8
+khue1 kʰ u_1 e_1
+khue2 kʰ u_4 e_4
+khue3 kʰ u_3 e_3
+khue5 kʰ u_2 e_2
+khue7 kʰ u_7 e_7
+khueh1 kʰ u_1 eʔ_1
+khueh2 kʰ u_4 eʔ_4
+khueh3 kʰ u_3 eʔ_3
+khueh4 kʰ u_6 eʔ_6
+khueh7 kʰ u_7 eʔ_7
+khueh8 kʰ u_8 eʔ_8
+khuh1 kʰ uʔ_1
+khuh2 kʰ uʔ_4
+khuh4 kʰ uʔ_6
+khui1 kʰ u_1 i_1
+khui2 kʰ u_4 i_4
+khui3 kʰ u_3 i_3
+khui7 kʰ u_7 i_7
+khui9 kʰ u_9 i_9
+khuinn2 kʰ u_4 ĩ_4
+khuinn3 kʰ u_3 ĩ_3
+khun1 kʰ un_1
+khun2 kʰ un_4
+khun3 kʰ un_3
+khun5 kʰ un_2
+khun7 kʰ un_7
+khut10 kʰ ut_10
+khut4 kʰ ut_6
+khut8 kʰ ut_8
+ki1 k i_1
+ki2 k i_4
+ki3 k i_3
+ki5 k i_2
+ki7 k i_7
+kia1 k i_1 a_1
+kia2 k i_4 a_4
+kia3 k i_3 a_3
+kia5 k i_2 a_2
+kia7 k i_7 a_7
+kiah1 k i_1 aʔ_1
+kiah2 k i_4 aʔ_4
+kiah3 k i_3 aʔ_3
+kiah4 k i_6 aʔ_6
+kiah7 k i_7 aʔ_7
+kiah8 k i_8 aʔ_8
+kiak10 k i_10 ak_10
+kiak8 k i_8 ak_8
+kiam1 k i_1 am_1
+kiam2 k i_4 am_4
+kiam3 k i_3 am_3
+kiam5 k i_2 am_2
+kiam7 k i_7 am_7
+kian1 k i_1 en_1
+kian2 k i_4 en_4
+kian3 k i_3 en_3
+kian5 k i_2 en_2
+kian7 k i_7 en_7
+kiang1 k i_1 aŋ_1
+kiang2 k i_4 aŋ_4
+kiang3 k i_3 aŋ_3
+kiang5 k i_2 aŋ_2
+kiang7 k i_7 aŋ_7
+kiann1 k i_1 ã_1
+kiann2 k i_4 ã_4
+kiann3 k i_3 ã_3
+kiann5 k i_2 ã_2
+kiann7 k i_7 ã_7
+kiann9 k i_9 ã_9
+kiap10 k i_10 ap_10
+kiap4 k i_6 ap_6
+kiap8 k i_8 ap_8
+kiat10 k i_10 et_10
+kiat4 k i_6 et_6
+kiat8 k i_8 et_8
+kiau1 k i_1 au_1
+kiau2 k i_4 au_4
+kiau3 k i_3 au_3
+kiau5 k i_2 au_2
+kiau7 k i_7 au_7
+kiauh1 k i_1 auʔ_1
+kiauh2 k i_4 auʔ_4
+kiauh3 k i_3 auʔ_3
+kiauh4 k i_6 auʔ_6
+kiauh7 k i_7 auʔ_7
+kiauh8 k i_8 auʔ_8
+kih1 k iʔ_1
+kih2 k iʔ_4
+kih3 k iʔ_3
+kih4 k iʔ_6
+kih7 k iʔ_7
+kih8 k iʔ_8
+kik10 k ik_10
+kik4 k ik_6
+kik8 k ik_8
+kim1 k im_1
+kim2 k im_4
+kim3 k im_3
+kim7 k im_7
+kim9 k im_9
+kin1 k in_1
+kin2 k in_4
+kin3 k in_3
+kin7 k in_7
+king1 k iŋ_1
+king2 k iŋ_4
+king3 k iŋ_3
+king5 k iŋ_2
+king7 k iŋ_7
+kinn1 k ĩ_1
+kinn2 k ĩ_4
+kinn3 k ĩ_3
+kinn5 k ĩ_2
+kinn7 k ĩ_7
+kio1 k i_1 ə_1
+kio2 k i_4 ə_4
+kio3 k i_3 ə_3
+kio5 k i_2 ə_2
+kio7 k i_7 ə_7
+kioh1 k i_1 əʔ_1
+kioh2 k i_4 əʔ_4
+kioh4 k i_6 əʔ_6
+kiok10 k i_10 ɔk_10
+kiok4 k i_6 ɔk_6
+kiok8 k i_8 ɔk_8
+kiong1 k i_1 ɔŋ_1
+kiong2 k i_4 ɔŋ_4
+kiong3 k i_3 ɔŋ_3
+kiong5 k i_2 ɔŋ_2
+kiong7 k i_7 ɔŋ_7
+kionn1 k i_1 ɔ̃_1
+kionn7 k i_7 ɔ̃_7
+kip10 k ip_10
+kip4 k ip_6
+kip8 k ip_8
+kir1 k ɨ_1
+kir2 k ɨ_4
+kir3 k ɨ_3
+kir7 k ɨ_7
+kirn3 k ɨn_3
+kit10 k it_10
+kit4 k it_6
+kit8 k it_8
+kiu1 k i_1 u_1
+kiu2 k i_4 u_4
+kiu3 k i_3 u_3
+kiu5 k i_2 u_2
+kiu7 k i_7 u_7
+kiuh1 k i_1 uʔ_1
+kiuh2 k i_4 uʔ_4
+kiuh3 k i_3 uʔ_3
+kiuh4 k i_6 uʔ_6
+kiuh7 k i_7 uʔ_7
+kiuh8 k i_8 uʔ_8
+kiunn1 k i_1 ũ_1
+kiunn3 k i_3 ũ_3
+kiunn7 k i_7 ũ_7
+kng1 k ŋ̩_1
+kng2 k ŋ̩_4
+kng3 k ŋ̩_3
+kng7 k ŋ̩_7
+kng9 k ŋ̩_9
+kngh3 k ŋ̩ʔ_3
+kngh7 k ŋ̩ʔ_7
+ko1 k ə_1
+ko2 k ə_4
+ko3 k ə_3
+ko5 k ə_2
+ko7 k ə_7
+ko9 k ə_9
+koh1 k əʔ_1
+koh2 k əʔ_4
+koh4 k əʔ_6
+kok10 k ɔk_10
+kok4 k ɔk_6
+kok8 k ɔk_8
+kong1 k ɔŋ_1
+kong2 k ɔŋ_4
+kong3 k ɔŋ_3
+kong5 k ɔŋ_2
+kong7 k ɔŋ_7
+kong9 k ɔŋ_9
+konn1 k ɔ̃_1
+konn2 k ɔ̃_4
+konn3 k ɔ̃_3
+konn5 k ɔ̃_2
+konn7 k ɔ̃_7
+koo1 k ɔ_1
+koo2 k ɔ_4
+koo3 k ɔ_3
+koo5 k ɔ_2
+koo7 k ɔ_7
+koo9 k ɔ_9
+kooh1 k ɔʔ_1
+kooh2 k ɔʔ_4
+kooh4 k ɔʔ_6
+kop4 k ɔp_6
+kop8 k ɔp_8
+ku1 k u_1
+ku2 k u_4
+ku3 k u_3
+ku5 k u_2
+ku7 k u_7
+kua1 k u_1 a_1
+kua2 k u_4 a_4
+kua3 k u_3 a_3
+kua5 k u_2 a_2
+kua7 k u_7 a_7
+kua9 k u_9 a_9
+kuah1 k u_1 aʔ_1
+kuah2 k u_4 aʔ_4
+kuah3 k u_3 aʔ_3
+kuah4 k u_6 aʔ_6
+kuah7 k u_7 aʔ_7
+kuah8 k u_8 aʔ_8
+kuai1 k u_1 ai_1
+kuai2 k u_4 ai_4
+kuai3 k u_3 ai_3
+kuai5 k u_2 ai_2
+kuai7 k u_7 ai_7
+kuai9 k u_9 ai_9
+kuainn1 k u_1 ãi_1
+kuainn2 k u_4 ãi_4
+kuainn3 k u_3 ãi_3
+kuainn5 k u_2 ãi_2
+kuainn7 k u_7 ãi_7
+kuainnh1 k u_1 ãiʔ_1
+kuainnh2 k u_4 ãiʔ_4
+kuainnh3 k u_3 ãiʔ_3
+kuainnh4 k u_6 ãiʔ_6
+kuainnh7 k u_7 ãiʔ_7
+kuainnh8 k u_8 ãiʔ_8
+kuan1 k u_1 an_1
+kuan2 k u_4 an_4
+kuan3 k u_3 an_3
+kuan5 k u_2 an_2
+kuan7 k u_7 an_7
+kuan9 k u_9 an_9
+kuann1 k u_1 ã_1
+kuann2 k u_4 ã_4
+kuann3 k u_3 ã_3
+kuann5 k u_2 ã_2
+kuann7 k u_7 ã_7
+kuann9 k u_9 ã_9
+kuat4 k u_6 at_6
+kuat8 k u_8 at_8
+kue1 k u_1 e_1
+kue2 k u_4 e_4
+kue3 k u_3 e_3
+kue5 k u_2 e_2
+kue7 k u_7 e_7
+kueh1 k u_1 eʔ_1
+kueh2 k u_4 eʔ_4
+kueh3 k u_3 eʔ_3
+kueh4 k u_6 eʔ_6
+kueh7 k u_7 eʔ_7
+kueh8 k u_8 eʔ_8
+kuh1 k uʔ_1
+kuh2 k uʔ_4
+kuh3 k uʔ_3
+kuh4 k uʔ_6
+kuh7 k uʔ_7
+kuh8 k uʔ_8
+kui1 k u_1 i_1
+kui2 k u_4 i_4
+kui3 k u_3 i_3
+kui5 k u_2 i_2
+kui7 k u_7 i_7
+kuih1 k u_1 iʔ_1
+kuih2 k u_4 iʔ_4
+kuih4 k u_6 iʔ_6
+kuinn1 k u_1 ĩ_1
+kuinn2 k u_4 ĩ_4
+kuinn3 k u_3 ĩ_3
+kuinn7 k u_7 ĩ_7
+kun1 k un_1
+kun2 k un_4
+kun3 k un_3
+kun5 k un_2
+kun7 k un_7
+kut10 k ut_10
+kut4 k ut_6
+kut8 k ut_8
+la1 l a_1
+la2 l a_4
+la3 l a_3
+la5 l a_2
+la7 l a_7
+lah1 l aʔ_1
+lah2 l aʔ_4
+lah3 l aʔ_3
+lah4 l aʔ_6
+lah7 l aʔ_7
+lah8 l aʔ_8
+lai1 l ai_1
+lai2 l ai_4
+lai3 l ai_3
+lai5 l ai_2
+lai7 l ai_7
+lai9 l ai_9
+laih1 l aiʔ_1
+laih2 l aiʔ_4
+laih4 l aiʔ_6
+lak10 l ak_10
+lak4 l ak_6
+lak8 l ak_8
+lam1 l am_1
+lam2 l am_4
+lam3 l am_3
+lam5 l am_2
+lam7 l am_7
+lan1 l an_1
+lan2 l an_4
+lan3 l an_3
+lan5 l an_2
+lan7 l an_7
+lang1 l aŋ_1
+lang2 l aŋ_4
+lang3 l aŋ_3
+lang5 l aŋ_2
+lang7 l aŋ_7
+lap10 l ap_10
+lap4 l ap_6
+lap8 l ap_8
+lat10 l at_10
+lat4 l at_6
+lat8 l at_8
+lau1 l au_1
+lau2 l au_4
+lau3 l au_3
+lau5 l au_2
+lau7 l au_7
+lauh3 l auʔ_3
+lauh7 l auʔ_7
+lauh8 l auʔ_8
+le1 l e_1
+le2 l e_4
+le3 l e_3
+le5 l e_2
+le7 l e_7
+le9 l e_9
+leh1 l eʔ_1
+leh2 l eʔ_4
+leh3 l eʔ_3
+leh4 l eʔ_6
+leh7 l eʔ_7
+leh8 l eʔ_8
+leh9 l eʔ_9
+ler3 l ə_3
+ler5 l ə_2
+ler7 l ə_7
+li1 l i_1
+li2 l i_4
+li3 l i_3
+li5 l i_2
+li7 l i_7
+li9 l i_9
+lia1 l i_1 a_1
+lia2 l i_4 a_4
+lia7 l i_7 a_7
+liah1 l i_1 aʔ_1
+liah2 l i_4 aʔ_4
+liah3 l i_3 aʔ_3
+liah4 l i_6 aʔ_6
+liah7 l i_7 aʔ_7
+liah8 l i_8 aʔ_8
+liak10 l i_10 ak_10
+liak8 l i_8 ak_8
+liam1 l i_1 am_1
+liam2 l i_4 am_4
+liam3 l i_3 am_3
+liam5 l i_2 am_2
+liam7 l i_7 am_7
+lian1 l i_1 en_1
+lian2 l i_4 en_4
+lian3 l i_3 en_3
+lian5 l i_2 en_2
+lian7 l i_7 en_7
+lian9 l i_9 en_9
+liang1 l i_1 aŋ_1
+liang2 l i_4 aŋ_4
+liang3 l i_3 aŋ_3
+liang5 l i_2 aŋ_2
+liang7 l i_7 aŋ_7
+liap10 l i_10 ap_10
+liap4 l i_6 ap_6
+liap8 l i_8 ap_8
+liat10 l i_10 et_10
+liat8 l i_8 et_8
+liau1 l i_1 au_1
+liau2 l i_4 au_4
+liau3 l i_3 au_3
+liau5 l i_2 au_2
+liau7 l i_7 au_7
+lih1 l iʔ_1
+lih2 l iʔ_4
+lih3 l iʔ_3
+lih4 l iʔ_6
+lih7 l iʔ_7
+lih8 l iʔ_8
+lik10 l ik_10
+lik4 l ik_6
+lik8 l ik_8
+lim1 l im_1
+lim2 l im_4
+lim3 l im_3
+lim5 l im_2
+lim7 l im_7
+lin1 l in_1
+lin2 l in_4
+lin3 l in_3
+lin5 l in_2
+lin7 l in_7
+lin9 l in_9
+ling1 l iŋ_1
+ling2 l iŋ_4
+ling3 l iŋ_3
+ling4 l iŋ_6
+ling5 l iŋ_2
+ling7 l iŋ_7
+lio1 l i_1 ə_1
+lio2 l i_4 ə_4
+lio3 l i_3 ə_3
+lio5 l i_2 ə_2
+lio7 l i_7 ə_7
+lioh1 l i_1 əʔ_1
+lioh2 l i_4 əʔ_4
+lioh3 l i_3 əʔ_3
+lioh4 l i_6 əʔ_6
+lioh7 l i_7 əʔ_7
+lioh8 l i_8 əʔ_8
+liok10 l i_10 ɔk_10
+liok4 l i_6 ɔk_6
+liok8 l i_8 ɔk_8
+liong1 l i_1 ɔŋ_1
+liong2 l i_4 ɔŋ_4
+liong3 l i_3 ɔŋ_3
+liong5 l i_2 ɔŋ_2
+liong7 l i_7 ɔŋ_7
+liooh1 l i_1 ɔʔ_1
+liooh2 l i_4 ɔʔ_4
+liooh4 l i_6 ɔʔ_6
+lip10 l ip_10
+lip4 l ip_6
+lip8 l ip_8
+lir1 l ɨ_1
+lir2 l ɨ_4
+lir3 l ɨ_3
+lir7 l ɨ_7
+lit10 l it_10
+lit4 l it_6
+lit8 l it_8
+liu1 l i_1 u_1
+liu2 l i_4 u_4
+liu3 l i_3 u_3
+liu5 l i_2 u_2
+liu7 l i_7 u_7
+lo1 l ə_1
+lo2 l ə_4
+lo3 l ə_3
+lo5 l ə_2
+lo7 l ə_7
+lo9 l ə_9
+loh1 l əʔ_1
+loh2 l əʔ_4
+loh3 l əʔ_3
+loh4 l əʔ_6
+loh7 l əʔ_7
+loh8 l əʔ_8
+lok10 l ɔk_10
+lok4 l ɔk_6
+lok8 l ɔk_8
+lom1 l ɔm_1
+lom2 l ɔm_4
+lom3 l ɔm_3
+lom7 l ɔm_7
+long1 l ɔŋ_1
+long2 l ɔŋ_4
+long3 l ɔŋ_3
+long5 l ɔŋ_2
+long7 l ɔŋ_7
+loo1 l ɔ_1
+loo2 l ɔ_4
+loo3 l ɔ_3
+loo5 l ɔ_2
+loo7 l ɔ_7
+loo9 l ɔ_9
+looh1 l ɔʔ_1
+looh2 l ɔʔ_4
+looh3 l ɔʔ_3
+looh4 l ɔʔ_6
+looh9 l ɔʔ_9
+lop4 l ɔp_6
+lop8 l ɔp_8
+lu1 l u_1
+lu2 l u_4
+lu3 l u_3
+lu5 l u_2
+lu7 l u_7
+lua2 l u_4 a_4
+lua3 l u_3 a_3
+lua5 l u_2 a_2
+lua7 l u_7 a_7
+lua9 l u_9 a_9
+luah1 l u_1 aʔ_1
+luah2 l u_4 aʔ_4
+luah3 l u_3 aʔ_3
+luah4 l u_6 aʔ_6
+luah7 l u_7 aʔ_7
+luah8 l u_8 aʔ_8
+luai2 l u_4 ai_4
+luai3 l u_3 ai_3
+luai9 l u_9 ai_9
+luaih1 l u_1 aiʔ_1
+luaih2 l u_4 aiʔ_4
+luaih4 l u_6 aiʔ_6
+luan1 l u_1 an_1
+luan2 l u_4 an_4
+luan3 l u_3 an_3
+luan5 l u_2 an_2
+luan7 l u_7 an_7
+luat10 l u_10 at_10
+luat4 l u_6 at_6
+luat8 l u_8 at_8
+lue1 l u_1 e_1
+lue2 l u_4 e_4
+lue3 l u_3 e_3
+lue5 l u_2 e_2
+lue7 l u_7 e_7
+lue9 l u_9 e_9
+lueh1 l u_1 eʔ_1
+lueh2 l u_4 eʔ_4
+lueh3 l u_3 eʔ_3
+lueh4 l u_6 eʔ_6
+lueh7 l u_7 eʔ_7
+lueh8 l u_8 eʔ_8
+lueh9 l u_9 eʔ_9
+luh1 l uʔ_1
+luh2 l uʔ_4
+luh4 l uʔ_6
+lui1 l u_1 i_1
+lui2 l u_4 i_4
+lui3 l u_3 i_3
+lui5 l u_2 i_2
+lui7 l u_7 i_7
+lun1 l un_1
+lun2 l un_4
+lun3 l un_3
+lun5 l un_2
+lun7 l un_7
+lut10 l ut_10
+lut4 l ut_6
+lut8 l ut_8
+m1 m_1
+m2 m_4
+m3 m_3
+m5 m_2
+m7 m_7
+m9 m_9
+ma1 m a_1
+ma2 m a_4
+ma3 m a_3
+ma5 m a_2
+ma7 m a_7
+ma9 m a_9
+mah1 m aʔ_1
+mah2 m aʔ_4
+mah3 m aʔ_3
+mah4 m aʔ_6
+mah7 m aʔ_7
+mai1 m ai_1
+mai2 m ai_4
+mai3 m ai_3
+mai5 m ai_2
+mai7 m ai_7
+mau1 m au_1
+mau2 m au_4
+mau3 m au_3
+mau5 m au_2
+mau7 m au_7
+mauh1 m auʔ_1
+mauh2 m auʔ_4
+mauh4 m auʔ_6
+me1 m e_1
+me2 m e_4
+me3 m e_3
+me5 m e_2
+me7 m e_7
+me9 m e_9
+meh1 m eʔ_1
+meh10 m eʔ_10
+meh2 m eʔ_4
+meh3 m eʔ_3
+meh4 m eʔ_6
+meh7 m eʔ_7
+meh8 m eʔ_8
+mh1 m ʔ_1
+mh10 m ʔ_10
+mh2 m ʔ_4
+mh3 m ʔ_3
+mh4 m ʔ_6
+mh5 m ʔ_2
+mh8 m ʔ_8
+mi1 m i_1
+mi2 m i_4
+mi3 m i_3
+mi5 m i_2
+mi7 m i_7
+mia3 m i_3 a_3
+mia5 m i_2 a_2
+mia7 m i_7 a_7
+miau1 m i_1 au_1
+miau3 m i_3 au_3
+miau7 m i_7 au_7
+mih1 m iʔ_1
+mih2 m iʔ_4
+mih3 m iʔ_3
+mih4 m iʔ_6
+mih7 m iʔ_7
+mih8 m iʔ_8
+mng1 m ŋ̩_1
+mng2 m ŋ̩_4
+mng3 m ŋ̩_3
+mng5 m ŋ̩_2
+mng7 m ŋ̩_7
+mngh3 m ŋ̩ʔ_3
+mngh4 m ŋ̩ʔ_6
+mngh7 m ŋ̩ʔ_7
+mngh8 m ŋ̩ʔ_8
+moh3 m əʔ_3
+moh7 m əʔ_7
+moh8 m əʔ_8
+moo1 m ɔ_1
+moo2 m ɔ_4
+moo3 m ɔ_3
+moo5 m ɔ_2
+moo7 m ɔ_7
+moo9 m ɔ_9
+mooh1 m ɔʔ_1
+mooh2 m ɔʔ_4
+mooh3 m ɔʔ_3
+mooh4 m ɔʔ_6
+mooh7 m ɔʔ_7
+mooh8 m ɔʔ_8
+mu1 m u_1
+mu2 m u_4
+mu3 m u_3
+mu7 m u_7
+mua1 m u_1 a_1
+mua2 m u_4 a_4
+mua3 m u_3 a_3
+mua5 m u_2 a_2
+mua7 m u_7 a_7
+muai3 m u_3 ai_3
+muai5 m u_2 ai_2
+muai7 m u_7 ai_7
+mue1 m u_1 e_1
+mue3 m u_3 e_3
+mue5 m u_2 e_2
+mue7 m u_7 e_7
+muh1 m uʔ_1
+muh2 m uʔ_4
+muh4 m uʔ_6
+mui1 m u_1 i_1
+mui2 m u_4 i_4
+mui3 m u_3 i_3
+mui5 m u_2 i_2
+mui7 m u_7 i_7
+na1 n a_1
+na2 n a_4
+na3 n a_3
+na5 n a_2
+na7 n a_7
+na9 n a_9
+nah1 n aʔ_1
+nah2 n aʔ_4
+nah3 n aʔ_3
+nah4 n aʔ_6
+nai1 n ai_1
+nai2 n ai_4
+nai3 n ai_3
+nai7 n ai_7
+nai9 n ai_9
+naih1 n aiʔ_1
+naih2 n aiʔ_4
+naih4 n aiʔ_6
+nau1 n au_1
+nau2 n au_4
+nau3 n au_3
+nau5 n au_2
+nau7 n au_7
+nauh1 n auʔ_1
+nauh2 n auʔ_4
+nauh4 n auʔ_6
+ne1 n e_1
+ne2 n e_4
+ne3 n e_3
+ne5 n e_2
+ne7 n e_7
+neh1 n eʔ_1
+neh2 n eʔ_4
+neh3 n eʔ_3
+neh4 n eʔ_6
+neh7 n eʔ_7
+neh8 n eʔ_8
+ng1 ŋ_1
+ng2 ŋ_4
+ng3 ŋ_3
+ng5 ŋ_2
+ng7 ŋ_7
+ng9 ŋ_9
+nga1 ŋ a_1
+nga2 ŋ a_4
+nga3 ŋ a_3
+nga7 ŋ a_7
+ngai1 ŋ ai_1
+ngai2 ŋ ai_4
+ngai3 ŋ ai_3
+ngai7 ŋ ai_7
+ngau1 ŋ au_1
+ngau2 ŋ au_4
+ngau3 ŋ au_3
+ngau5 ŋ au_2
+ngau7 ŋ au_7
+ngauh1 ŋ auʔ_1
+ngauh2 ŋ auʔ_4
+ngauh3 ŋ auʔ_3
+ngauh4 ŋ auʔ_6
+ngauh7 ŋ auʔ_7
+ngauh8 ŋ auʔ_8
+nge1 ŋ e_1
+nge2 ŋ e_4
+nge3 ŋ e_3
+nge7 ŋ e_7
+ngeh1 ŋ eʔ_1
+ngeh2 ŋ eʔ_4
+ngeh3 ŋ eʔ_3
+ngeh4 ŋ eʔ_6
+ngeh7 ŋ eʔ_7
+ngeh8 ŋ eʔ_8
+ngh1 ŋ ʔ_1
+ngh2 ŋ ʔ_4
+ngh3 ŋ ʔ_3
+ngh4 ŋ ʔ_6
+ngh7 ŋ ʔ_7
+ngh8 ŋ ʔ_8
+ngi1 ŋ i_1
+ngi3 ŋ i_3
+ngi7 ŋ i_7
+ngia3 ŋ i_3 a_3
+ngia5 ŋ i_2 a_2
+ngia7 ŋ i_7 a_7
+ngiah3 ŋ i_3 aʔ_3
+ngiah7 ŋ i_7 aʔ_7
+ngiah8 ŋ i_8 aʔ_8
+ngiau1 ŋ i_1 au_1
+ngiau2 ŋ i_4 au_4
+ngiau3 ŋ i_3 au_3
+ngiau7 ŋ i_7 au_7
+ngiauh1 ŋ i_1 auʔ_1
+ngiauh2 ŋ i_4 auʔ_4
+ngiauh3 ŋ i_3 auʔ_3
+ngiauh4 ŋ i_6 auʔ_6
+ngiauh7 ŋ i_7 auʔ_7
+ngiauh8 ŋ i_8 auʔ_8
+ngiu1 ŋ i_1 u_1
+ngiu2 ŋ i_4 u_4
+ngiu3 ŋ i_3 u_3
+ngiu5 ŋ i_2 u_2
+ngiu7 ŋ i_7 u_7
+ngiuh2 ŋ i_4 uʔ_4
+ngiuh4 ŋ i_6 uʔ_6
+ngoo1 ŋ ɔ_1
+ngoo2 ŋ ɔ_4
+ngoo3 ŋ ɔ_3
+ngoo5 ŋ ɔ_2
+ngoo7 ŋ ɔ_7
+ngueh1 ŋ u_1 eʔ_1
+ngueh2 ŋ u_4 eʔ_4
+ngueh3 ŋ u_3 eʔ_3
+ngueh4 ŋ u_6 eʔ_6
+ngueh7 ŋ u_7 eʔ_7
+ngueh8 ŋ u_8 eʔ_8
+ni1 n i_1
+ni2 n i_4
+ni3 n i_3
+ni5 n i_2
+ni7 n i_7
+nia1 n i_1 a_1
+nia2 n i_4 a_4
+nia3 n i_3 a_3
+nia5 n i_2 a_2
+nia7 n i_7 a_7
+nia9 n i_9 a_9
+niau1 n i_1 au_1
+niau2 n i_4 au_4
+niau3 n i_3 au_3
+niau7 n i_7 au_7
+nih1 n iʔ_1
+nih10 n iʔ_10
+nih2 n iʔ_4
+nih3 n iʔ_3
+nih4 n iʔ_6
+nih7 n iʔ_7
+nih8 n iʔ_8
+nioo1 n i_1 ɔ_1
+nioo2 n i_4 ɔ_4
+nioo3 n i_3 ɔ_3
+nioo5 n i_2 ɔ_2
+nioo7 n i_7 ɔ_7
+niu1 n i_1 u_1
+niu2 n i_4 u_4
+niu3 n i_3 u_3
+niu5 n i_2 u_2
+niu7 n i_7 u_7
+nng1 n ŋ̩_1
+nng2 n ŋ̩_4
+nng3 n ŋ̩_3
+nng5 n ŋ̩_2
+nng7 n ŋ̩_7
+nngh3 n ŋ̩ʔ_3
+nngh7 n ŋ̩ʔ_7
+nngh8 n ŋ̩ʔ_8
+noo1 n ɔ_1
+noo2 n ɔ_4
+noo3 n ɔ_3
+noo7 n ɔ_7
+noo9 n ɔ_9
+nooh1 n ɔʔ_1
+nooh2 n ɔʔ_4
+nooh3 n ɔʔ_3
+nooh4 n ɔʔ_6
+nooh7 n ɔʔ_7
+nooh8 n ɔʔ_8
+nu1 n u_1
+nu7 n u_7
+nua1 n u_1 a_1
+nua2 n u_4 a_4
+nua3 n u_3 a_3
+nua5 n u_2 a_2
+nua7 n u_7 a_7
+nui1 n u_1 i_1
+nui2 n u_4 i_4
+nui3 n u_3 i_3
+nui7 n u_7 i_7
+o1 ə_1
+o2 ə_4
+o3 ə_3
+o5 ə_2
+o7 ə_7
+oh1 əʔ_1
+oh2 əʔ_4
+oh3 əʔ_3
+oh4 əʔ_6
+oh7 əʔ_7
+oh8 əʔ_8
+ok4 ɔk_6
+ok8 ɔk_8
+om1 ɔm_1
+om3 ɔm_3
+om7 ɔm_7
+om9 ɔm_9
+ong1 ɔŋ_1
+ong2 ɔŋ_4
+ong3 ɔŋ_3
+ong5 ɔŋ_2
+ong7 ɔŋ_7
+onn1 ɔ̃_1
+onn2 ɔ̃_4
+onn3 ɔ̃_3
+onn5 ɔ̃_2
+onn7 ɔ̃_7
+onnh1 ɔ̃ʔ_1
+onnh2 ɔ̃ʔ_4
+onnh3 ɔ̃ʔ_3
+onnh4 ɔ̃ʔ_6
+onnh8 ɔ̃ʔ_8
+oo1 ɔ_1
+oo2 ɔ_4
+oo3 ɔ_3
+oo5 ɔ_2
+oo7 ɔ_7
+oo9 ɔ_9
+ooh1 ɔʔ_1
+ooh2 ɔʔ_4
+ooh3 ɔʔ_3
+ooh4 ɔʔ_6
+ooh5 ɔʔ_2
+ooh7 ɔʔ_7
+ooh8 ɔʔ_8
+ooh9 ɔʔ_9
+op4 ɔp_6
+op8 ɔp_8
+pa1 p a_1
+pa2 p a_4
+pa3 p a_3
+pa5 p a_2
+pa7 p a_7
+pa9 p a_9
+pah1 p aʔ_1
+pah10 p aʔ_10
+pah2 p aʔ_4
+pah4 p aʔ_6
+pai1 p ai_1
+pai2 p ai_4
+pai3 p ai_3
+pai5 p ai_2
+pai7 p ai_7
+painn1 p ãi_1
+painn2 p ãi_4
+pak10 p ak_10
+pak4 p ak_6
+pak8 p ak_8
+pan1 p an_1
+pan2 p an_4
+pan3 p an_3
+pan5 p an_2
+pan7 p an_7
+pang1 p aŋ_1
+pang2 p aŋ_4
+pang3 p aŋ_3
+pang5 p aŋ_2
+pang7 p aŋ_7
+pann1 p ã_1
+pann7 p ã_7
+pat10 p at_10
+pat4 p at_6
+pat8 p at_8
+pau1 p au_1
+pau2 p au_4
+pau3 p au_3
+pau5 p au_2
+pau7 p au_7
+pauh1 p auʔ_1
+pauh2 p auʔ_4
+pauh4 p auʔ_6
+pe1 p e_1
+pe2 p e_4
+pe3 p e_3
+pe5 p e_2
+pe7 p e_7
+peh1 p eʔ_1
+peh2 p eʔ_4
+peh3 p eʔ_3
+peh4 p eʔ_6
+peh7 p eʔ_7
+peh8 p eʔ_8
+penn1 p ẽ_1
+penn2 p ẽ_4
+penn3 p ẽ_3
+penn5 p ẽ_2
+penn7 p ẽ_7
+penn9 p ẽ_9
+per1 p ə_1
+per3 p ə_3
+per5 p ə_2
+per7 p ə_7
+pha1 pʰ a_1
+pha2 pʰ a_4
+pha3 pʰ a_3
+pha7 pʰ a_7
+pha9 pʰ a_9
+phah1 pʰ aʔ_1
+phah2 pʰ aʔ_4
+phah4 pʰ aʔ_6
+phai1 pʰ ai_1
+phai2 pʰ ai_4
+phai3 pʰ ai_3
+phainn1 pʰ ãi_1
+phainn2 pʰ ãi_4
+phainn3 pʰ ãi_3
+phainn7 pʰ ãi_7
+phak10 pʰ ak_10
+phak4 pʰ ak_6
+phak8 pʰ ak_8
+phan1 pʰ an_1
+phan2 pʰ an_4
+phan3 pʰ an_3
+phan7 pʰ an_7
+phang1 pʰ aŋ_1
+phang2 pʰ aŋ_4
+phang3 pʰ aŋ_3
+phang5 pʰ aŋ_2
+phang7 pʰ aŋ_7
+phann1 pʰ ã_1
+phann2 pʰ ã_4
+phann3 pʰ ã_3
+phann7 pʰ ã_7
+phat10 pʰ at_10
+phau1 pʰ au_1
+phau2 pʰ au_4
+phau3 pʰ au_3
+phau5 pʰ au_2
+phau7 pʰ au_7
+phau8 pʰ au_8
+phauh1 pʰ auʔ_1
+phauh2 pʰ auʔ_4
+phauh3 pʰ auʔ_3
+phauh4 pʰ auʔ_6
+phauh7 pʰ auʔ_7
+phauh8 pʰ auʔ_8
+phe1 pʰ e_1
+phe2 pʰ e_4
+phe3 pʰ e_3
+phe5 pʰ e_2
+phe7 pʰ e_7
+pheh1 pʰ eʔ_1
+pheh2 pʰ eʔ_4
+pheh3 pʰ eʔ_3
+pheh7 pʰ eʔ_7
+pheh8 pʰ eʔ_8
+phenn1 pʰ ẽ_1
+phenn3 pʰ ẽ_3
+phenn5 pʰ ẽ_2
+phenn7 pʰ ẽ_7
+pher3 pʰ ə_3
+pher5 pʰ ə_2
+pher7 pʰ ə_7
+pherh3 pʰ əʔ_3
+pherh7 pʰ əʔ_7
+pherh8 pʰ əʔ_8
+phi1 pʰ i_1
+phi2 pʰ i_4
+phi3 pʰ i_3
+phi5 pʰ i_2
+phi7 pʰ i_7
+phiah1 pʰ i_1 aʔ_1
+phiah2 pʰ i_4 aʔ_4
+phiah3 pʰ i_3 aʔ_3
+phiah4 pʰ i_6 aʔ_6
+phiah7 pʰ i_7 aʔ_7
+phiah8 pʰ i_8 aʔ_8
+phiak10 pʰ i_10 ak_10
+phiak4 pʰ i_6 ak_6
+phiak8 pʰ i_8 ak_8
+phian1 pʰ i_1 en_1
+phian2 pʰ i_4 en_4
+phian3 pʰ i_3 en_3
+phian5 pʰ i_2 en_2
+phian7 pʰ i_7 en_7
+phiang1 pʰ i_1 aŋ_1
+phiang2 pʰ i_4 aŋ_4
+phiang3 pʰ i_3 aŋ_3
+phiang5 pʰ i_2 aŋ_2
+phiang7 pʰ i_7 aŋ_7
+phiang9 pʰ i_9 aŋ_9
+phiann1 pʰ i_1 ã_1
+phiann2 pʰ i_4 ã_4
+phiann3 pʰ i_3 ã_3
+phiann5 pʰ i_2 ã_2
+phiann7 pʰ i_7 ã_7
+phiat10 pʰ i_10 et_10
+phiat4 pʰ i_6 et_6
+phiat8 pʰ i_8 et_8
+phiau1 pʰ i_1 au_1
+phiau2 pʰ i_4 au_4
+phiau3 pʰ i_3 au_3
+phiau5 pʰ i_2 au_2
+phiau7 pʰ i_7 au_7
+phih1 pʰ iʔ_1
+phih2 pʰ iʔ_4
+phih3 pʰ iʔ_3
+phih4 pʰ iʔ_6
+phih7 pʰ iʔ_7
+phih8 pʰ iʔ_8
+phik10 pʰ ik_10
+phik4 pʰ ik_6
+phik8 pʰ ik_8
+phin1 pʰ in_1
+phin2 pʰ in_4
+phin3 pʰ in_3
+phin5 pʰ in_2
+phin7 pʰ in_7
+phin9 pʰ in_9
+phing1 pʰ iŋ_1
+phing2 pʰ iŋ_4
+phing3 pʰ iŋ_3
+phing5 pʰ iŋ_2
+phing7 pʰ iŋ_7
+phinn1 pʰ ĩ_1
+phinn2 pʰ ĩ_4
+phinn3 pʰ ĩ_3
+phinn5 pʰ ĩ_2
+phinn7 pʰ ĩ_7
+phio1 pʰ i_1 ə_1
+phio2 pʰ i_4 ə_4
+phio3 pʰ i_3 ə_3
+phio5 pʰ i_2 ə_2
+phio7 pʰ i_7 ə_7
+phit10 pʰ it_10
+phit4 pʰ it_6
+phit8 pʰ it_8
+phiu1 pʰ i_1 u_1
+phiu2 pʰ i_4 u_4
+phiu3 pʰ i_3 u_3
+phiu7 pʰ i_7 u_7
+phiu9 pʰ i_9 u_9
+phng1 pʰ ŋ̩_1
+phng2 pʰ ŋ̩_4
+phng3 pʰ ŋ̩_3
+phngh1 pʰ ŋ̩ʔ_1
+phngh2 pʰ ŋ̩ʔ_4
+phngh3 pʰ ŋ̩ʔ_3
+phngh4 pʰ ŋ̩ʔ_6
+phngh7 pʰ ŋ̩ʔ_7
+phngh8 pʰ ŋ̩ʔ_8
+pho1 pʰ ə_1
+pho2 pʰ ə_4
+pho3 pʰ ə_3
+pho7 pʰ ə_7
+phoh1 pʰ əʔ_1
+phoh2 pʰ əʔ_4
+phoh4 pʰ əʔ_6
+phok10 pʰ ɔk_10
+phok4 pʰ ɔk_6
+phok8 pʰ ɔk_8
+phong1 pʰ ɔŋ_1
+phong2 pʰ ɔŋ_4
+phong3 pʰ ɔŋ_3
+phong5 pʰ ɔŋ_2
+phong7 pʰ ɔŋ_7
+phoo1 pʰ ɔ_1
+phoo2 pʰ ɔ_4
+phoo3 pʰ ɔ_3
+phoo5 pʰ ɔ_2
+phoo7 pʰ ɔ_7
+phu1 pʰ u_1
+phu2 pʰ u_4
+phu3 pʰ u_3
+phu5 pʰ u_2
+phu7 pʰ u_7
+phu9 pʰ u_9
+phua2 pʰ u_4 a_4
+phua3 pʰ u_3 a_3
+phua7 pʰ u_7 a_7
+phuah1 pʰ u_1 aʔ_1
+phuah2 pʰ u_4 aʔ_4
+phuah3 pʰ u_3 aʔ_3
+phuah4 pʰ u_6 aʔ_6
+phuah7 pʰ u_7 aʔ_7
+phuah8 pʰ u_8 aʔ_8
+phuan1 pʰ u_1 an_1
+phuan2 pʰ u_4 an_4
+phuan3 pʰ u_3 an_3
+phuan5 pʰ u_2 an_2
+phuan7 pʰ u_7 an_7
+phuann1 pʰ u_1 ã_1
+phuann2 pʰ u_4 ã_4
+phuann3 pʰ u_3 ã_3
+phuann5 pʰ u_2 ã_2
+phuann7 pʰ u_7 ã_7
+phuat4 pʰ u_6 at_6
+phuat8 pʰ u_8 at_8
+phue1 pʰ u_1 e_1
+phue2 pʰ u_4 e_4
+phue3 pʰ u_3 e_3
+phue5 pʰ u_2 e_2
+phue7 pʰ u_7 e_7
+phueh3 pʰ u_3 eʔ_3
+phueh7 pʰ u_7 eʔ_7
+phueh8 pʰ u_8 eʔ_8
+phuh1 pʰ uʔ_1
+phuh2 pʰ uʔ_4
+phuh3 pʰ uʔ_3
+phuh4 pʰ uʔ_6
+phuh7 pʰ uʔ_7
+phuh8 pʰ uʔ_8
+phui1 pʰ u_1 i_1
+phui2 pʰ u_4 i_4
+phui3 pʰ u_3 i_3
+phun1 pʰ un_1
+phun2 pʰ un_4
+phun3 pʰ un_3
+phun5 pʰ un_2
+phun7 pʰ un_7
+phut10 pʰ ut_10
+phut4 pʰ ut_6
+phut8 pʰ ut_8
+pi1 p i_1
+pi2 p i_4
+pi3 p i_3
+pi5 p i_2
+pi7 p i_7
+piah1 p i_1 aʔ_1
+piah2 p i_4 aʔ_4
+piah4 p i_6 aʔ_6
+piak10 p i_10 ak_10
+piak4 p i_6 ak_6
+piak8 p i_8 ak_8
+pian1 p i_1 en_1
+pian2 p i_4 en_4
+pian3 p i_3 en_3
+pian7 p i_7 en_7
+piang1 p i_1 aŋ_1
+piang2 p i_4 aŋ_4
+piang3 p i_3 aŋ_3
+piang7 p i_7 aŋ_7
+piang9 p i_9 aŋ_9
+piann1 p i_1 ã_1
+piann2 p i_4 ã_4
+piann3 p i_3 ã_3
+piann5 p i_2 ã_2
+piann7 p i_7 ã_7
+piat10 p i_10 et_10
+piat4 p i_6 et_6
+piat8 p i_8 et_8
+piau1 p i_1 au_1
+piau2 p i_4 au_4
+piau7 p i_7 au_7
+pih1 p iʔ_1
+pih2 p iʔ_4
+pih3 p iʔ_3
+pih4 p iʔ_6
+pih7 p iʔ_7
+pih8 p iʔ_8
+pik10 p ik_10
+pik4 p ik_6
+pik8 p ik_8
+pin1 p in_1
+pin2 p in_4
+pin3 p in_3
+pin5 p in_2
+pin7 p in_7
+ping1 p iŋ_1
+ping2 p iŋ_4
+ping3 p iŋ_3
+ping5 p iŋ_2
+ping7 p iŋ_7
+pinn1 p ĩ_1
+pinn2 p ĩ_4
+pinn3 p ĩ_3
+pinn5 p ĩ_2
+pinn7 p ĩ_7
+pio1 p i_1 ə_1
+pio2 p i_4 ə_4
+pio3 p i_3 ə_3
+pio7 p i_7 ə_7
+pit10 p it_10
+pit4 p it_6
+pit8 p it_8
+piu1 p i_1 u_1
+piu7 p i_7 u_7
+png1 p ŋ̩_1
+png2 p ŋ̩_4
+png3 p ŋ̩_3
+png7 p ŋ̩_7
+po1 p ə_1
+po2 p ə_4
+po3 p ə_3
+po5 p ə_2
+po7 p ə_7
+poh1 p əʔ_1
+poh2 p əʔ_4
+poh3 p əʔ_3
+poh4 p əʔ_6
+poh7 p əʔ_7
+poh8 p əʔ_8
+poh9 p əʔ_9
+pok10 p ɔk_10
+pok4 p ɔk_6
+pok8 p ɔk_8
+pong1 p ɔŋ_1
+pong2 p ɔŋ_4
+pong3 p ɔŋ_3
+pong5 p ɔŋ_2
+pong7 p ɔŋ_7
+pong9 p ɔŋ_9
+ponn1 p ɔ̃_1
+ponn7 p ɔ̃_7
+poo1 p ɔ_1
+poo2 p ɔ_4
+poo3 p ɔ_3
+poo5 p ɔ_2
+poo7 p ɔ_7
+pu1 p u_1
+pu2 p u_4
+pu3 p u_3
+pu5 p u_2
+pu7 p u_7
+pua2 p u_4 a_4
+pua3 p u_3 a_3
+puah1 p u_1 aʔ_1
+puah2 p u_4 aʔ_4
+puah3 p u_3 aʔ_3
+puah4 p u_6 aʔ_6
+puah7 p u_7 aʔ_7
+puah8 p u_8 aʔ_8
+puan1 p u_1 an_1
+puan2 p u_4 an_4
+puan3 p u_3 an_3
+puan5 p u_2 an_2
+puan7 p u_7 an_7
+puann1 p u_1 ã_1
+puann2 p u_4 ã_4
+puann3 p u_3 ã_3
+puann5 p u_2 ã_2
+puann7 p u_7 ã_7
+puat10 p u_10 at_10
+puat4 p u_6 at_6
+puat8 p u_8 at_8
+pue1 p u_1 e_1
+pue2 p u_4 e_4
+pue3 p u_3 e_3
+pue5 p u_2 e_2
+pue7 p u_7 e_7
+pueh1 p u_1 eʔ_1
+pueh2 p u_4 eʔ_4
+pueh3 p u_3 eʔ_3
+pueh4 p u_6 eʔ_6
+pueh7 p u_7 eʔ_7
+pueh8 p u_8 eʔ_8
+puh1 p uʔ_1
+puh2 p uʔ_4
+puh3 p uʔ_3
+puh4 p uʔ_6
+puh7 p uʔ_7
+puh8 p uʔ_8
+pui1 p u_1 i_1
+pui2 p u_4 i_4
+pui3 p u_3 i_3
+pui5 p u_2 i_2
+pui7 p u_7 i_7
+puih3 p u_3 iʔ_3
+puih7 p u_7 iʔ_7
+puih8 p u_8 iʔ_8
+puinn1 p u_1 ĩ_1
+puinn3 p u_3 ĩ_3
+puinn7 p u_7 ĩ_7
+pun1 p un_1
+pun2 p un_4
+pun3 p un_3
+pun5 p un_2
+pun7 p un_7
+put10 p ut_10
+put4 p ut_6
+put8 p ut_8
+sa1 s a_1
+sa2 s a_4
+sa3 s a_3
+sa7 s a_7
+sa9 s a_9
+sah1 s aʔ_1
+sah2 s aʔ_4
+sah3 s aʔ_3
+sah4 s aʔ_6
+sah7 s aʔ_7
+sah8 s aʔ_8
+sai1 s ai_1
+sai2 s ai_4
+sai3 s ai_3
+sai5 s ai_2
+sai7 s ai_7
+saih1 s aiʔ_1
+saih2 s aiʔ_4
+saih4 s aiʔ_6
+sak4 s ak_6
+sak8 s ak_8
+sam1 s am_1
+sam2 s am_4
+sam3 s am_3
+sam5 s am_2
+sam7 s am_7
+sam9 s am_9
+san1 s an_1
+san2 s an_4
+san3 s an_3
+san7 s an_7
+san9 s an_9
+sang1 s aŋ_1
+sang2 s aŋ_4
+sang3 s aŋ_3
+sang5 s aŋ_2
+sang7 s aŋ_7
+sann1 s ã_1
+sann2 s ã_4
+sann3 s ã_3
+sann5 s ã_2
+sann7 s ã_7
+sann9 s ã_9
+sannh1 s ãʔ_1
+sannh2 s ãʔ_4
+sannh4 s ãʔ_6
+sap10 s ap_10
+sap4 s ap_6
+sap8 s ap_8
+sat4 s at_6
+sat8 s at_8
+sau1 s au_1
+sau2 s au_4
+sau3 s au_3
+sau7 s au_7
+sauh1 s auʔ_1
+sauh2 s auʔ_4
+sauh4 s auʔ_6
+saunn3 s ãu_3
+se1 s e_1
+se2 s e_4
+se3 s e_3
+se5 s e_2
+se7 s e_7
+seh1 s eʔ_1
+seh2 s eʔ_4
+seh3 s eʔ_3
+seh4 s eʔ_6
+seh7 s eʔ_7
+seh8 s eʔ_8
+senn1 s ẽ_1
+senn2 s ẽ_4
+senn3 s ẽ_3
+senn7 s ẽ_7
+serh1 s əʔ_1
+serh2 s əʔ_4
+serh3 s əʔ_3
+serh4 s əʔ_6
+serh7 s əʔ_7
+serh8 s əʔ_8
+si1 s i_1
+si2 s i_4
+si3 s i_3
+si5 s i_2
+si7 s i_7
+sia1 s i_1 a_1
+sia2 s i_4 a_4
+sia3 s i_3 a_3
+sia5 s i_2 a_2
+sia7 s i_7 a_7
+sia9 s i_9 a_9
+siah1 s i_1 aʔ_1
+siah2 s i_4 aʔ_4
+siah3 s i_3 aʔ_3
+siah4 s i_6 aʔ_6
+siah7 s i_7 aʔ_7
+siah8 s i_8 aʔ_8
+siak10 s i_10 ak_10
+siak4 s i_6 ak_6
+siak8 s i_8 ak_8
+siam1 s i_1 am_1
+siam2 s i_4 am_4
+siam3 s i_3 am_3
+siam5 s i_2 am_2
+siam7 s i_7 am_7
+sian1 s i_1 en_1
+sian2 s i_4 en_4
+sian3 s i_3 en_3
+sian5 s i_2 en_2
+sian7 s i_7 en_7
+sian9 s i_9 en_9
+siang1 s i_1 aŋ_1
+siang2 s i_4 aŋ_4
+siang3 s i_3 aŋ_3
+siang5 s i_2 aŋ_2
+siang7 s i_7 aŋ_7
+siang9 s i_9 aŋ_9
+siann1 s i_1 ã_1
+siann2 s i_4 ã_4
+siann3 s i_3 ã_3
+siann5 s i_2 ã_2
+siann7 s i_7 ã_7
+siann9 s i_9 ã_9
+siannh1 s i_1 ãʔ_1
+siannh2 s i_4 ãʔ_4
+siannh4 s i_6 ãʔ_6
+siap10 s i_10 ap_10
+siap4 s i_6 ap_6
+siap8 s i_8 ap_8
+siat10 s i_10 et_10
+siat4 s i_6 et_6
+siat8 s i_8 et_8
+siau1 s i_1 au_1
+siau2 s i_4 au_4
+siau3 s i_3 au_3
+siau5 s i_2 au_2
+siau7 s i_7 au_7
+siau9 s i_9 au_9
+sih1 s iʔ_1
+sih2 s iʔ_4
+sih3 s iʔ_3
+sih4 s iʔ_6
+sih7 s iʔ_7
+sih8 s iʔ_8
+sik10 s ik_10
+sik4 s ik_6
+sik8 s ik_8
+sim1 s im_1
+sim2 s im_4
+sim3 s im_3
+sim5 s im_2
+sim7 s im_7
+sin1 s in_1
+sin2 s in_4
+sin3 s in_3
+sin5 s in_2
+sin7 s in_7
+sing1 s iŋ_1
+sing2 s iŋ_4
+sing3 s iŋ_3
+sing5 s iŋ_2
+sing7 s iŋ_7
+sinn1 s ĩ_1
+sinn2 s ĩ_4
+sinn3 s ĩ_3
+sinn5 s ĩ_2
+sinn7 s ĩ_7
+sinnh1 s ĩʔ_1
+sinnh2 s ĩʔ_4
+sinnh4 s ĩʔ_6
+sio1 s i_1 ə_1
+sio2 s i_4 ə_4
+sio3 s i_3 ə_3
+sio5 s i_2 ə_2
+sio7 s i_7 ə_7
+sioh1 s i_1 əʔ_1
+sioh2 s i_4 əʔ_4
+sioh3 s i_3 əʔ_3
+sioh4 s i_6 əʔ_6
+sioh7 s i_7 əʔ_7
+sioh8 s i_8 əʔ_8
+siok10 s i_10 ɔk_10
+siok4 s i_6 ɔk_6
+siok8 s i_8 ɔk_8
+siong1 s i_1 ɔŋ_1
+siong2 s i_4 ɔŋ_4
+siong3 s i_3 ɔŋ_3
+siong5 s i_2 ɔŋ_2
+siong7 s i_7 ɔŋ_7
+sionn1 s i_1 ɔ̃_1
+sionn2 s i_4 ɔ̃_4
+sionn3 s i_3 ɔ̃_3
+sionn7 s i_7 ɔ̃_7
+sioo2 s i_4 ɔ_4
+siooh1 s i_1 ɔʔ_1
+siooh2 s i_4 ɔʔ_4
+siooh4 s i_6 ɔʔ_6
+sip10 s ip_10
+sip4 s ip_6
+sip8 s ip_8
+sir1 s ɨ_1
+sir2 s ɨ_4
+sir3 s ɨ_3
+sir5 s ɨ_2
+sir7 s ɨ_7
+sirh3 s ɨʔ_3
+sirh4 s ɨʔ_6
+sirh7 s ɨʔ_7
+sirh8 s ɨʔ_8
+sit1 s it_1
+sit10 s it_10
+sit4 s it_6
+sit8 s it_8
+siu1 s i_1 u_1
+siu2 s i_4 u_4
+siu3 s i_3 u_3
+siu5 s i_2 u_2
+siu7 s i_7 u_7
+siu9 s i_9 u_9
+siuh1 s i_1 uʔ_1
+siuh2 s i_4 uʔ_4
+siuh4 s i_6 uʔ_6
+siunn1 s i_1 ũ_1
+siunn2 s i_4 ũ_4
+siunn3 s i_3 ũ_3
+siunn5 s i_2 ũ_2
+siunn7 s i_7 ũ_7
+sng1 s ŋ̩_1
+sng2 s ŋ̩_4
+sng3 s ŋ̩_3
+sng5 s ŋ̩_2
+sng7 s ŋ̩_7
+sngh1 s ŋ̩ʔ_1
+sngh2 s ŋ̩ʔ_4
+sngh4 s ŋ̩ʔ_6
+so1 s ə_1
+so2 s ə_4
+so3 s ə_3
+so5 s ə_2
+so7 s ə_7
+soh1 s əʔ_1
+soh2 s əʔ_4
+soh3 s əʔ_3
+soh4 s əʔ_6
+soh7 s əʔ_7
+soh8 s əʔ_8
+sok10 s ɔk_10
+sok4 s ɔk_6
+sok8 s ɔk_8
+som1 s ɔm_1
+som3 s ɔm_3
+som7 s ɔm_7
+song1 s ɔŋ_1
+song2 s ɔŋ_4
+song3 s ɔŋ_3
+song5 s ɔŋ_2
+song7 s ɔŋ_7
+soo1 s ɔ_1
+soo2 s ɔ_4
+soo3 s ɔ_3
+soo7 s ɔ_7
+soo9 s ɔ_9
+sooh1 s ɔʔ_1
+sooh2 s ɔʔ_4
+sooh4 s ɔʔ_6
+su1 s u_1
+su2 s u_4
+su3 s u_3
+su5 s u_2
+su7 s u_7
+su9 s u_9
+sua1 s u_1 a_1
+sua2 s u_4 a_4
+sua3 s u_3 a_3
+sua7 s u_7 a_7
+suah1 s u_1 aʔ_1
+suah2 s u_4 aʔ_4
+suah3 s u_3 aʔ_3
+suah4 s u_6 aʔ_6
+suah7 s u_7 aʔ_7
+suah8 s u_8 aʔ_8
+suai2 s u_4 ai_4
+suai3 s u_3 ai_3
+suai4 s u_6 ai_6
+suai7 s u_7 ai_7
+suainn3 s u_3 ãi_3
+suainn7 s u_7 ãi_7
+suainnh3 s u_3 ãiʔ_3
+suainnh7 s u_7 ãiʔ_7
+suainnh8 s u_8 ãiʔ_8
+suan1 s u_1 an_1
+suan2 s u_4 an_4
+suan3 s u_3 an_3
+suan5 s u_2 an_2
+suan7 s u_7 an_7
+suann1 s u_1 ã_1
+suann2 s u_4 ã_4
+suann3 s u_3 ã_3
+suann7 s u_7 ã_7
+suat4 s u_6 at_6
+suat8 s u_8 at_8
+sue1 s u_1 e_1
+sue2 s u_4 e_4
+sue3 s u_3 e_3
+sue5 s u_2 e_2
+sue7 s u_7 e_7
+sueh1 s u_1 eʔ_1
+sueh2 s u_4 eʔ_4
+sueh4 s u_6 eʔ_6
+suh1 s uʔ_1
+suh2 s uʔ_4
+suh3 s uʔ_3
+suh4 s uʔ_6
+sui1 s u_1 i_1
+sui2 s u_4 i_4
+sui3 s u_3 i_3
+sui5 s u_2 i_2
+sui7 s u_7 i_7
+sui9 s u_9 i_9
+suinn1 s u_1 ĩ_1
+suinn2 s u_4 ĩ_4
+suinn3 s u_3 ĩ_3
+suinn5 s u_2 ĩ_2
+suinn7 s u_7 ĩ_7
+sun1 s un_1
+sun2 s un_4
+sun3 s un_3
+sun5 s un_2
+sun7 s un_7
+sut10 s ut_10
+sut4 s ut_6
+sut8 s ut_8
+ta1 t a_1
+ta2 t a_4
+ta3 t a_3
+ta5 t a_2
+ta7 t a_7
+tah1 t aʔ_1
+tah2 t aʔ_4
+tah3 t aʔ_3
+tah4 t aʔ_6
+tah7 t aʔ_7
+tah8 t aʔ_8
+tai1 t ai_1
+tai2 t ai_4
+tai3 t ai_3
+tai5 t ai_2
+tai7 t ai_7
+tai9 t ai_9
+taih1 t aiʔ_1
+taih2 t aiʔ_4
+taih4 t aiʔ_6
+tainn1 t ãi_1
+tainn2 t ãi_4
+tainn7 t ãi_7
+tak10 t ak_10
+tak4 t ak_6
+tak8 t ak_8
+tam1 t am_1
+tam2 t am_4
+tam3 t am_3
+tam5 t am_2
+tam7 t am_7
+tan1 t an_1
+tan2 t an_4
+tan3 t an_3
+tan5 t an_2
+tan7 t an_7
+tang1 t aŋ_1
+tang2 t aŋ_4
+tang3 t aŋ_3
+tang5 t aŋ_2
+tang7 t aŋ_7
+tang9 t aŋ_9
+tann1 t ã_1
+tann2 t ã_4
+tann3 t ã_3
+tann5 t ã_2
+tann7 t ã_7
+tann9 t ã_9
+tap10 t ap_10
+tap4 t ap_6
+tap8 t ap_8
+tat10 t at_10
+tat4 t at_6
+tat8 t at_8
+tau1 t au_1
+tau2 t au_4
+tau3 t au_3
+tau5 t au_2
+tau7 t au_7
+tauh1 t auʔ_1
+tauh2 t auʔ_4
+tauh3 t auʔ_3
+tauh4 t auʔ_6
+tauh7 t auʔ_7
+tauh8 t auʔ_8
+te1 t e_1
+te2 t e_4
+te3 t e_3
+te5 t e_2
+te7 t e_7
+te9 t e_9
+teh1 t eʔ_1
+teh2 t eʔ_4
+teh3 t eʔ_3
+teh4 t eʔ_6
+teh7 t eʔ_7
+teh8 t eʔ_8
+teh9 t eʔ_9
+tenn1 t ẽ_1
+tenn2 t ẽ_4
+tenn3 t ẽ_3
+tenn7 t ẽ_7
+ter1 t ə_1
+ter2 t ə_4
+ter3 t ə_3
+ter7 t ə_7
+terh3 t əʔ_3
+terh7 t əʔ_7
+tha1 tʰ a_1
+tha2 tʰ a_4
+tha3 tʰ a_3
+tha7 tʰ a_7
+thah1 tʰ aʔ_1
+thah2 tʰ aʔ_4
+thah3 tʰ aʔ_3
+thah4 tʰ aʔ_6
+thah7 tʰ aʔ_7
+thah8 tʰ aʔ_8
+thai1 tʰ ai_1
+thai2 tʰ ai_4
+thai3 tʰ ai_3
+thai5 tʰ ai_2
+thai7 tʰ ai_7
+thainn1 tʰ ãi_1
+thainn2 tʰ ãi_4
+thainn3 tʰ ãi_3
+thainn7 tʰ ãi_7
+thak10 tʰ ak_10
+thak4 tʰ ak_6
+thak8 tʰ ak_8
+tham1 tʰ am_1
+tham2 tʰ am_4
+tham3 tʰ am_3
+tham5 tʰ am_2
+tham7 tʰ am_7
+than1 tʰ an_1
+than2 tʰ an_4
+than3 tʰ an_3
+than5 tʰ an_2
+than7 tʰ an_7
+thang1 tʰ aŋ_1
+thang2 tʰ aŋ_4
+thang3 tʰ aŋ_3
+thang5 tʰ aŋ_2
+thang7 tʰ aŋ_7
+thann1 tʰ ã_1
+thann2 tʰ ã_4
+thann3 tʰ ã_3
+thann7 tʰ ã_7
+thap10 tʰ ap_10
+thap4 tʰ ap_6
+thap8 tʰ ap_8
+that4 tʰ at_6
+that8 tʰ at_8
+thau1 tʰ au_1
+thau2 tʰ au_4
+thau3 tʰ au_3
+thau5 tʰ au_2
+thau7 tʰ au_7
+thau9 tʰ au_9
+the1 tʰ e_1
+the2 tʰ e_4
+the3 tʰ e_3
+the5 tʰ e_2
+the7 tʰ e_7
+theh1 tʰ eʔ_1
+theh2 tʰ eʔ_4
+theh3 tʰ eʔ_3
+theh4 tʰ eʔ_6
+theh7 tʰ eʔ_7
+theh8 tʰ eʔ_8
+thenn1 tʰ ẽ_1
+thenn2 tʰ ẽ_4
+thenn3 tʰ ẽ_3
+thenn5 tʰ ẽ_2
+thenn7 tʰ ẽ_7
+ther2 tʰ ə_4
+ther7 tʰ ə_7
+thi1 tʰ i_1
+thi2 tʰ i_4
+thi3 tʰ i_3
+thi5 tʰ i_2
+thi7 tʰ i_7
+thiah1 tʰ i_1 aʔ_1
+thiah2 tʰ i_4 aʔ_4
+thiah4 tʰ i_6 aʔ_6
+thiam1 tʰ i_1 am_1
+thiam2 tʰ i_4 am_4
+thiam3 tʰ i_3 am_3
+thiam7 tʰ i_7 am_7
+thian1 tʰ i_1 en_1
+thian2 tʰ i_4 en_4
+thian3 tʰ i_3 en_3
+thian5 tʰ i_2 en_2
+thian7 tʰ i_7 en_7
+thian9 tʰ i_9 en_9
+thiann1 tʰ i_1 ã_1
+thiann2 tʰ i_4 ã_4
+thiann3 tʰ i_3 ã_3
+thiann5 tʰ i_2 ã_2
+thiann7 tʰ i_7 ã_7
+thiann9 tʰ i_9 ã_9
+thiap10 tʰ i_10 ap_10
+thiap4 tʰ i_6 ap_6
+thiap8 tʰ i_8 ap_8
+thiat4 tʰ i_6 et_6
+thiat8 tʰ i_8 et_8
+thiau1 tʰ i_1 au_1
+thiau2 tʰ i_4 au_4
+thiau3 tʰ i_3 au_3
+thiau5 tʰ i_2 au_2
+thiau7 tʰ i_7 au_7
+thih1 tʰ iʔ_1
+thih2 tʰ iʔ_4
+thih3 tʰ iʔ_3
+thih4 tʰ iʔ_6
+thih7 tʰ iʔ_7
+thih8 tʰ iʔ_8
+thik10 tʰ ik_10
+thik4 tʰ ik_6
+thik8 tʰ ik_8
+thim1 tʰ im_1
+thim2 tʰ im_4
+thim3 tʰ im_3
+thim7 tʰ im_7
+thin3 tʰ in_3
+thin5 tʰ in_2
+thin7 tʰ in_7
+thing1 tʰ iŋ_1
+thing2 tʰ iŋ_4
+thing3 tʰ iŋ_3
+thing5 tʰ iŋ_2
+thing7 tʰ iŋ_7
+thinn1 tʰ ĩ_1
+thinn2 tʰ ĩ_4
+thinn3 tʰ ĩ_3
+thinn7 tʰ ĩ_7
+thio1 tʰ i_1 ə_1
+thio2 tʰ i_4 ə_4
+thio3 tʰ i_3 ə_3
+thio5 tʰ i_2 ə_2
+thio7 tʰ i_7 ə_7
+thiok4 tʰ i_6 ɔk_6
+thiok8 tʰ i_8 ɔk_8
+thiong1 tʰ i_1 ɔŋ_1
+thiong2 tʰ i_4 ɔŋ_4
+thiong3 tʰ i_3 ɔŋ_3
+thiong5 tʰ i_2 ɔŋ_2
+thiong7 tʰ i_7 ɔŋ_7
+thit4 tʰ it_6
+thit8 tʰ it_8
+thiu1 tʰ i_1 u_1
+thiu2 tʰ i_4 u_4
+thiu3 tʰ i_3 u_3
+thiu5 tʰ i_2 u_2
+thiu7 tʰ i_7 u_7
+thiunn1 tʰ i_1 ũ_1
+thiunn2 tʰ i_4 ũ_4
+thng1 tʰ ŋ̩_1
+thng2 tʰ ŋ̩_4
+thng3 tʰ ŋ̩_3
+thng5 tʰ ŋ̩_2
+thng7 tʰ ŋ̩_7
+tho1 tʰ ə_1
+tho2 tʰ ə_4
+tho3 tʰ ə_3
+tho5 tʰ ə_2
+tho7 tʰ ə_7
+thoh1 tʰ əʔ_1
+thoh2 tʰ əʔ_4
+thoh3 tʰ əʔ_3
+thoh4 tʰ əʔ_6
+thoh7 tʰ əʔ_7
+thoh8 tʰ əʔ_8
+thok10 tʰ ɔk_10
+thok4 tʰ ɔk_6
+thok8 tʰ ɔk_8
+thong1 tʰ ɔŋ_1
+thong2 tʰ ɔŋ_4
+thong3 tʰ ɔŋ_3
+thong7 tʰ ɔŋ_7
+thoo1 tʰ ɔ_1
+thoo2 tʰ ɔ_4
+thoo3 tʰ ɔ_3
+thoo5 tʰ ɔ_2
+thoo7 tʰ ɔ_7
+thop10 tʰ ɔp_10
+thu1 tʰ u_1
+thu2 tʰ u_4
+thu3 tʰ u_3
+thu5 tʰ u_2
+thu7 tʰ u_7
+thua1 tʰ u_1 a_1
+thua3 tʰ u_3 a_3
+thua7 tʰ u_7 a_7
+thuah1 tʰ u_1 aʔ_1
+thuah2 tʰ u_4 aʔ_4
+thuah4 tʰ u_6 aʔ_6
+thuan1 tʰ u_1 an_1
+thuan2 tʰ u_4 an_4
+thuan3 tʰ u_3 an_3
+thuan5 tʰ u_2 an_2
+thuan7 tʰ u_7 an_7
+thuann1 tʰ u_1 ã_1
+thuann2 tʰ u_4 ã_4
+thuann3 tʰ u_3 ã_3
+thuann7 tʰ u_7 ã_7
+thuat4 tʰ u_6 at_6
+thuat8 tʰ u_8 at_8
+thue1 tʰ u_1 e_1
+thue2 tʰ u_4 e_4
+thue3 tʰ u_3 e_3
+thue7 tʰ u_7 e_7
+thueh3 tʰ u_3 eʔ_3
+thueh7 tʰ u_7 eʔ_7
+thueh8 tʰ u_8 eʔ_8
+thuh1 tʰ uʔ_1
+thuh2 tʰ uʔ_4
+thuh3 tʰ uʔ_3
+thuh4 tʰ uʔ_6
+thuh7 tʰ uʔ_7
+thuh8 tʰ uʔ_8
+thui1 tʰ u_1 i_1
+thui2 tʰ u_4 i_4
+thui3 tʰ u_3 i_3
+thui5 tʰ u_2 i_2
+thui7 tʰ u_7 i_7
+thuinn2 tʰ u_4 ĩ_4
+thuinn3 tʰ u_3 ĩ_3
+thuinn5 tʰ u_2 ĩ_2
+thuinn7 tʰ u_7 ĩ_7
+thun1 tʰ un_1
+thun2 tʰ un_4
+thun3 tʰ un_3
+thun5 tʰ un_2
+thun7 tʰ un_7
+thut10 tʰ ut_10
+thut4 tʰ ut_6
+thut8 tʰ ut_8
+ti1 t i_1
+ti2 t i_4
+ti3 t i_3
+ti5 t i_2
+ti7 t i_7
+ti9 t i_9
+tia1 t i_1 a_1
+tia3 t i_3 a_3
+tia7 t i_7 a_7
+tiah1 t i_1 aʔ_1
+tiah2 t i_4 aʔ_4
+tiah3 t i_3 aʔ_3
+tiah4 t i_6 aʔ_6
+tiah7 t i_7 aʔ_7
+tiah8 t i_8 aʔ_8
+tiak10 t i_10 ak_10
+tiak4 t i_6 ak_6
+tiak8 t i_8 ak_8
+tiam1 t i_1 am_1
+tiam2 t i_4 am_4
+tiam3 t i_3 am_3
+tiam5 t i_2 am_2
+tiam7 t i_7 am_7
+tian1 t i_1 en_1
+tian2 t i_4 en_4
+tian3 t i_3 en_3
+tian5 t i_2 en_2
+tian7 t i_7 en_7
+tiang1 t i_1 aŋ_1
+tiang2 t i_4 aŋ_4
+tiang3 t i_3 aŋ_3
+tiang5 t i_2 aŋ_2
+tiang7 t i_7 aŋ_7
+tiann1 t i_1 ã_1
+tiann2 t i_4 ã_4
+tiann3 t i_3 ã_3
+tiann5 t i_2 ã_2
+tiann7 t i_7 ã_7
+tiap10 t i_10 ap_10
+tiap4 t i_6 ap_6
+tiap8 t i_8 ap_8
+tiat10 t i_10 et_10
+tiat4 t i_6 et_6
+tiat8 t i_8 et_8
+tiau1 t i_1 au_1
+tiau2 t i_4 au_4
+tiau3 t i_3 au_3
+tiau5 t i_2 au_2
+tiau7 t i_7 au_7
+tiau9 t i_9 au_9
+tih1 t iʔ_1
+tih2 t iʔ_4
+tih3 t iʔ_3
+tih4 t iʔ_6
+tih7 t iʔ_7
+tih8 t iʔ_8
+tik10 t ik_10
+tik4 t ik_6
+tik8 t ik_8
+tim1 t im_1
+tim2 t im_4
+tim3 t im_3
+tim5 t im_2
+tim7 t im_7
+tim9 t im_9
+tin1 t in_1
+tin2 t in_4
+tin3 t in_3
+tin5 t in_2
+tin7 t in_7
+ting1 t iŋ_1
+ting2 t iŋ_4
+ting3 t iŋ_3
+ting5 t iŋ_2
+ting7 t iŋ_7
+tinn1 t ĩ_1
+tinn2 t ĩ_4
+tinn3 t ĩ_3
+tinn5 t ĩ_2
+tinn7 t ĩ_7
+tinnh3 t ĩʔ_3
+tinnh7 t ĩʔ_7
+tinnh8 t ĩʔ_8
+tio2 t i_4 ə_4
+tio3 t i_3 ə_3
+tio5 t i_2 ə_2
+tio7 t i_7 ə_7
+tioh1 t i_1 əʔ_1
+tioh2 t i_4 əʔ_4
+tioh3 t i_3 əʔ_3
+tioh4 t i_6 əʔ_6
+tioh7 t i_7 əʔ_7
+tioh8 t i_8 əʔ_8
+tioh9 t i_9 əʔ_9
+tiok10 t i_10 ɔk_10
+tiok4 t i_6 ɔk_6
+tiok8 t i_8 ɔk_8
+tiong1 t i_1 ɔŋ_1
+tiong2 t i_4 ɔŋ_4
+tiong3 t i_3 ɔŋ_3
+tiong5 t i_2 ɔŋ_2
+tiong7 t i_7 ɔŋ_7
+tiong9 t i_9 ɔŋ_9
+tionn1 t i_1 ɔ̃_1
+tionn2 t i_4 ɔ̃_4
+tionn3 t i_3 ɔ̃_3
+tionn5 t i_2 ɔ̃_2
+tionn7 t i_7 ɔ̃_7
+tir1 t ɨ_1
+tir2 t ɨ_4
+tir3 t ɨ_3
+tir7 t ɨ_7
+tit10 t it_10
+tit4 t it_6
+tit8 t it_8
+tiu1 t i_1 u_1
+tiu2 t i_4 u_4
+tiu3 t i_3 u_3
+tiu5 t i_2 u_2
+tiu7 t i_7 u_7
+tiuh1 t i_1 uʔ_1
+tiuh2 t i_4 uʔ_4
+tiuh3 t i_3 uʔ_3
+tiuh4 t i_6 uʔ_6
+tiuh7 t i_7 uʔ_7
+tiuh8 t i_8 uʔ_8
+tiunn1 t i_1 ũ_1
+tiunn2 t i_4 ũ_4
+tiunn3 t i_3 ũ_3
+tiunn5 t i_2 ũ_2
+tiunn7 t i_7 ũ_7
+tng1 t ŋ̩_1
+tng2 t ŋ̩_4
+tng3 t ŋ̩_3
+tng5 t ŋ̩_2
+tng7 t ŋ̩_7
+to1 t ə_1
+to2 t ə_4
+to3 t ə_3
+to5 t ə_2
+to7 t ə_7
+toh1 t əʔ_1
+toh2 t əʔ_4
+toh3 t əʔ_3
+toh4 t əʔ_6
+toh7 t əʔ_7
+toh8 t əʔ_8
+tok10 t ɔk_10
+tok4 t ɔk_6
+tok8 t ɔk_8
+tom1 t ɔm_1
+tom2 t ɔm_4
+tom3 t ɔm_3
+tom5 t ɔm_2
+tom7 t ɔm_7
+tong1 t ɔŋ_1
+tong2 t ɔŋ_4
+tong3 t ɔŋ_3
+tong5 t ɔŋ_2
+tong7 t ɔŋ_7
+tong9 t ɔŋ_9
+tonn1 t ɔ̃_1
+tonn7 t ɔ̃_7
+too1 t ɔ_1
+too2 t ɔ_4
+too3 t ɔ_3
+too5 t ɔ_2
+too7 t ɔ_7
+tooh1 t ɔʔ_1
+tooh2 t ɔʔ_4
+tooh4 t ɔʔ_6
+tsa1 t͡s a_1
+tsa2 t͡s a_4
+tsa3 t͡s a_3
+tsa5 t͡s a_2
+tsa7 t͡s a_7
+tsa9 t͡s a_9
+tsah1 t͡s aʔ_1
+tsah2 t͡s aʔ_4
+tsah3 t͡s aʔ_3
+tsah4 t͡s aʔ_6
+tsah7 t͡s aʔ_7
+tsah8 t͡s aʔ_8
+tsai1 t͡s ai_1
+tsai2 t͡s ai_4
+tsai3 t͡s ai_3
+tsai5 t͡s ai_2
+tsai7 t͡s ai_7
+tsainn1 t͡s ãi_1
+tsainn2 t͡s ãi_4
+tsainn3 t͡s ãi_3
+tsainn7 t͡s ãi_7
+tsak10 t͡s ak_10
+tsak4 t͡s ak_6
+tsak8 t͡s ak_8
+tsam1 t͡s am_1
+tsam2 t͡s am_4
+tsam3 t͡s am_3
+tsam5 t͡s am_2
+tsam7 t͡s am_7
+tsan1 t͡s an_1
+tsan2 t͡s an_4
+tsan3 t͡s an_3
+tsan5 t͡s an_2
+tsan7 t͡s an_7
+tsang1 t͡s aŋ_1
+tsang2 t͡s aŋ_4
+tsang3 t͡s aŋ_3
+tsang5 t͡s aŋ_2
+tsang7 t͡s aŋ_7
+tsang9 t͡s aŋ_9
+tsann1 t͡s ã_1
+tsann2 t͡s ã_4
+tsann3 t͡s ã_3
+tsann5 t͡s ã_2
+tsann7 t͡s ã_7
+tsap10 t͡s ap_10
+tsap4 t͡s ap_6
+tsap8 t͡s ap_8
+tsat10 t͡s at_10
+tsat4 t͡s at_6
+tsat8 t͡s at_8
+tsat9 t͡s at_9
+tsau1 t͡s au_1
+tsau2 t͡s au_4
+tsau3 t͡s au_3
+tsau5 t͡s au_2
+tsau7 t͡s au_7
+tsau9 t͡s au_9
+tsauh1 t͡s auʔ_1
+tsauh2 t͡s auʔ_4
+tsauh3 t͡s auʔ_3
+tsauh4 t͡s auʔ_6
+tsauh7 t͡s auʔ_7
+tsauh8 t͡s auʔ_8
+tse1 t͡s e_1
+tse2 t͡s e_4
+tse3 t͡s e_3
+tse5 t͡s e_2
+tse7 t͡s e_7
+tse9 t͡s e_9
+tseh1 t͡s eʔ_1
+tseh2 t͡s eʔ_4
+tseh3 t͡s eʔ_3
+tseh4 t͡s eʔ_6
+tseh7 t͡s eʔ_7
+tseh8 t͡s eʔ_8
+tsenn1 t͡s ẽ_1
+tsenn2 t͡s ẽ_4
+tsenn3 t͡s ẽ_3
+tsenn5 t͡s ẽ_2
+tsenn7 t͡s ẽ_7
+tser3 t͡s ə_3
+tser7 t͡s ə_7
+tserh1 t͡s əʔ_1
+tserh2 t͡s əʔ_4
+tserh3 t͡s əʔ_3
+tserh7 t͡s əʔ_7
+tsha1 t͡sʰ a_1
+tsha2 t͡sʰ a_4
+tsha3 t͡sʰ a_3
+tsha5 t͡sʰ a_2
+tsha7 t͡sʰ a_7
+tshah1 t͡sʰ aʔ_1
+tshah2 t͡sʰ aʔ_4
+tshah3 t͡sʰ aʔ_3
+tshah4 t͡sʰ aʔ_6
+tshah7 t͡sʰ aʔ_7
+tshah8 t͡sʰ aʔ_8
+tshai1 t͡sʰ ai_1
+tshai2 t͡sʰ ai_4
+tshai3 t͡sʰ ai_3
+tshai5 t͡sʰ ai_2
+tshai7 t͡sʰ ai_7
+tshainn1 t͡sʰ ãi_1
+tshainn2 t͡sʰ ãi_4
+tshak10 t͡sʰ ak_10
+tshak4 t͡sʰ ak_6
+tshak8 t͡sʰ ak_8
+tsham1 t͡sʰ am_1
+tsham2 t͡sʰ am_4
+tsham3 t͡sʰ am_3
+tsham5 t͡sʰ am_2
+tsham7 t͡sʰ am_7
+tshan1 t͡sʰ an_1
+tshan2 t͡sʰ an_4
+tshan3 t͡sʰ an_3
+tshan5 t͡sʰ an_2
+tshan7 t͡sʰ an_7
+tshang1 t͡sʰ aŋ_1
+tshang2 t͡sʰ aŋ_4
+tshang3 t͡sʰ aŋ_3
+tshang7 t͡sʰ aŋ_7
+tshann3 t͡sʰ ã_3
+tshann7 t͡sʰ ã_7
+tshannh1 t͡sʰ ãʔ_1
+tshannh2 t͡sʰ ãʔ_4
+tshannh4 t͡sʰ ãʔ_6
+tshap10 t͡sʰ ap_10
+tshap4 t͡sʰ ap_6
+tshap8 t͡sʰ ap_8
+tshat10 t͡sʰ at_10
+tshat4 t͡sʰ at_6
+tshat8 t͡sʰ at_8
+tshau1 t͡sʰ au_1
+tshau2 t͡sʰ au_4
+tshau3 t͡sʰ au_3
+tshau5 t͡sʰ au_2
+tshau7 t͡sʰ au_7
+tshau9 t͡sʰ au_9
+tshauh3 t͡sʰ auʔ_3
+tshauh7 t͡sʰ auʔ_7
+tshauh8 t͡sʰ auʔ_8
+tshe1 t͡sʰ e_1
+tshe2 t͡sʰ e_4
+tshe3 t͡sʰ e_3
+tshe5 t͡sʰ e_2
+tshe7 t͡sʰ e_7
+tshe9 t͡sʰ e_9
+tsheh1 t͡sʰ eʔ_1
+tsheh2 t͡sʰ eʔ_4
+tsheh3 t͡sʰ eʔ_3
+tsheh4 t͡sʰ eʔ_6
+tsheh7 t͡sʰ eʔ_7
+tsheh8 t͡sʰ eʔ_8
+tshenn1 t͡sʰ ẽ_1
+tshenn2 t͡sʰ ẽ_4
+tshenn3 t͡sʰ ẽ_3
+tshenn7 t͡sʰ ẽ_7
+tsher2 t͡sʰ ə_4
+tsher3 t͡sʰ ə_3
+tsher7 t͡sʰ ə_7
+tshi1 t͡sʰ i_1
+tshi2 t͡sʰ i_4
+tshi3 t͡sʰ i_3
+tshi5 t͡sʰ i_2
+tshi7 t͡sʰ i_7
+tshia1 t͡sʰ i_1 a_1
+tshia3 t͡sʰ i_3 a_3
+tshia5 t͡sʰ i_2 a_2
+tshia7 t͡sʰ i_7 a_7
+tshiah1 t͡sʰ i_1 aʔ_1
+tshiah2 t͡sʰ i_4 aʔ_4
+tshiah4 t͡sʰ i_6 aʔ_6
+tshiak10 t͡sʰ i_10 ak_10
+tshiak4 t͡sʰ i_6 ak_6
+tshiak8 t͡sʰ i_8 ak_8
+tshiam1 t͡sʰ i_1 am_1
+tshiam2 t͡sʰ i_4 am_4
+tshiam3 t͡sʰ i_3 am_3
+tshiam7 t͡sʰ i_7 am_7
+tshian1 t͡sʰ i_1 en_1
+tshian2 t͡sʰ i_4 en_4
+tshian3 t͡sʰ i_3 en_3
+tshian5 t͡sʰ i_2 en_2
+tshian7 t͡sʰ i_7 en_7
+tshian9 t͡sʰ i_9 en_9
+tshiang1 t͡sʰ i_1 aŋ_1
+tshiang2 t͡sʰ i_4 aŋ_4
+tshiang3 t͡sʰ i_3 aŋ_3
+tshiang5 t͡sʰ i_2 aŋ_2
+tshiang7 t͡sʰ i_7 aŋ_7
+tshiang9 t͡sʰ i_9 aŋ_9
+tshiann1 t͡sʰ i_1 ã_1
+tshiann2 t͡sʰ i_4 ã_4
+tshiann3 t͡sʰ i_3 ã_3
+tshiann5 t͡sʰ i_2 ã_2
+tshiann7 t͡sʰ i_7 ã_7
+tshiap4 t͡sʰ i_6 ap_6
+tshiap8 t͡sʰ i_8 ap_8
+tshiat10 t͡sʰ i_10 et_10
+tshiat4 t͡sʰ i_6 et_6
+tshiat8 t͡sʰ i_8 et_8
+tshiau1 t͡sʰ i_1 au_1
+tshiau2 t͡sʰ i_4 au_4
+tshiau3 t͡sʰ i_3 au_3
+tshiau5 t͡sʰ i_2 au_2
+tshiau7 t͡sʰ i_7 au_7
+tshiau9 t͡sʰ i_9 au_9
+tshiauh1 t͡sʰ i_1 auʔ_1
+tshiauh2 t͡sʰ i_4 auʔ_4
+tshiauh4 t͡sʰ i_6 auʔ_6
+tshih1 t͡sʰ iʔ_1
+tshih2 t͡sʰ iʔ_4
+tshih3 t͡sʰ iʔ_3
+tshih4 t͡sʰ iʔ_6
+tshih7 t͡sʰ iʔ_7
+tshih8 t͡sʰ iʔ_8
+tshik10 t͡sʰ ik_10
+tshik4 t͡sʰ ik_6
+tshik8 t͡sʰ ik_8
+tshim1 t͡sʰ im_1
+tshim2 t͡sʰ im_4
+tshim3 t͡sʰ im_3
+tshim5 t͡sʰ im_2
+tshim7 t͡sʰ im_7
+tshin1 t͡sʰ in_1
+tshin2 t͡sʰ in_4
+tshin3 t͡sʰ in_3
+tshin7 t͡sʰ in_7
+tshing1 t͡sʰ iŋ_1
+tshing2 t͡sʰ iŋ_4
+tshing3 t͡sʰ iŋ_3
+tshing5 t͡sʰ iŋ_2
+tshing7 t͡sʰ iŋ_7
+tshinn1 t͡sʰ ĩ_1
+tshinn2 t͡sʰ ĩ_4
+tshinn3 t͡sʰ ĩ_3
+tshinn5 t͡sʰ ĩ_2
+tshinn7 t͡sʰ ĩ_7
+tshinnh1 t͡sʰ ĩʔ_1
+tshinnh2 t͡sʰ ĩʔ_4
+tshinnh4 t͡sʰ ĩʔ_6
+tshio1 t͡sʰ i_1 ə_1
+tshio2 t͡sʰ i_4 ə_4
+tshio3 t͡sʰ i_3 ə_3
+tshio7 t͡sʰ i_7 ə_7
+tshioh1 t͡sʰ i_1 əʔ_1
+tshioh2 t͡sʰ i_4 əʔ_4
+tshioh3 t͡sʰ i_3 əʔ_3
+tshioh4 t͡sʰ i_6 əʔ_6
+tshioh7 t͡sʰ i_7 əʔ_7
+tshioh8 t͡sʰ i_8 əʔ_8
+tshiok10 t͡sʰ i_10 ɔk_10
+tshiok4 t͡sʰ i_6 ɔk_6
+tshiok8 t͡sʰ i_8 ɔk_8
+tshiong1 t͡sʰ i_1 ɔŋ_1
+tshiong2 t͡sʰ i_4 ɔŋ_4
+tshiong3 t͡sʰ i_3 ɔŋ_3
+tshiong5 t͡sʰ i_2 ɔŋ_2
+tshiong7 t͡sʰ i_7 ɔŋ_7
+tshionn1 t͡sʰ i_1 ɔ̃_1
+tshionn2 t͡sʰ i_4 ɔ̃_4
+tshionn3 t͡sʰ i_3 ɔ̃_3
+tshionn7 t͡sʰ i_7 ɔ̃_7
+tship4 t͡sʰ ip_6
+tship8 t͡sʰ ip_8
+tshir1 t͡sʰ ɨ_1
+tshir2 t͡sʰ ɨ_4
+tshir3 t͡sʰ ɨ_3
+tshit10 t͡sʰ it_10
+tshit4 t͡sʰ it_6
+tshit8 t͡sʰ it_8
+tshiu1 t͡sʰ i_1 u_1
+tshiu2 t͡sʰ i_4 u_4
+tshiu3 t͡sʰ i_3 u_3
+tshiu5 t͡sʰ i_2 u_2
+tshiu7 t͡sʰ i_7 u_7
+tshiuh1 t͡sʰ i_1 uʔ_1
+tshiuh2 t͡sʰ i_4 uʔ_4
+tshiuh4 t͡sʰ i_6 uʔ_6
+tshiunn1 t͡sʰ i_1 ũ_1
+tshiunn2 t͡sʰ i_4 ũ_4
+tshiunn3 t͡sʰ i_3 ũ_3
+tshiunn5 t͡sʰ i_2 ũ_2
+tshiunn7 t͡sʰ i_7 ũ_7
+tshng1 t͡sʰ ŋ̩_1
+tshng2 t͡sʰ ŋ̩_4
+tshng3 t͡sʰ ŋ̩_3
+tshng5 t͡sʰ ŋ̩_2
+tshng7 t͡sʰ ŋ̩_7
+tshngh1 t͡sʰ ŋ̩ʔ_1
+tshngh2 t͡sʰ ŋ̩ʔ_4
+tshngh3 t͡sʰ ŋ̩ʔ_3
+tshngh4 t͡sʰ ŋ̩ʔ_6
+tshngh7 t͡sʰ ŋ̩ʔ_7
+tshngh8 t͡sʰ ŋ̩ʔ_8
+tsho1 t͡sʰ ə_1
+tsho2 t͡sʰ ə_4
+tsho3 t͡sʰ ə_3
+tsho7 t͡sʰ ə_7
+tshoh1 t͡sʰ əʔ_1
+tshoh2 t͡sʰ əʔ_4
+tshoh3 t͡sʰ əʔ_3
+tshoh4 t͡sʰ əʔ_6
+tshoh7 t͡sʰ əʔ_7
+tshoh8 t͡sʰ əʔ_8
+tshok10 t͡sʰ ɔk_10
+tshok4 t͡sʰ ɔk_6
+tshok8 t͡sʰ ɔk_8
+tshong1 t͡sʰ ɔŋ_1
+tshong2 t͡sʰ ɔŋ_4
+tshong3 t͡sʰ ɔŋ_3
+tshong5 t͡sʰ ɔŋ_2
+tshong7 t͡sʰ ɔŋ_7
+tshoo1 t͡sʰ ɔ_1
+tshoo2 t͡sʰ ɔ_4
+tshoo3 t͡sʰ ɔ_3
+tshoo7 t͡sʰ ɔ_7
+tshop10 t͡sʰ ɔp_10
+tshop8 t͡sʰ ɔp_8
+tshu1 t͡sʰ u_1
+tshu2 t͡sʰ u_4
+tshu3 t͡sʰ u_3
+tshu5 t͡sʰ u_2
+tshu7 t͡sʰ u_7
+tshua2 t͡sʰ u_4 a_4
+tshua3 t͡sʰ u_3 a_3
+tshua7 t͡sʰ u_7 a_7
+tshuah1 t͡sʰ u_1 aʔ_1
+tshuah2 t͡sʰ u_4 aʔ_4
+tshuah3 t͡sʰ u_3 aʔ_3
+tshuah4 t͡sʰ u_6 aʔ_6
+tshuah7 t͡sʰ u_7 aʔ_7
+tshuah8 t͡sʰ u_8 aʔ_8
+tshuai1 t͡sʰ u_1 ai_1
+tshuai2 t͡sʰ u_4 ai_4
+tshuaih1 t͡sʰ u_1 aiʔ_1
+tshuaih2 t͡sʰ u_4 aiʔ_4
+tshuaih4 t͡sʰ u_6 aiʔ_6
+tshuan1 t͡sʰ u_1 an_1
+tshuan2 t͡sʰ u_4 an_4
+tshuan3 t͡sʰ u_3 an_3
+tshuan5 t͡sʰ u_2 an_2
+tshuan7 t͡sʰ u_7 an_7
+tshuang2 t͡sʰ u_4 aŋ_4
+tshuang3 t͡sʰ u_3 aŋ_3
+tshuann1 t͡sʰ u_1 ã_1
+tshuann2 t͡sʰ u_4 ã_4
+tshuann3 t͡sʰ u_3 ã_3
+tshuann7 t͡sʰ u_7 ã_7
+tshuat4 t͡sʰ u_6 at_6
+tshuat8 t͡sʰ u_8 at_8
+tshue1 t͡sʰ u_1 e_1
+tshue2 t͡sʰ u_4 e_4
+tshue3 t͡sʰ u_3 e_3
+tshue5 t͡sʰ u_2 e_2
+tshue7 t͡sʰ u_7 e_7
+tshueh1 t͡sʰ u_1 eʔ_1
+tshueh2 t͡sʰ u_4 eʔ_4
+tshueh4 t͡sʰ u_6 eʔ_6
+tshuh1 t͡sʰ uʔ_1
+tshuh2 t͡sʰ uʔ_4
+tshuh3 t͡sʰ uʔ_3
+tshuh4 t͡sʰ uʔ_6
+tshuh7 t͡sʰ uʔ_7
+tshuh8 t͡sʰ uʔ_8
+tshui1 t͡sʰ u_1 i_1
+tshui2 t͡sʰ u_4 i_4
+tshui3 t͡sʰ u_3 i_3
+tshui7 t͡sʰ u_7 i_7
+tshuinn1 t͡sʰ u_1 ĩ_1
+tshuinn2 t͡sʰ u_4 ĩ_4
+tshuinn7 t͡sʰ u_7 ĩ_7
+tshun1 t͡sʰ un_1
+tshun2 t͡sʰ un_4
+tshun3 t͡sʰ un_3
+tshun5 t͡sʰ un_2
+tshun7 t͡sʰ un_7
+tshut4 t͡sʰ ut_6
+tshut8 t͡sʰ ut_8
+tsi1 t͡s i_1
+tsi2 t͡s i_4
+tsi3 t͡s i_3
+tsi5 t͡s i_2
+tsi7 t͡s i_7
+tsia1 t͡s i_1 a_1
+tsia2 t͡s i_4 a_4
+tsia3 t͡s i_3 a_3
+tsia5 t͡s i_2 a_2
+tsia7 t͡s i_7 a_7
+tsiah1 t͡s i_1 aʔ_1
+tsiah2 t͡s i_4 aʔ_4
+tsiah3 t͡s i_3 aʔ_3
+tsiah4 t͡s i_6 aʔ_6
+tsiah7 t͡s i_7 aʔ_7
+tsiah8 t͡s i_8 aʔ_8
+tsiak10 t͡s i_10 ak_10
+tsiak8 t͡s i_8 ak_8
+tsiam1 t͡s i_1 am_1
+tsiam2 t͡s i_4 am_4
+tsiam3 t͡s i_3 am_3
+tsiam5 t͡s i_2 am_2
+tsiam7 t͡s i_7 am_7
+tsian1 t͡s i_1 en_1
+tsian2 t͡s i_4 en_4
+tsian3 t͡s i_3 en_3
+tsian5 t͡s i_2 en_2
+tsian7 t͡s i_7 en_7
+tsian9 t͡s i_9 en_9
+tsiang1 t͡s i_1 aŋ_1
+tsiang2 t͡s i_4 aŋ_4
+tsiang3 t͡s i_3 aŋ_3
+tsiang7 t͡s i_7 aŋ_7
+tsiann1 t͡s i_1 ã_1
+tsiann2 t͡s i_4 ã_4
+tsiann3 t͡s i_3 ã_3
+tsiann5 t͡s i_2 ã_2
+tsiann7 t͡s i_7 ã_7
+tsiap10 t͡s i_10 ap_10
+tsiap4 t͡s i_6 ap_6
+tsiap8 t͡s i_8 ap_8
+tsiat10 t͡s i_10 et_10
+tsiat4 t͡s i_6 et_6
+tsiat8 t͡s i_8 et_8
+tsiau1 t͡s i_1 au_1
+tsiau2 t͡s i_4 au_4
+tsiau3 t͡s i_3 au_3
+tsiau5 t͡s i_2 au_2
+tsiau7 t͡s i_7 au_7
+tsiauh1 t͡s i_1 auʔ_1
+tsiauh2 t͡s i_4 auʔ_4
+tsiauh4 t͡s i_6 auʔ_6
+tsih1 t͡s iʔ_1
+tsih2 t͡s iʔ_4
+tsih3 t͡s iʔ_3
+tsih4 t͡s iʔ_6
+tsih7 t͡s iʔ_7
+tsih8 t͡s iʔ_8
+tsik10 t͡s ik_10
+tsik4 t͡s ik_6
+tsik8 t͡s ik_8
+tsim1 t͡s im_1
+tsim2 t͡s im_4
+tsim3 t͡s im_3
+tsim5 t͡s im_2
+tsim7 t͡s im_7
+tsin1 t͡s in_1
+tsin2 t͡s in_4
+tsin3 t͡s in_3
+tsin5 t͡s in_2
+tsin7 t͡s in_7
+tsing1 t͡s iŋ_1
+tsing2 t͡s iŋ_4
+tsing3 t͡s iŋ_3
+tsing5 t͡s iŋ_2
+tsing7 t͡s iŋ_7
+tsing9 t͡s iŋ_9
+tsinn1 t͡s ĩ_1
+tsinn2 t͡s ĩ_4
+tsinn3 t͡s ĩ_3
+tsinn5 t͡s ĩ_2
+tsinn7 t͡s ĩ_7
+tsio1 t͡s i_1 ə_1
+tsio2 t͡s i_4 ə_4
+tsio3 t͡s i_3 ə_3
+tsio7 t͡s i_7 ə_7
+tsioh1 t͡s i_1 əʔ_1
+tsioh2 t͡s i_4 əʔ_4
+tsioh3 t͡s i_3 əʔ_3
+tsioh4 t͡s i_6 əʔ_6
+tsioh7 t͡s i_7 əʔ_7
+tsioh8 t͡s i_8 əʔ_8
+tsiok4 t͡s i_6 ɔk_6
+tsiok8 t͡s i_8 ɔk_8
+tsiong1 t͡s i_1 ɔŋ_1
+tsiong2 t͡s i_4 ɔŋ_4
+tsiong3 t͡s i_3 ɔŋ_3
+tsiong5 t͡s i_2 ɔŋ_2
+tsiong7 t͡s i_7 ɔŋ_7
+tsiong9 t͡s i_9 ɔŋ_9
+tsionn1 t͡s i_1 ɔ̃_1
+tsionn2 t͡s i_4 ɔ̃_4
+tsionn3 t͡s i_3 ɔ̃_3
+tsionn7 t͡s i_7 ɔ̃_7
+tsioo7 t͡s i_7 ɔ_7
+tsip10 t͡s ip_10
+tsip4 t͡s ip_6
+tsip8 t͡s ip_8
+tsir1 t͡s ɨ_1
+tsir2 t͡s ɨ_4
+tsir3 t͡s ɨ_3
+tsir5 t͡s ɨ_2
+tsir7 t͡s ɨ_7
+tsit10 t͡s it_10
+tsit4 t͡s it_6
+tsit8 t͡s it_8
+tsiu1 t͡s i_1 u_1
+tsiu2 t͡s i_4 u_4
+tsiu3 t͡s i_3 u_3
+tsiu5 t͡s i_2 u_2
+tsiu7 t͡s i_7 u_7
+tsiu9 t͡s i_9 u_9
+tsiuh1 t͡s i_1 uʔ_1
+tsiuh2 t͡s i_4 uʔ_4
+tsiuh3 t͡s i_3 uʔ_3
+tsiuh4 t͡s i_6 uʔ_6
+tsiuh7 t͡s i_7 uʔ_7
+tsiuh8 t͡s i_8 uʔ_8
+tsiunn1 t͡s i_1 ũ_1
+tsiunn2 t͡s i_4 ũ_4
+tsiunn3 t͡s i_3 ũ_3
+tsiunn5 t͡s i_2 ũ_2
+tsiunn7 t͡s i_7 ũ_7
+tsng1 t͡s ŋ̩_1
+tsng2 t͡s ŋ̩_4
+tsng3 t͡s ŋ̩_3
+tsng5 t͡s ŋ̩_2
+tsng7 t͡s ŋ̩_7
+tsng9 t͡s ŋ̩_9
+tso1 t͡s ə_1
+tso2 t͡s ə_4
+tso3 t͡s ə_3
+tso5 t͡s ə_2
+tso7 t͡s ə_7
+tsoh1 t͡s əʔ_1
+tsoh2 t͡s əʔ_4
+tsoh3 t͡s əʔ_3
+tsoh4 t͡s əʔ_6
+tsoh7 t͡s əʔ_7
+tsoh8 t͡s əʔ_8
+tsok10 t͡s ɔk_10
+tsok4 t͡s ɔk_6
+tsok8 t͡s ɔk_8
+tsong1 t͡s ɔŋ_1
+tsong2 t͡s ɔŋ_4
+tsong3 t͡s ɔŋ_3
+tsong5 t͡s ɔŋ_2
+tsong7 t͡s ɔŋ_7
+tsong9 t͡s ɔŋ_9
+tsoo1 t͡s ɔ_1
+tsoo2 t͡s ɔ_4
+tsoo3 t͡s ɔ_3
+tsoo7 t͡s ɔ_7
+tsoo9 t͡s ɔ_9
+tsu1 t͡s u_1
+tsu2 t͡s u_4
+tsu3 t͡s u_3
+tsu5 t͡s u_2
+tsu7 t͡s u_7
+tsua1 t͡s u_1 a_1
+tsua2 t͡s u_4 a_4
+tsua3 t͡s u_3 a_3
+tsua5 t͡s u_2 a_2
+tsua7 t͡s u_7 a_7
+tsua9 t͡s u_9 a_9
+tsuah1 t͡s u_1 aʔ_1
+tsuah2 t͡s u_4 aʔ_4
+tsuah3 t͡s u_3 aʔ_3
+tsuah4 t͡s u_6 aʔ_6
+tsuah7 t͡s u_7 aʔ_7
+tsuah8 t͡s u_8 aʔ_8
+tsuai1 t͡s u_1 ai_1
+tsuai3 t͡s u_3 ai_3
+tsuai7 t͡s u_7 ai_7
+tsuai9 t͡s u_9 ai_9
+tsuainn3 t͡s u_3 ãi_3
+tsuainn7 t͡s u_7 ãi_7
+tsuainn9 t͡s u_9 ãi_9
+tsuan1 t͡s u_1 an_1
+tsuan2 t͡s u_4 an_4
+tsuan3 t͡s u_3 an_3
+tsuan5 t͡s u_2 an_2
+tsuan7 t͡s u_7 an_7
+tsuan9 t͡s u_9 an_9
+tsuann1 t͡s u_1 ã_1
+tsuann2 t͡s u_4 ã_4
+tsuann3 t͡s u_3 ã_3
+tsuann5 t͡s u_2 ã_2
+tsuann7 t͡s u_7 ã_7
+tsuann9 t͡s u_9 ã_9
+tsuat10 t͡s u_10 at_10
+tsuat4 t͡s u_6 at_6
+tsuat8 t͡s u_8 at_8
+tsue1 t͡s u_1 e_1
+tsue2 t͡s u_4 e_4
+tsue3 t͡s u_3 e_3
+tsue5 t͡s u_2 e_2
+tsue7 t͡s u_7 e_7
+tsueh1 t͡s u_1 eʔ_1
+tsueh2 t͡s u_4 eʔ_4
+tsueh3 t͡s u_3 eʔ_3
+tsueh4 t͡s u_6 eʔ_6
+tsueh7 t͡s u_7 eʔ_7
+tsueh8 t͡s u_8 eʔ_8
+tsuh1 t͡s uʔ_1
+tsuh2 t͡s uʔ_4
+tsuh4 t͡s uʔ_6
+tsui1 t͡s u_1 i_1
+tsui2 t͡s u_4 i_4
+tsui3 t͡s u_3 i_3
+tsui5 t͡s u_2 i_2
+tsui7 t͡s u_7 i_7
+tsuinn2 t͡s u_4 ĩ_4
+tsuinn3 t͡s u_3 ĩ_3
+tsuinn7 t͡s u_7 ĩ_7
+tsun1 t͡s un_1
+tsun2 t͡s un_4
+tsun3 t͡s un_3
+tsun5 t͡s un_2
+tsun7 t͡s un_7
+tsun9 t͡s un_9
+tsut10 t͡s ut_10
+tsut4 t͡s ut_6
+tsut8 t͡s ut_8
+tu1 t u_1
+tu2 t u_4
+tu3 t u_3
+tu5 t u_2
+tu7 t u_7
+tua1 t u_1 a_1
+tua2 t u_4 a_4
+tua3 t u_3 a_3
+tua5 t u_2 a_2
+tua7 t u_7 a_7
+tuah1 t u_1 aʔ_1
+tuah2 t u_4 aʔ_4
+tuah3 t u_3 aʔ_3
+tuah4 t u_6 aʔ_6
+tuah7 t u_7 aʔ_7
+tuah8 t u_8 aʔ_8
+tuan1 t u_1 an_1
+tuan2 t u_4 an_4
+tuan3 t u_3 an_3
+tuan5 t u_2 an_2
+tuan7 t u_7 an_7
+tuann1 t u_1 ã_1
+tuann2 t u_4 ã_4
+tuann3 t u_3 ã_3
+tuann5 t u_2 ã_2
+tuann7 t u_7 ã_7
+tuann9 t u_9 ã_9
+tuat10 t u_10 at_10
+tuat4 t u_6 at_6
+tuat8 t u_8 at_8
+tue1 t u_1 e_1
+tue2 t u_4 e_4
+tue3 t u_3 e_3
+tue5 t u_2 e_2
+tue7 t u_7 e_7
+tueh1 t u_1 eʔ_1
+tueh2 t u_4 eʔ_4
+tueh3 t u_3 eʔ_3
+tueh4 t u_6 eʔ_6
+tueh7 t u_7 eʔ_7
+tueh8 t u_8 eʔ_8
+tuh1 t uʔ_1
+tuh2 t uʔ_4
+tuh3 t uʔ_3
+tuh4 t uʔ_6
+tuh7 t uʔ_7
+tuh8 t uʔ_8
+tui1 t u_1 i_1
+tui2 t u_4 i_4
+tui3 t u_3 i_3
+tui5 t u_2 i_2
+tui7 t u_7 i_7
+tuinn1 t u_1 ĩ_1
+tuinn2 t u_4 ĩ_4
+tuinn3 t u_3 ĩ_3
+tuinn7 t u_7 ĩ_7
+tun1 t un_1
+tun2 t un_4
+tun3 t un_3
+tun5 t un_2
+tun7 t un_7
+tut10 t ut_10
+tut4 t ut_6
+tut8 t ut_8
+u1 u_1
+u2 u_4
+u3 u_3
+u5 u_2
+u7 u_7
+ua1 u_1 a_1
+ua2 u_4 a_4
+ua3 u_3 a_3
+ua5 u_2 a_2
+ua7 u_7 a_7
+ua9 u_9 a_9
+uah1 u_1 aʔ_1
+uah2 u_4 aʔ_4
+uah3 u_3 aʔ_3
+uah4 u_6 aʔ_6
+uah7 u_7 aʔ_7
+uah8 u_8 aʔ_8
+uah9 u_9 aʔ_9
+uai1 u_1 ai_1
+uai2 u_4 ai_4
+uai3 u_3 ai_3
+uai7 u_7 ai_7
+uai9 u_9 ai_9
+uaih1 u_1 aiʔ_1
+uaih2 u_4 aiʔ_4
+uaih4 u_6 aiʔ_6
+uainn1 u_1 ãi_1
+uainn2 u_4 ãi_4
+uainn3 u_3 ãi_3
+uainn7 u_7 ãi_7
+uainnh1 u_1 ãiʔ_1
+uainnh2 u_4 ãiʔ_4
+uainnh4 u_6 ãiʔ_6
+uan1 u_1 an_1
+uan2 u_4 an_4
+uan3 u_3 an_3
+uan5 u_2 an_2
+uan7 u_7 an_7
+uang1 u_1 aŋ_1
+uang2 u_4 aŋ_4
+uang7 u_7 aŋ_7
+uann1 u_1 ã_1
+uann2 u_4 ã_4
+uann3 u_3 ã_3
+uann7 u_7 ã_7
+uat10 u_10 at_10
+uat4 u_6 at_6
+uat8 u_8 at_8
+ue1 u_1 e_1
+ue2 u_4 e_4
+ue3 u_3 e_3
+ue5 u_2 e_2
+ue7 u_7 e_7
+ueh1 u_1 eʔ_1
+ueh2 u_4 eʔ_4
+ueh3 u_3 eʔ_3
+ueh4 u_6 eʔ_6
+ueh7 u_7 eʔ_7
+ueh8 u_8 eʔ_8
+ueh9 u_9 eʔ_9
+uh1 uʔ_1
+uh2 uʔ_4
+uh4 uʔ_6
+ui1 u_1 i_1
+ui2 u_4 i_4
+ui3 u_3 i_3
+ui5 u_2 i_2
+ui7 u_7 i_7
+uih1 u_1 iʔ_1
+uih2 u_4 iʔ_4
+uih3 u_3 iʔ_3
+uih4 u_6 iʔ_6
+uih7 u_7 iʔ_7
+uih8 u_8 iʔ_8
+uinn1 u_1 ĩ_1
+uinn2 u_4 ĩ_4
+uinn3 u_3 ĩ_3
+uinn5 u_2 ĩ_2
+uinn7 u_7 ĩ_7
+un1 un_1
+un2 un_4
+un3 un_3
+un5 un_2
+un7 un_7
+ut10 ut_10
+ut4 ut_6
+ut8 ut_8
