@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Change log{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <h1 style="text-align: center;">更新紀錄</h1>
+
+        {% for date_log in log %}
+            {% if loop.index >= 6 %}{% break %}{% endif %}
+            {% set date = date_log["date"] %}
+            {% set items = date_log["items"] %}
+            <div class="row myrow">
+                <div class="col-2">
+                    <h5 style="margin: 5% 20%;">{{date}}</h5>
+                </div>
+
+                <div class="col-8">
+                    <ul class="list-group list-group-flush">
+                        {% for  item in items %}
+                            <li class="list-group-item">{{item}}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

@@ -1,0 +1,45 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+.bg {
+   /* The image used */
+   background-image: url("../imgs/welcome-bg.jpg");
+   /* Full height */
+   height: 100%;
+   /* Center and scale the image nicely */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#welcome .title {
+   /*padding-top: 15%;*/
+   padding-top: 5%;
+   color: white;
+}
+
+#welcome .container .title h1 {
+   font-size: 42px;
+   font-weight: 400;
+}
+
+input[type=text]{
+    width: 80%;  /*280px;*/
+    border: 1px solid #818181;
+  /*  -moz-border-radius: 1px;
+    -webkit-border-radius: 1px; */
+    padding: 5px;
+}
+
+.form-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    height: 45px;
+}

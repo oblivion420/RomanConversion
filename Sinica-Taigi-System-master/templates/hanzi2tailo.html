@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Hanzi2Tailo{% endblock %}
+
+{% block content %}
+	<div class="container">
+		<h1 style="padding: 20px 0px;">漢字轉臺羅</h1>
+
+		<p>
+			您輸入：恁會使出去矣<br/>
+			轉換成：lin2 e7-saih4 tshut4-khi3 ah4<br/><br/>
+
+			每天轉換第一次速度會比較慢，因為在加載最新的辭典
+		</p>
+
+		<h3>漢字</h3>
+		<div class="row">
+			<textarea id="hanzi_blk" rows="5" style="width:100%; margin-top:.5em"></textarea>
+			<button onclick="hanzi2tailo()" type="button" style="margin: auto;">轉換</button>
+		</div>
+
+		<h3>臺羅</h3>
+		<div class="row">
+			<textarea id="tailo_blk" rows="5" style="width:100%; margin-top:.5em" readonly></textarea>
+		</div>
+
+	</div>
+
+{% endblock %}
+
+{% block script %}
+	<script>
+	</script>
+{% endblock %}

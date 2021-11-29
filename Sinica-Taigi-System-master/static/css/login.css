@@ -1,0 +1,16 @@
+.bg {
+    margin-left: 170px;
+    background-image: url("../img/newyear-bg.jpg");
+    /* z-index: -1; */
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 800px;
+}
+
+hr.small {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}

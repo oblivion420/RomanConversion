@@ -1,0 +1,239 @@
+{% extends "base.html" %}
+{% block title %}Edit{% endblock %}
+
+{% block content %}
+	<nav class="navbar sticky-top navbar-light bg-light" id="toolbar">
+		<div class="col-md-1"></div>
+		<div class="col-md-3">
+			{{drama_name+"　　"+episode_id}}
+		</div>
+		<div class="col-md-3">
+			<audio id=audio controls="controls">
+				<source src="static/wav/{{drama_name}}/{{episode_id}}.wav" type="audio/wav">
+				Your browser does not support the audio element.
+			</audio>
+		</div>
+		<div class="col-md-5">
+			<form class="form-searchbar" onsubmit="keepOpts()" action="/sort_filter" method="get">
+				<input name="drama_name" value={{drama_name}} style="display:none;">
+				<input name="episode_id" value={{episode_id}} style="display:none;">
+				<select id="sortby" name="sortby">
+					<option>{{interface["sort"]["sortby"]["time"]}}</option>
+					<option>{{interface["sort"]["sortby"]["score"]}}</option>
+				</select>
+				<select id="orderby" name="orderby">
+					<option>{{interface["sort"]["orderby"]["ASC"]}}</option>
+					<option>{{interface["sort"]["orderby"]["DESC"]}}</option>
+				</select>
+				<input class="btn btn-danger" type="submit" value="{{interface['sort']['button']}}" style="margin-right: 20px;">
+
+				<select id="filter_checked" name="checked" style="margin-right: 10px;">
+					<option>全部</option>
+					<option>{{interface["filter"]["already"]["done"]+interface["filter"]["attribute"]["checked"]}}</option>
+					<option>{{interface["filter"]["already"]["undone"]+interface["filter"]["attribute"]["checked"]}}</option>
+				</select>
+				<!-- <input id="filter_checked" type="checkbox" name="checked"> {{"已"+interface["filter"]["attribute"]["checked"]}} -->
+				<input id="filter_discarded" type="checkbox" name="discarded"> {{interface["filter"]["already"]["done"]+interface["filter"]["attribute"]["discarded"]}}
+				<input id="filter_review" type="checkbox" name="review"> {{interface["filter"]["attribute"]["review"]}}
+
+				<input class="btn btn-danger" type="submit" value="{{interface['filter']['button']}}">
+			</form>
+		</div>
+	</nav>
+
+	<div class="container">
+		{% for uid, rest_ in data %}
+			{% set outer_index = loop.index|string %}
+			{% set score = rest_["score"] %}
+			{% set chinese = rest_["chinese"] %}
+			{% set hanzi = rest_["hanzi"] %}
+			{% set original_chinese = rest_["original_chinese"] %}
+			{% set original_hanzi = rest_["original_hanzi"] %}
+			{% set start = rest_["start"] %}
+			{% set end = rest_["end"] %}
+			{% set start_format = rest_["start_format"] %}
+			{% set end_format = rest_["end_format"] %}
+			{% set checked = rest_["checked"] %}
+			{% set cut = rest_["cut"] %}
+			{% set discarded = rest_["discarded"] %}
+			{% set review = rest_["review"] %}
+
+		<div class="row myrow">
+			<div class="col col-first" style="margin-left: 70px;">
+			  	<button class="curr-audio" id="{{'btn'+outer_index}}" type="button" class="btn btn-default" aria-label="Left Align" style="margin-right:10px;">
+			  		<i class="far fa-play-circle"></i>
+					<span id="start" style="display:none">{{start}}</span>
+                    <span id="end" style="display:none">{{end}}</span>
+		  		</button>
+
+				<button class="prev-audio" id="{{'btn'+outer_index}}" type="button" class="btn btn-default" aria-label="Left Align" style="margin-right:10px;">
+			  		<i class="fas fa-angle-double-left"></i>
+		  		</button>
+
+				<button class="next-audio" id="{{'btn'+outer_index}}" type="button" class="btn btn-default" aria-label="Left Align" style="margin-right:10px;">
+			  		<i class="fas fa-angle-double-right"></i>
+		  		</button>
+
+				{% if checked == 1 %}
+					<span class="badge badge-success">
+						{{interface["filter"]["already"]["done"]+interface["filter"]["attribute"]["checked"]}}
+					</span>
+				{% else %}
+					<span class="badge badge-danger">
+						{{interface["filter"]["already"]["undone"]+interface["filter"]["attribute"]["checked"]}}
+					</span>
+				{% endif %}
+			</div>
+			<div class="col-4 col-first">
+				<span class="badge badge-info" style="margin-right: 10px;">{{outer_index}}</span><b> {{uid}}</b>
+			</div>
+			<div class="col col-first" style="left: -50px;">
+				 {{start_format+'~'+end_format}}
+			</div>
+			<div class="col col-first" style="left: -70px;">
+				 {{interface["sort"]["sortby"]["score"]}}：　<b>{{score|safe}}</b>
+			</div>
+
+			<div class="w-100"></div>
+
+			<div class="col" style="padding: 0px 80px;">
+			  	<form class="utt">
+				  華語 ：<input class="form-control" type="text" id="{{uid+'|chinese'}}" autocomplete="off" value="{{chinese|safe}}">
+				  <small class="form-text text-muted" style="margin-bottom: 20px;">原始華語 ： {{original_chinese}}</small>
+				  台語 ：<input class="form-control" type="text" id="{{uid+'|hanzi'}}" autocomplete="off" value="{{hanzi|safe}}">
+				  <small class="form-text text-muted" style="margin-bottom: 20px;">原始台語 ： {{original_hanzi}}</small>
+				  音檔被裁剪：<input type="radio" name="cutlist" class="radio-input" value="none" {{ "checked" if cut == 0 else "" }}>{{interface["cut"]["none"]}}
+				  	  <input type="radio" name="cutlist" class="radio-input" value="start" {{ "checked" if cut == 1 else "" }}>{{interface["cut"]["start"]}}
+					  <input type="radio" name="cutlist" class="radio-input" value="end" {{ "checked" if cut == 2 else "" }}>{{interface["cut"]["end"]}}
+					  <input type="radio" name="cutlist" class="radio-input" value="both" {{ "checked" if cut == 3 else "" }}>{{interface["cut"]["both"]}}<br>
+
+					<input type="checkbox" name="discarded" {{ "checked" if discarded else "" }}>
+					{{interface["filter"]["attribute"]["discarded"]}}
+					<input type="checkbox" name="review" style="margin-left: 20px;" {{ "checked" if review else "" }}>
+					{{interface["filter"]["attribute"]["review"]}}
+
+				  	<button id="{{uid+'|btn1'}}" onclick="update()" class="btn btn-primary btn-update" type="button" style="float: right; margin-bottom: 10px;">Update</button>
+				  	<button id="{{uid+'|btn2'}}" onclick="undo()" class="btn btn-secondary btn-undo" type="button" style="float: right; margin-bottom: 10px; margin-right: 20px;">Undo</button>
+			  	</form>
+			</div>
+		</div>
+
+	  {% endfor %}
+	</div>
+
+	<button onclick="bulk_update()" id="bulkUpdate" title="Bulk update" class="btn-bulk-update">批量更新</button>
+	<button onclick="toUnchecked()" id="toUnchecked" title="Go to unchecked item" class="btn-to-unchecked">跳至未檢查</button>
+	<button onclick="toTop()" id="toTop" title="Go to top" class="subbtn">TOP</button>
+{% endblock %}
+
+{% block script %}
+	<script>
+		function playMusic(start, end) {
+			var old_element = document.getElementById("audio");
+			var new_element = old_element.cloneNode(true);
+			old_element.parentNode.replaceChild(new_element, old_element);
+			new_element.currentTime = start;
+
+			var playPromise = new_element.play();
+			var timer = setInterval(function() {
+				if (new_element.currentTime >= end) {
+					new_element.pause();
+					new_element.currentTime = start;
+					clearInterval(timer);
+				}
+			}, 1);
+		}
+
+		$(window).on("load", function () {
+			if (sessionStorage.getItem("sortby") !== null && window.location.href.includes("sortby") === true) {
+				document.getElementById("sortby").value = sessionStorage.getItem("sortby");
+				document.getElementById("orderby").value = sessionStorage.getItem("orderby");
+				document.getElementById("filter_checked").value = sessionStorage.getItem("filter_checked");
+				document.getElementById("filter_discarded").checked = sessionStorage.getItem("filter_discarded") === "true";
+				document.getElementById("filter_review").checked = sessionStorage.getItem("filter_review") === "true";
+			} else {
+				document.getElementById("sortby").value = "良好度";
+				document.getElementById("orderby").value = "降序";
+			}
+
+			// Sort by confidence scores
+			var b_tags = document.getElementsByTagName("b");
+			b_tags = Array.from(b_tags).sort(function(a, b) {
+  			var a_ = a.innerText;
+				var b_ = b.innerText;
+				if (a_ < b_) return -1;
+				if (a_ > b_) return 1;
+				return 0;
+			});
+
+			$(".curr-audio").click(function() {
+				var start = this.childNodes[3].innerText;
+				var end = this.childNodes[5].innerText;
+				playMusic(start, end);
+			});
+
+			$(".prev-audio").click(function() {
+				var cur_b = this.parentElement.nextElementSibling.getElementsByTagName("b")[0];
+				var cur_b_index = b_tags.indexOf(cur_b);
+				if (cur_b_index-1 < 0) {
+					alert("前面沒有音檔");
+					return 0;
+				}
+				var prev_b = b_tags[cur_b_index-1];
+				var start = prev_b.parentElement.previousElementSibling.childNodes[1].childNodes[3].innerText;
+				var end = prev_b.parentElement.previousElementSibling.childNodes[1].childNodes[5].innerText;
+				playMusic(start, end);
+			});
+
+			$(".next-audio").click(function() {
+				var cur_b = this.parentElement.nextElementSibling.getElementsByTagName("b")[0];
+				var cur_b_index = b_tags.indexOf(cur_b);
+				if (cur_b_index+1 > b_tags.length) {
+					alert("後面沒有音檔");
+					return 0;
+				}
+				var prev_b = b_tags[cur_b_index+1];
+				var start = prev_b.parentElement.previousElementSibling.childNodes[1].childNodes[3].innerText;
+				var end = prev_b.parentElement.previousElementSibling.childNodes[1].childNodes[5].innerText;
+				playMusic(start, end);
+			});
+
+			// highlight當前處理單位
+			$(".myrow").hover(function(){
+			  	$(this).addClass("highlight-row");
+			  	}, function(){
+			  	$(this).removeClass("highlight-row");
+			});
+
+			// 標記未更新
+			$(".utt").change(function(){
+				var checked_elm = this.parentElement.previousElementSibling.previousElementSibling.previousElementSibling.previousElementSibling.previousElementSibling.childNodes[7]
+				checked_elm.className = "badge badge-warning";
+				checked_elm.innerText = "未更新";
+			});
+
+		})
+
+		function keepOpts() {
+			sessionStorage.setItem("sortby", document.getElementById("sortby").value);
+			sessionStorage.setItem("orderby", document.getElementById("orderby").value);
+			sessionStorage.setItem("filter_checked", document.getElementById("filter_checked").value);
+			sessionStorage.setItem("filter_discarded", document.getElementById("filter_discarded").checked);
+			sessionStorage.setItem("filter_review", document.getElementById("filter_review").checked);
+		}
+
+		/* Hotkey */
+		$(document).keydown(function(e) {
+			var highlight_row_elm = document.getElementsByClassName("highlight-row")[0];
+			if (e.altKey && e.which == 80) { // "P" key
+				var btn = highlight_row_elm.getElementsByClassName("cur-audio")[0];
+				btn.click();
+				return;
+			} else if (e.altKey && e.which == 85) { // "U" key
+				var btn = highlight_row_elm.getElementsByClassName("btn-update")[0];
+				btn.click();
+				return;
+			}
+		});
+	</script>
+{% endblock %}

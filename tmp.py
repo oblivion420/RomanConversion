@@ -81,7 +81,7 @@ def main():
     
     # execute
     article_list = []
-    urls_list = get_all_urls()[12:13]
+    urls_list = get_all_urls()[10:11]
     for url in urls_list:
         article = get_article(url)
         if article:

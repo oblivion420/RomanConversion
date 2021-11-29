@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}Sign2Digit{% endblock %}
+
+{% block content %}
+	<div class="container">
+		<h1 style="padding: 20px 0px;">符號調轉數字調（臺羅）</h1>
+
+		<p>
+			您輸入：Tsò-lâng nā pîn-tuānn, tsi̍t-sì-lâng bē khuìnn-ua̍h.<br/>
+			轉換成：Tso3-lang5 na7 pin5-tuann7 , tsit8-si3-lang5 be7 khuinn3-uah8 .<br/><br/>
+		</p>
+
+		<h3>符號調臺羅</h3>
+		<div class="row">
+			<textarea id="sign_blk" rows="5" style="width:100%; margin-top:.5em"></textarea>
+			<button onclick="sign2digit()" type="button" style="margin: auto;">轉換</button>
+		</div>
+
+		<h3>數字調臺羅</h3>
+		<div class="row">
+			<textarea id="digit_blk" rows="5" style="width:100%; margin-top:.5em" readonly></textarea>
+		</div>
+
+	</div>
+
+{% endblock %}
+
+{% block script %}
+	<script>
+	</script>
+{% endblock %}

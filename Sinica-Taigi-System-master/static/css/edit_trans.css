@@ -1,0 +1,101 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-header {
+    width: 100%;
+}
+
+.form-searchbar {
+    float: left;
+    /* margin-top: 10px; */
+    /* margin-right: 0px; */
+}
+
+.form-filter {
+    float: right;
+    /* margin-top: 10px; */
+    margin-right: 30%;
+}
+
+input[type=text] {
+    border: 1px solid #818181;
+    padding: 5px;
+}
+
+.table {
+    margin: auto;
+    width: 80%;
+}
+
+.td-content {
+    width: 70%;
+}
+
+.myrow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 20px 20px;
+}
+
+.highlight-row {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 126, 255, 0.77);
+}
+
+.col-first {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    /* padding-left: 70px; */
+}
+
+.subbtn {
+    display:block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid orange;
+    background: orange;
+    font-size: 14px;
+    color: white;
+    margin-bottom:5px;
+
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+}
+
+.btn-bulk-update {
+    display:block;
+    height: 90px;
+    width: 40px;
+    border-radius: 10%;
+    border: 1px solid #ad5ced;
+    background: #ad5ced;
+    font-size: 14px;
+    color: white;
+    margin-bottom:5px;
+    position: fixed; /* Fixed/sticky position */
+    bottom: 250px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+}
+
+.radio-input {
+    margin-left: 10px;
+}
+
+.btn-to-unchecked {
+    display:block;
+    height: 120px;
+    width: 40px;
+    border-radius: 10%;
+    border: 1px solid orange;
+    background: orange;
+    font-size: 14px;
+    color: white;
+    margin-bottom:5px;
+    position: fixed; /* Fixed/sticky position */
+    bottom: 100px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+}

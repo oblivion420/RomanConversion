@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block title %}List Drama{% endblock %}
+
+{% block content %}
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <table class="table" id="drama_table" style="width: 90%">
+                    <thead>
+                        <tr>
+                            <th scope="col">台語劇</th>
+                            <th scope="col">總時數（已檢查／可用）</th>
+                            <th scope="col">總句數（已檢查／可用）</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for drama in playlist %}
+                          {% if loop.index|string == "1" %}
+                            <tr style="border-bottom: solid lightblue;">
+                          {% else %}
+                            <tr>
+                          {% endif %}
+                                <th scope="row" class="drama-title" value="{{drama['id']}}">
+                                    {{drama["name"]}}
+                                    <span class="drama-id">{{drama['id']}}</span>
+                                </th>
+                                <td>{{drama["time"]+"（"+drama["checked_time"]+"／"+drama["usable_time"]+"）"}}</td>
+                                <td>{{drama["sent"]+"（"+drama["checked_sent"]+"／"+drama["usable_sent"]+"）"}}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div class="col" style="background: #c4d3f6; min-height: 625px;">
+                <input id="cur_drama_id" style="display: none">
+                <input id="cur_drama_name" style="display: none">
+                第<select id=pagelist name="pagelist" style="margin: 15px 10px;">
+
+                </select>頁
+                <table class="table" id="episode_table" style="float: right; margin-right: 30px">
+                    <thead>
+                        <tr>
+                            <th scope="col" style="text-align: center;">#</th>
+                            <th scope="col" style="text-align: center;">ID</th>
+                            <th scope="col" style="text-align: center;">總句數</th>
+                            <th scope="col" style="text-align: center;">已檢查句數</th>
+                            <th scope="col" style="text-align: center;">執行動作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="episode_table_body">
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block script %}
+<script>
+    var drama_table = document.getElementById("drama_table");
+    drama_table.addEventListener("click", changeEpiList, false);
+
+    var pagelist = document.getElementById("pagelist");
+    pagelist.addEventListener("change", changeEpiList, false);
+</script>
+{% endblock %}

@@ -1,0 +1,26 @@
+.drama-title {
+    color: #0366d6;
+    text-decoration: underline;
+    position: relative;
+    display: inline-block;
+}
+
+.drama-title .drama-id {
+    visibility: hidden;
+    left: 105%;
+    width: 300px;
+    background-color: #64daed;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    font-family: monospace;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.drama-title:hover .drama-id {
+    visibility: visible;
+}
