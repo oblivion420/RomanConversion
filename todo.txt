@@ -1,0 +1,9 @@
+bong報載下來先(local)
+同音->output list(人工加)
+用詞去search；dash
+(轉換去output)
+TRS 本來就切一段一段 準備愛用ARS 要怎樣切一段一段
+SQL
+
+
+

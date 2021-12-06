@@ -42,13 +42,15 @@ def get_all_urls():
     url_list = []  # create a list
     for url in urls:
         try:
-            if re.search('https:\/\/tsbp.tgb.org.tw\/\d+\/\d+\/\S+', url.get("href")):  
+            # if re.search('https:\/\/tsbp.tgb.org.tw\/\d+\/\d+\/\S+', url.get("href")):  
+            if re.search('https:\/\/tsbp.tgb.org.tw\/search\/label\/\S+', url.get("href")):  
+
                 # append each URL to the list
                 url_list.append(url.get("href"))
         except:
             pass
 
-    return url_list
+    return url_list 
 
 
 def get_article(url):
@@ -60,6 +62,7 @@ def get_article(url):
     article = ''
     for temp in content:
         article += temp.getText() + '\n'
+          
     
     return article
 
@@ -79,17 +82,23 @@ def do_convert(article):
 
 '''執行'''
 article_list = []
-urls_list = get_all_urls()[13:14]  # 取得所有 URL
+urls_list = get_all_urls()[0:500]  # 取得所有 URL
 for url in urls_list:
     article = get_article(url)
+
     if article:
         article_list.append(article)
 
+text_file = open("OriginalArticles.txt", "w", encoding= 'utf-8')
+
 for article in article_list:
+    text_file.write(article)
     new_article = do_convert(article)
+
 
     '''印出原版及轉換後的版本做比較'''
     for o , n in zip(article.split('\n'), new_article.split('\n')):
         print(o)
         print(n)
         print('')
+text_file.close()
