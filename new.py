@@ -68,7 +68,7 @@ def build_mapping_table():
 
 '''轉換'''
 
-alpha2zh = build_mapping_table()
+# alpha2zh = build_mapping_table()
 alpha2zh = {"hit4-tsun7" : "彼陣", "e5" : "的"}
 
 def do_convert(article):

@@ -43,10 +43,15 @@ def get_all_urls():
     for url in urls:
         try:
             # if re.search('https:\/\/tsbp.tgb.org.tw\/\d+\/\d+\/\S+', url.get("href")):  
-            if re.search('https:\/\/tsbp.tgb.org.tw\/search\/label\/\S+', url.get("href")):  
+            if re.search('https:\/\/tsbp.tgb.org.tw\/\d+\/\d+\/\S+', url.get("href")) or re.search('https:\/\/tsbp.tgb.org.tw\/search\/label\/\S+', url.get("href")) or re.search('https:\/\/tsbp.tgb.org.tw\/\d+\/\d+\/\S+\.html', url.get("href")):  
+            # if re.search ('https:\/\/tsbp.tgb.org.tw\/\d+\/\d+\/\S+', url.get("href")) :
+                    #  url_list.append(url.get("href"))
+            # elif re.search('https:\/\/tsbp.tgb.org.tw\/search\/label\/\S+', url.get("href")):
+                     url_list.append(url.get("href"))
+            # elif re.search('https:\/\/tsbp.tgb.org.tw\/\d+\/\d+\/\S+\.html', url.get("href")):
 
                 # append each URL to the list
-                url_list.append(url.get("href"))
+                    # url_list.append(url.get("href"))
         except:
             pass
 
@@ -57,17 +62,28 @@ def get_article(url):
     '''爬網址的文章''' 
     response = requests.get(url)
     soup = BeautifulSoup(response.text,"html.parser")
-    content = soup.find_all("span", style="font-family: inherit; font-size: medium;")
+    content = soup.find_all(text=True)
+    # content.append(soup.find_all("span", style="font-family: arial  , helvetica , sans-serif;" ))
+    # content.append(soup.find_all("span", face=" arial  , helvetica , sans-serif ; style = font-size: xx-small;"))
+    # content.append(soup.find_all("span", style="font-family: arial"))
+    # content_list = []
+    # content_list.append(soup.find_all("span", style="font-family: inherit; font-size: medium;" ))
+    # content_list.append(soup.find_all("span", style="font-family: arial  , helvetica , sans-serif;" ))
+    # content_list.append(soup.find_all("span", face=" arial  , helvetica , sans-serif ; style = font-size: xx-small;" ))
+    # content_list.append(soup.find_all("span", style="font-family: arial" ))
+
 
     article = ''
     for temp in content:
         article += temp.getText() + '\n'
-          
+    # for content in content_list:
+        # for temp in content:    
+            # article += temp.getText() + '\n'
     
     return article
 
 '''轉換'''
-alpha2zh = build_mapping_table()
+'''alpha2zh = build_mapping_table()
 def do_convert(article):
     shift = 0
     for match in RE_LATIN.finditer(article):
@@ -78,27 +94,32 @@ def do_convert(article):
             article = article[0:start_idx-shift] + alpha2zh[phonetic] + article[end_idx-shift:]
             shift += end_idx - start_idx - 1
 
-    return article
+    return article'''
 
 '''執行'''
 article_list = []
+# file_list = []
 urls_list = get_all_urls()[0:500]  # 取得所有 URL
 for url in urls_list:
     article = get_article(url)
+    # with open("file_list.txt","w",encoding='utf-8') as f:
+        # f.write(article)
 
+    # file_list.append.split("")
+    # f.close()
     if article:
         article_list.append(article)
 
-text_file = open("OriginalArticles.txt", "w", encoding= 'utf-8')
+text_file = open("Original_All_Text.txt", "w", encoding= 'utf-8')
 
 for article in article_list:
     text_file.write(article)
-    new_article = do_convert(article)
+    # new_article = do_convert(article)
 
 
     '''印出原版及轉換後的版本做比較'''
-    for o , n in zip(article.split('\n'), new_article.split('\n')):
-        print(o)
-        print(n)
-        print('')
+    # for o , n in zip(article.split('\n'), new_article.split('\n')):
+        # print(o)
+        # print(n)
+        # print('')
 text_file.close()

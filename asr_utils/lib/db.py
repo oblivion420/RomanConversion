@@ -19,7 +19,7 @@ class DB():
     def select(self, table, retrieve_str="*", condition_str="1"):
         with self.conn.cursor() as cursor:
             sql = "SELECT %s FROM %s WHERE %s" % (retrieve_str, table, condition_str)
-
+            '''SELECT 漢字 FROM standard_dictionary WHERE `TL-標準` = "hit4-tsun7"'''
             try:
                 cursor.execute(sql)
                 results = cursor.fetchall()
