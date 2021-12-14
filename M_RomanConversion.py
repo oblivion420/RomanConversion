@@ -8,9 +8,9 @@ import re
 
 
 # 取得羅馬字
-RE_LATIN = re.compile(r'[A-zÀ-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿa̍ám̄]+')
+RE_LATIN = re.compile(r'[A-zÀ-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿa̍ám̄\-]+')
 # 取非羅馬字
-RE_NON_LATIN = re.compile(r'[^[A-zÀ-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿa̍ám̄]')
+RE_NON_LATIN = re.compile(r'[^[A-zÀ-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿa̍ám̄\-]')
 
 def build_mapping_table():
     df = pd.read_excel("table.xlsx")
@@ -110,7 +110,7 @@ def do_convert(article):
     return article
 
 '''執行'''
-
+'''
 # seach_url()
 c= 0
 with open("tsbp_url.txt", "r") as r_f:
@@ -122,12 +122,21 @@ with open("tsbp_url.txt", "r") as r_f:
         with open("output/"+str(c)+".txt", "w", encoding='utf-8') as txt_f:
             txt_f.write(str(article))
         
-
-
+'''
+# seach_url()
+c= 0
+with open("tsbp_url.txt", "r") as r_f:
+    for line in r_f:
+        c+=1
+        line=(line.strip().split()[0])
+        article = get_article(line)
+        new_article = do_convert(article)
+        with open("outputNEW/"+str(c)+".txt", "w", encoding='utf-8') as txt_f:
+            txt_f.write(str(new_article))
     
-
-    # if article:
-    #     article_list.append(article)
+# modify from here
+# if article:
+  # article_list.append(article)
 
 # text_file = open("OriginalArticles.txt", "w", encoding= 'utf-8')
 
