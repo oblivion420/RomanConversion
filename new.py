@@ -1,36 +1,35 @@
 from bs4 import BeautifulSoup
 import requests
-import math
 '''import pymysql'''
 import pandas as pd
 import re
 # import syl_trans
 from syl_trans import *
 
-
 # 取得羅馬字
 RE_LATIN = re.compile(r'[A-zÀ-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿa̍ám̄\-]+')
 # 取非羅馬字
 RE_NON_LATIN = re.compile(r'[^[A-zÀ-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿa̍ám̄\-]')
 
+
 def build_mapping_table():
-    df_excel = pd.read_excel("table.xlsx")
-    # df_csv = pd.read_csv("standard_dictionary.csv")
+    df_csv = pd.read_csv("standard_dictionary.csv")
 
     alpha2zh = {}
-    for phonetic, rec, edu_rec in zip(df_excel['音讀'], df_excel['建議用字'], df_excel['教育部推薦漢字']):
+    # for phonetic, rec, edu_rec in zip(df_excel['音讀'], df_excel['建議用字'], df_excel['教育部推薦漢字']):
         # 空值為 float('nan')
+    for phonetic, kanji in zip(df_csv['TL-標準'], df_csv['漢字']):    
         if type(phonetic) is not float and RE_LATIN.match(str(phonetic)):
             phonetic = str(phonetic).lower()
-        elif type(rec) is not float and RE_LATIN.match(str(rec)):
-            phonetic = str(rec).lower()
+        elif type(kanji) is not float and RE_LATIN.match(str(kanji)):
+            phonetic = str(kanji).lower()
         else:
             continue
 
-        if RE_NON_LATIN.match(str(rec)):  # 使用建議用字
-            alpha2zh[phonetic] = str(rec)
-        elif RE_NON_LATIN.match(str(edu_rec)):  # 使用教育部推薦漢字
-            alpha2zh[phonetic] = str(edu_rec)
+        if RE_NON_LATIN.match(str(kanji)):  # 用漢字欄
+            alpha2zh[phonetic] = str(kanji)
+        # elif RE_NON_LATIN.match(str(kanji)):  # 使用教育部推薦漢字
+            # alpha2zh[phonetic] = str(kanji)
 
     return alpha2zh
 
@@ -68,8 +67,8 @@ def build_mapping_table():
 
 '''轉換'''
 
-# alpha2zh = build_mapping_table()
-alpha2zh = {"hit4-tsun7" : "彼陣", "e5" : "的"}
+alpha2zh = build_mapping_table()
+# alpha2zh = {"hit4-tsun7" : "彼陣", "e5" : "的"}
 
 def do_convert(article):
     shift = 0
@@ -84,32 +83,21 @@ def do_convert(article):
 
     return article
 '''換database search去select line78 if phonetic in alpha2zh: '''
-'''執行'''
-lines = ["我是台大醫科ê學生，讀冊hit-tsūn對做醫生並無特別"]
-# file = open('test.txt', encoding="big5") as f 
-# with open('test.txt', encoding="utf-8") as f:
-    # lines = f.readlines()
-'''
-count = 0
-for line in lines:
-    count += 1
-    print(f'line {count}: {line}')    '''
-# urls_list = get_all_urls()[13:14]  # 取得所有 URL
 
+# lines = ["我是台大醫科ê學生，讀冊hit-tsūn對做醫生並無特別"]
+lines = ["m̄-koh尪姨uì頭到尾lóng teh kap祖靈溝通對話，是一个神聖ê khang-khuè，bē-sái kā伊攪擾，所以無法度請教伊相關ê細節。M̄-koh，阮感受著伊是阿姆祖kap族人中間穿針引線ê人。Tī嘉臘埔，阿姆祖kap尪姨是Makatao族人ê精神寄託。"]
+
+# urls_list = get_all_urls()[13:14]  # 取得所有 URL
 # for url in urls_list:
     # article = get_article(url)
     # if article:
         # article_list.append(article)
-out = open('outfile.txt', 'w', encoding= 'utf-8')
 for article in lines:
     new_article = do_convert(article)
 
     '''印出原版及轉換後的版本做比較'''
 
     for o , n in zip(article.split('\n'), new_article.split('\n')):
-        out.writelines(o + '\n')
-        out.writelines(n + '\n')
-        out.writelines(''+ '\n')
 
         print(o)
         print(n)
