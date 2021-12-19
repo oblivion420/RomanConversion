@@ -1,12 +1,13 @@
 import pandas as pd
 import re
-# import syl_trans
+import syl_trans
 from syl_trans import *
 
 # 取得羅馬字
 RE_LATIN = re.compile(r'[A-zÀ-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿa̍ám̄\-]+')
 # 取非羅馬字
 RE_NON_LATIN = re.compile(r'[^[A-zÀ-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿa̍ám̄\-]')
+
 tone_dict = {'á': ['a', '2'], 'à': ['a', '3'], 'â': ['a', '5'], 'ā': ['a', '7'], 'a̍': ['a', '8'], 'a̋': ['a', '9'],
             'Á': ['A', '2'], 'À': ['A', '3'], 'Â': ['A', '5'], 'Ā': ['A', '7'], 'A̍': ['A', '8'], 'A̋': ['A', '9'],
             'é': ['e', '2'], 'è': ['e', '3'], 'ê': ['e', '5'], 'ē': ['e', '7'], 'e̍': ['e', '8'], 'e̋': ['e', '9'],
@@ -21,57 +22,74 @@ tone_dict = {'á': ['a', '2'], 'à': ['a', '3'], 'â': ['a', '5'], 'ā': ['a', '
             'Ḿ': ['M', '2'], 'M̀': ['M', '3'], 'M̂': ['M', '5'], 'M̄': ['M', '7'], 'M̍': ['M', '8'], 'M̋': ['M', '9'],
             'ń': ['n', '2'], 'ǹ': ['n', '3'], 'n̂': ['n', '5'], 'n̄': ['n', '7'], 'n̍': ['n', '8'], 'n̋': ['n', '9'],
             'Ń': ['N', '2'], 'Ǹ': ['N', '3'], 'N̂': ['N', '5'], 'N̄': ['N', '7'], 'N̍': ['N', '8'], 'N̋': ['N', '9']}
+#lines = ["m̄-koh尪姨uì頭到尾lóng teh kap祖靈溝通對話，是一个神聖ê khang-khuè，bē-sái kā伊攪擾，所以無法度請教伊相關ê細節。M̄-koh，阮感受著伊是阿姆祖kap族人中間穿針引線ê人。Tī嘉臘埔，阿姆祖kap尪姨是Makatao族人ê精神寄託。"]
+#def mapping_table():
+#        # alpha2zh = {}
+#
+#    for phonetic, kanji in tone_dict.items:    
+#        if type(phonetic) is not float and RE_LATIN.match(str(phonetic)):
+#            phonetic = str(phonetic).lower()
+#        elif type(kanji) is not float and RE_LATIN.match(str(kanji)):
+#            phonetic = str(kanji).lower()
+#        else:
+#            continue
+#
+#        if RE_NON_LATIN.match(str(kanji)): 
+#            lines[phonetic] = str(kanji)
+#    return mapping_table
 
-def mapping_table():
-    trans = {}
 
-    for phonetic in tone_dict:    
-        if type(phonetic) is not float and RE_LATIN.match(str(phonetic)):
-            phonetic = str(phonetic).lower()
-           
-        # elif type(kanji) is not float and RE_LATIN.match(str(kanji)):
-            # phonetic = str(kanji).lower()
+#for match in RE_LATIN.finditer(str(lines)):
+#        phonetic = match.group(0).lower()
+#        phonetic = syl_trans(phon
+# 0etic)
+#        print(phonetic)
+#        
+str = "磕一ti̍oh chhùi-o͘ bīn-thó͘"
+
+
+sign = ['，', '。']
+t_str = []
+type = []
+seg_label=[]
+seg_temp = ""
+seg = []
+#社每character的label 漢字、拉丁字母、標點符號
+for i in range(len(str)):
+    if not (u'\u4e00' <= str[i] <= u'\u9fff'):
+        if str[i] in sign:
+            type.append("S")
         else:
-            continue
+            type.append("L")
+    else:
+        type.append('H')
+type.append('E')
+# print(type)        
 
-        # if RE_NON_LATIN.match(str(kanji)): 
-            # lines[phonetic] = str(phonetic)
-            # kanji=kanji
-
-    return trans
-
-trans=mapping_table()
-'''def convert(article):
-    shift = 0
-    for match in RE_LATIN.finditer(article):
-        phonetic = match.group(0).lower()
-        phonetic = syl_trans(phonetic)
-        print(phonetic + '\n')
-        start_idx, end_idx = match.span(0)
-        if phonetic in trans:                                                                               
-            article = article[0:start_idx-shift] + trans[phonetic] + article[end_idx-shift:] 
-            shift += end_idx - start_idx - 1
-
-    return article
-'''
-
-lines = ["秋季稻仔割了後，tsit站仔，tng-leh準備後期beh種作ê穡頭，所以ài先thà園。二公--a，戴竹笠、褪赤跤，倒手攑藤條，正手扶牛犁，準備beh犁田。阮kap小弟三个人，行tī二公--a ê後壁，手lóng提一个鐵罐仔，三个囡仔lóng無穿鞋，tuè tī二公--a牛犁ê kha-tshng後，就是beh來khioh鰗鰡。
-"]
-
-    
-# for match in RE_LATIN.finditer(str(lines)):
+#str 分成漢字段與非漢字段與標點符號
+for i in range(len(str)):
+    c_label = type[i]
+    f_label = type[i+1]
+    seg_temp = seg_temp + str[i]
+    if c_label != f_label:
+        seg.append(seg_temp)
+        seg_temp = ""
+        seg_label.append(type[i])
+# print(seg_label)
+# print(seg)
+# 產生漢羅字串
+for i in range(len(seg)):
+    if (seg_label[i] == 'H') or (seg_label[i] == 'S') :
+        # print(seg[i])
+        for j in range(len(seg[i])):
+            t_str.append(seg[i][j])
+            
+    elif seg_label[i] == 'L':
+        seg_sp = seg[i].split(' ')
+        print(seg_sp)
+        # mine
+        seg_sp=syl_trans(seg[i]) 
         
-        # phonetic = match.group(0).lower()
-        # phonetic = syl_trans(phonetic)
-        # print(lines)
-        
-# for article in lines:
-# if RE_NON_LATIN: 
-new_article = syl_trans(lines) 
-print(new_article)
-
-    # elif type(article) is not float and RE_LATIN.match(str(article)):
-        # new_article2 = syl_trans(article)
-        # print (new_article2)
-
-
+        for k in range(len(seg_sp)):
+            t_str.append(seg_sp[k])
+print('' .join(t_str))
