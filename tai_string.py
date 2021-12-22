@@ -45,51 +45,58 @@ tone_dict = {'á': ['a', '2'], 'à': ['a', '3'], 'â': ['a', '5'], 'ā': ['a', '
 # 0etic)
 #        print(phonetic)
 #        
-str = "磕一ti̍oh chhùi-o͘ bīn-thó͘"
+# str = "磕一ti̍oh chhùi-o͘ bīn-thó͘"  
+# str = "bē記得我小學ê時tsūn看--ê是佗一个版本ê《小王子》--ah，m̄-koh每一个版本ê封面lóng有寫hit句：「真正重要ê mi̍h件是用目睭看bē著--ê。」"	
+def PojNumTrans (str): 
 
-
-sign = ['，', '。']
-t_str = []
-type = []
-seg_label=[]
-seg_temp = ""
-seg = []
-#社每character的label 漢字、拉丁字母、標點符號
-for i in range(len(str)):
-    if not (u'\u4e00' <= str[i] <= u'\u9fff'):
-        if str[i] in sign:
-            type.append("S")
+    sign = ['，', '。',' ','《','》','：','「','」']
+    t_str = []
+    type = []
+    seg_label=[]
+    seg_temp = ""
+    seg = []
+    #社每character的label 漢字、拉丁字母、標點符號
+    for i in range(len(str)):
+        if not (u'\u4e00' <= str[i] <= u'\u9fff'):
+            if str[i] in sign:
+                type.append("S")
+            else:
+                type.append("L")
         else:
-            type.append("L")
-    else:
-        type.append('H')
-type.append('E')
-# print(type)        
+            type.append('H')
+    type.append('E')
+    # print(type)        
 
-#str 分成漢字段與非漢字段與標點符號
-for i in range(len(str)):
-    c_label = type[i]
-    f_label = type[i+1]
-    seg_temp = seg_temp + str[i]
-    if c_label != f_label:
-        seg.append(seg_temp)
-        seg_temp = ""
-        seg_label.append(type[i])
-# print(seg_label)
-# print(seg)
-# 產生漢羅字串
-for i in range(len(seg)):
-    if (seg_label[i] == 'H') or (seg_label[i] == 'S') :
-        # print(seg[i])
-        for j in range(len(seg[i])):
-            t_str.append(seg[i][j])
+    #str 分成漢字段與非漢字段與標點符號
+    for i in range(len(str)):
+        c_label = type[i]
+        f_label = type[i+1]
+        seg_temp = seg_temp + str[i]
+        if c_label != f_label:
+            seg.append(seg_temp)
+            seg_temp = ""
+            seg_label.append(type[i])
+    print(seg_label)
+    print(seg)
+    # 產生漢羅字串
+
+
+
+    for i in range(len(seg)):
+        if (seg_label[i] == 'H') or (seg_label[i] == 'S') :
+            # print(seg[i])
+            for j in range(len(seg[i])):
+                t_str.append(seg[i][j])
+                
+        elif seg_label[i] == 'L':
+            seg_sp = seg[i].split(' ')
+            # print(seg_sp)
+            # mine
+            seg_sp=trans_poj2tailo(syl_trans(seg[i])) 
             
-    elif seg_label[i] == 'L':
-        seg_sp = seg[i].split(' ')
-        print(seg_sp)
-        # mine
-        seg_sp=syl_trans(seg[i]) 
-        
-        for k in range(len(seg_sp)):
-            t_str.append(seg_sp[k])
-print('' .join(t_str))
+            for k in range(len(seg_sp)):
+                t_str.append(seg_sp[k])
+    # print('' .join(t_str))
+    return ''.join(t_str)
+    # return (t_str)
+

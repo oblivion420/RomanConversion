@@ -55,8 +55,7 @@ trans=mapping_table()
     return article
 '''
 
-lines = ["秋季稻仔割了後，tsit站仔，tng-leh準備後期beh種作ê穡頭，所以ài先thà園。二公--a，戴竹笠、褪赤跤，倒手攑藤條，正手扶牛犁，準備beh犁田。阮kap小弟三个人，行tī二公--a ê後壁，手lóng提一个鐵罐仔，三个囡仔lóng無穿鞋，tuè tī二公--a牛犁ê kha-tshng後，就是beh來khioh鰗鰡。
-"]
+lines = ["m̄-koh尪姨uì頭到尾lóng teh kap祖靈溝通對話，是一个神聖ê khang-khuè，bē-sái kā伊攪擾，所以無法度請教伊相關ê細節。M̄-koh，阮感受著伊是阿姆祖kap族人中間穿針引線ê人。 Tī嘉臘埔，阿姆祖kap尪姨是 Makatao 族人ê精神寄託。"]
 
     
 # for match in RE_LATIN.finditer(str(lines)):
