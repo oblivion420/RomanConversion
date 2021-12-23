@@ -52,6 +52,8 @@ def build_mapping_table():
 
         if RE_NON_LATIN.match(str(kanji)):  # 用漢字欄
             alpha2zh[phonetic] = str(kanji)
+            # alpha2zh[phonetic].append(str(kanji))
+            # [幹 ,淦 ,旰 ,ㄍㄢˋ]
         # elif RE_NON_LATIN.match(str(kanji)):  # 使用教育部推薦漢字
             # alpha2zh[phonetic] = str(kanji)
 
@@ -89,62 +91,62 @@ def build_mapping_table():
     
     return article
     # Max to str (article)
-# def get_sub_urls(url_):
+def get_sub_urls(url_):
 
-#     response = requests.get(url_)
-#     soup = BeautifulSoup(response.text,"html.parser")
-#     urls = soup.find_all("h3", class_='post-title entry-title')
+    response = requests.get(url_)
+    soup = BeautifulSoup(response.text,"html.parser")
+    urls = soup.find_all("h3", class_='post-title entry-title')
 
     
-#     url_list = {}
-#     for url in urls:
-#         try:
-#             url_list[(url.a.get("href"))]=0
-#         except:
-#             pass
-#     return url_list
+    url_list = {}
+    for url in urls:
+        try:
+            url_list[(url.a.get("href"))]=0
+        except:
+            pass
+    return url_list
 
-# def get_all_urls(main_html):
-#     '''爬網址'''
-#     response = requests.get(main_html) 
-#     soup = BeautifulSoup(response.text,"html.parser")
-#     urls = soup.find_all("a", dir='ltr')
-#     # '''反斜線判斷斜線 \d是指數字 不是字母d 正斜線=網址中的斜線'''
-#     url_list = []  # create a list
-#     all_url_list = {}
-#     for url in urls:
-#         url = (url.get("href"))
-#         url = unquote(url, "utf-8")
-#         url_list.append(url)
-#         all_url_list.update(get_sub_urls(url))
+def get_all_urls(main_html):
+    '''爬網址'''
+    response = requests.get(main_html) 
+    soup = BeautifulSoup(response.text,"html.parser")
+    urls = soup.find_all("a", dir='ltr')
+    # '''反斜線判斷斜線 \d是指數字 不是字母d 正斜線=網址中的斜線'''
+    url_list = []  # create a list
+    all_url_list = {}
+    for url in urls:
+        url = (url.get("href"))
+        url = unquote(url, "utf-8")
+        url_list.append(url)
+        all_url_list.update(get_sub_urls(url))
 
-#     return [url_list, (all_url_list.keys())]
+    return [url_list, (all_url_list.keys())]
 
-# def seach_url():
-#     html = "https://tsbp.tgb.org.tw/"
-#     [url_list, all_url_list] = get_all_urls(main_html)  # 取得所有 URL
-#     with open("tsbp_url.txt", "w") as url_f:
-#         for url in all_url_list:
-#             url = unquote(url, "utf-8")
-#             url_f.write(url+"\n")
+def seach_url():
+    html = "https://tsbp.tgb.org.tw/"
+    [url_list, all_url_list] = get_all_urls(main_html)  # 取得所有 URL
+    with open("tsbp_url.txt", "w") as url_f:
+        for url in all_url_list:
+            url = unquote(url, "utf-8")
+            url_f.write(url+"\n")
            
 
-# def get_article(url):
-#     print(url)
+def get_article(url):
+    print(url)
 
-#     '''爬網址的文章''' 
-#     response = requests.get(url)
-#     soup = BeautifulSoup(response.text,"html.parser")
-#     content = soup.find_all("div", style="text-align: justify;",)
-#     content += soup.find_all("div", class_='post-body entry-content')
-#     content += soup.find_all("span", style="font-family: inherit;")
+    '''爬網址的文章''' 
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text,"html.parser")
+    content = soup.find_all("div", style="text-align: justify;",)
+    content += soup.find_all("div", class_='post-body entry-content')
+    content += soup.find_all("span", style="font-family: inherit;")
 
-#     title_ = soup.title.string.strip()
+    title_ = soup.title.string.strip()
 
-#     article = title_+'\n'
-#     for temp in content:
-#         article += (temp.getText().strip()) + '\n'
-#     return str(article)
+    article = title_+'\n'
+    for temp in content:
+        article += (temp.getText().strip()) + '\n'
+    return str(article)
 
 
 
@@ -159,6 +161,8 @@ def do_convert(article):
     for match in RE_LATIN.finditer(article):
         phonetic = match.group(0).lower()
         start_idx, end_idx = match.span(0)
+        # kan2 -> [幹]  one element
+        # if phonetic in alpha2zh and len(alpha2zh[phonetic])==1:
         if phonetic in alpha2zh:
             converted_list.append(article[last_e_idx: start_idx])
             converted_list.append(alpha2zh[phonetic])
@@ -183,9 +187,10 @@ def do_convert(article):
 # lines = ["我是台大醫科ê學生，讀冊hit-tsūn對做醫生並無特別"]
 # lines = ["m̄-koh尪姨uì頭到尾lóng teh kap祖靈溝通對話，是一个神聖ê khang-khuè，bē-sái kā伊攪擾，所以無法度請教伊相關ê細節。M̄-koh，阮感受著伊是阿姆祖kap族人中間穿針引線ê人。Tī嘉臘埔，阿姆祖kap尪姨是Makatao族人ê精神寄託。"]
 # lines = ["Hiâⁿ-hóe sī kôaⁿ-thiⁿ--lâng siōng un-loán ê tāi-chì. Hóe tiám to̍h liáu-āu, kā tōa-kho͘ chhâ lok tī hóe-lô͘ lāi-té, hō͘ ûn-ûn-á sio, m̄-koh ài chim-chiok î-chhî chit pha hóe mài hoa--khì. Chē tī hóe-lô͘-á piⁿ phah tiān-náu, kám-kak chiok un-loán. Thiaⁿ-tio̍h chiáu-á siaⁿ , hong chhoe chhiū-hio̍h-á ê siaⁿ, sam-put-gō͘-sî-á thiaⁿ-tio̍h ke thî, káu pūi."]
-str = "bē記得我小學ê時tsūn看--ê是佗一个版本ê《小王子》--ah，m̄-koh每一个版本ê封面lóng有寫hit句：「真正重要ê mi̍h件是用目睭看bē著--ê。」"
-new_article = PojNumTrans(str)
-print(new_article)
+# str = "bē記得我小學ê時tsūn看--ê是佗一个版本ê《小王子》--ah，m̄-koh每一个版本ê封面lóng有寫hit句：「真正重要ê mi̍h件是用目睭看bē著--ê。」"
+# new_article = PojNumTrans(str)
+# print(new_article)
+
 # urls_list = get_all_urls()[13:14]  # 取得所有 URL
 # for url in urls_list:
     # article = get_article(url)
@@ -204,14 +209,14 @@ print(new_article)
 #         print(n)
 #         print('')
 # max
-# c= 0
-# with open("tsbp_url.txt", "r") as r_f:
-#     for line in r_f:
-#         c+=1
-#         line=(line.strip().split()[0])
-#         article = get_article(line)
-#         new_article = PojNumTrans(article)
-#         # new_article = (article)
+c= 0
+with open("tsbp_url.txt", "r") as r_f:
+    for line in r_f:
+        c+=1
+        line=(line.strip().split()[0])
+        article = get_article(line)
+        new_article = PojNumTrans(article)
+        # new_article = (article)
 
-#         with open("TransToNum/"+str(c)+".txt", "w", encoding='utf-8') as txt_f:
-#             txt_f.write(str(new_article))
+        with open("TransToNum/"+str(c)+".txt", "w", encoding='utf-8') as txt_f:
+            txt_f.write(str(new_article))
