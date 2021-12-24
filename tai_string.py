@@ -49,7 +49,7 @@ tone_dict = {'á': ['a', '2'], 'à': ['a', '3'], 'â': ['a', '5'], 'ā': ['a', '
 # str = "bē記得我小學ê時tsūn看--ê是佗一个版本ê《小王子》--ah，m̄-koh每一个版本ê封面lóng有寫hit句：「真正重要ê mi̍h件是用目睭看bē著--ê。」"	
 def PojNumTrans (str): 
 
-    sign = ['，', '。',' ','《','》','：','「','」','\n']
+    sign = ['-','--','，', '。',' ','《','》','：','「','」','\n']
 
     t_str = []
     type = []
@@ -77,8 +77,8 @@ def PojNumTrans (str):
             seg.append(seg_temp)
             seg_temp = ""
             seg_label.append(type[i])
-    print(seg_label)
-    print(seg)
+    # print(seg_label)
+    # print(seg)
     # 產生漢羅字串
 
 
